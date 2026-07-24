@@ -1,0 +1,1501 @@
+Crop,District,Soil,Rainfall,Temperature,Humidity,N,P,K,pH,Season,Irrigation,Yield
+Cotton,Vadodara,Red,1635.6,28.2,68.0,75.1,36.7,30.0,7.45,Kharif,Sprinkler,3.51
+Barley,Amreli,Alluvial,450.9,16.3,58.4,71.8,33.3,79.2,5.92,Rabi,Rainfed,4.51
+Cotton,Junagadh,Red,1519.9,30.3,66.4,92.9,23.6,21.8,8.35,Kharif,Rainfed,2.85
+Cotton,Junagadh,Sandy,1493.2,22.5,92.3,51.1,63.0,47.7,7.06,Kharif,Rainfed,2.62
+Wheat,Junagadh,Clay,776.3,25.2,71.3,91.7,83.7,24.3,6.09,Rabi,Canal,5.09
+Soybean,Ahmedabad,Clay,1368.7,26.5,59.7,55.6,23.2,16.6,6.77,Kharif,Canal,3.18
+Rice,Junagadh,Red,1795.9,33.1,83.2,131.2,62.1,111.1,8.05,Kharif,Drip,4.58
+Barley,Vadodara,Red,700.7,24.4,56.5,34.4,67.1,94.9,7.18,Rabi,Rainfed,4.17
+Barley,Bhavnagar,Red,740.9,13.6,55.4,44.2,81.7,64.9,7.19,Rabi,Drip,4.29
+Soybean,Bhavnagar,Red,705.9,19.1,60.1,39.3,84.4,99.9,7.4,Kharif,Sprinkler,3.19
+Barley,Junagadh,Sandy,452.6,24.5,58.9,116.9,81.7,48.4,5.83,Rabi,Rainfed,3.84
+Cotton,Vadodara,Black,809.7,29.2,77.5,46.7,19.6,50.4,8.33,Kharif,Tube Well,3.05
+Barley,Rajkot,Sandy,385.7,15.6,48.6,103.6,67.0,30.5,8.49,Rabi,Drip,3.91
+Rice,Rajkot,Red,1543.3,28.3,81.6,91.1,16.5,53.8,6.23,Summer,Canal,5.4
+Barley,Vadodara,Sandy,698.4,19.5,43.2,120.2,35.7,34.6,5.62,Rabi,Canal,4.73
+Maize,Ahmedabad,Red,813.8,19.3,82.9,67.7,51.4,103.0,7.53,Kharif,Tube Well,4.97
+Rice,Rajkot,Alluvial,1161.1,31.2,89.5,86.6,52.4,40.4,5.78,Kharif,Canal,5.58
+Maize,Surat,Red,1077.8,19.2,55.7,127.8,58.5,16.0,5.8,Rabi,Drip,4.89
+Maize,Rajkot,Clay,937.1,24.3,84.8,41.1,11.4,66.9,6.04,Rabi,Canal,5.78
+Maize,Rajkot,Black,957.9,26.9,58.8,90.8,88.3,66.1,8.22,Rabi,Rainfed,5.58
+Maize,Ahmedabad,Clay,1019.2,24.9,56.8,106.7,32.5,17.6,7.44,Rabi,Drip,5.85
+Soybean,Bhavnagar,Red,1267.7,22.1,63.5,122.1,35.4,32.8,7.17,Kharif,Rainfed,2.96
+Barley,Ahmedabad,Red,688.3,25.9,44.9,82.2,80.2,92.8,7.59,Rabi,Canal,4.31
+Soybean,Ahmedabad,Alluvial,730.6,26.6,52.9,20.6,60.2,35.4,5.71,Kharif,Tube Well,4.47
+Barley,Amreli,Sandy,535.9,17.3,43.3,89.4,12.9,63.9,7.13,Rabi,Tube Well,4.42
+Barley,Rajkot,Sandy,802.4,17.0,44.4,82.7,71.6,37.7,7.37,Rabi,Canal,4.16
+Cotton,Amreli,Clay,1375.9,31.8,69.2,35.9,87.6,90.0,5.62,Kharif,Rainfed,3.03
+Wheat,Bhavnagar,Alluvial,451.4,13.1,55.0,102.6,14.7,111.1,6.83,Rabi,Sprinkler,4.57
+Barley,Amreli,Black,504.0,25.4,65.8,86.5,58.9,59.1,6.24,Rabi,Sprinkler,4.96
+Rice,Vadodara,Sandy,1236.0,35.7,70.3,22.1,71.1,99.7,6.54,Kharif,Drip,4.36
+Barley,Amreli,Clay,688.7,20.9,41.6,65.0,60.1,67.8,8.07,Rabi,Canal,4.66
+Wheat,Rajkot,Sandy,790.5,21.5,60.1,35.4,74.9,101.2,7.38,Rabi,Tube Well,4.88
+Rice,Rajkot,Alluvial,1183.5,25.0,76.3,24.7,59.5,50.3,7.47,Kharif,Rainfed,5.63
+Barley,Ahmedabad,Red,622.8,21.7,52.2,132.4,13.1,58.9,8.4,Rabi,Drip,4.49
+Cotton,Ahmedabad,Clay,1595.9,30.1,86.9,35.3,30.0,76.0,8.1,Kharif,Drip,3.2
+Soybean,Bhavnagar,Black,592.8,30.6,67.7,119.2,35.6,109.0,6.67,Kharif,Tube Well,4.65
+Cotton,Vadodara,Black,927.8,26.5,93.5,134.1,55.9,81.3,6.85,Kharif,Tube Well,4.02
+Maize,Vadodara,Sandy,602.1,31.0,84.1,139.5,14.5,92.4,7.14,Kharif,Drip,5.59
+Maize,Ahmedabad,Sandy,1253.3,30.1,79.3,71.1,27.8,56.6,8.18,Kharif,Canal,4.68
+Barley,Surat,Clay,834.2,15.3,71.8,91.0,38.0,89.4,6.95,Rabi,Drip,4.66
+Cotton,Amreli,Red,2068.9,23.6,79.8,21.4,47.5,20.9,5.86,Kharif,Canal,1.84
+Rice,Surat,Clay,1324.8,26.0,91.1,46.8,87.1,16.3,8.41,Summer,Drip,5.25
+Soybean,Bhavnagar,Clay,1393.7,19.0,69.4,136.3,51.8,81.1,7.59,Kharif,Sprinkler,2.64
+Barley,Surat,Black,504.5,25.3,71.2,74.7,59.6,44.1,6.06,Rabi,Tube Well,4.46
+Wheat,Ahmedabad,Sandy,496.3,17.0,49.1,74.4,12.6,44.4,6.73,Rabi,Canal,4.51
+Soybean,Amreli,Red,1346.5,23.8,70.3,130.3,16.6,107.0,7.15,Kharif,Sprinkler,3.29
+Soybean,Bhavnagar,Black,932.3,31.8,63.2,109.9,41.4,102.1,7.21,Kharif,Drip,4.6
+Soybean,Bhavnagar,Clay,999.9,28.8,83.1,122.0,29.8,62.3,5.89,Kharif,Tube Well,4.06
+Maize,Vadodara,Clay,1104.5,26.7,62.5,33.6,63.7,69.6,7.82,Rabi,Drip,5.92
+Barley,Junagadh,Clay,571.9,13.9,41.0,110.6,59.6,88.9,6.14,Rabi,Tube Well,4.5
+Barley,Junagadh,Alluvial,674.5,17.5,55.3,128.5,37.9,69.0,7.85,Rabi,Canal,5.45
+Maize,Rajkot,Clay,913.4,29.8,76.9,27.9,13.7,80.2,6.54,Kharif,Rainfed,5.14
+Barley,Surat,Red,391.7,13.8,44.5,38.2,21.1,82.3,6.05,Rabi,Tube Well,3.97
+Maize,Surat,Clay,1041.7,21.1,78.8,61.4,37.8,18.3,7.15,Rabi,Canal,5.0
+Soybean,Rajkot,Sandy,1304.8,19.8,61.6,58.6,17.4,65.5,7.56,Kharif,Canal,1.79
+Soybean,Rajkot,Alluvial,1225.6,28.5,56.5,45.1,39.6,65.9,7.35,Kharif,Rainfed,3.64
+Barley,Ahmedabad,Clay,370.2,15.5,65.0,127.4,50.9,70.9,5.82,Rabi,Canal,4.88
+Rice,Bhavnagar,Clay,1589.6,33.8,67.7,84.2,28.7,51.0,6.92,Summer,Canal,4.58
+Wheat,Surat,Black,613.8,20.2,65.8,86.9,56.9,74.3,6.64,Rabi,Sprinkler,5.89
+Wheat,Surat,Red,531.7,25.1,40.3,47.0,39.2,66.2,8.05,Rabi,Sprinkler,4.59
+Barley,Amreli,Black,638.5,17.7,74.4,33.4,41.8,116.8,8.1,Rabi,Tube Well,4.47
+Barley,Surat,Black,656.2,20.0,49.8,112.3,25.0,49.0,6.78,Rabi,Canal,5.36
+Rice,Junagadh,Black,1654.9,26.0,82.4,38.5,48.5,70.9,5.66,Summer,Drip,5.21
+Wheat,Junagadh,Alluvial,726.5,13.2,44.9,20.3,19.3,64.7,7.32,Rabi,Sprinkler,4.59
+Maize,Amreli,Black,1368.5,19.7,75.6,132.6,24.5,22.0,7.72,Kharif,Rainfed,4.03
+Maize,Rajkot,Clay,647.3,20.3,78.5,99.8,51.8,52.7,8.13,Rabi,Rainfed,4.9
+Rice,Ahmedabad,Red,1846.7,29.0,72.0,127.9,40.7,72.1,8.22,Kharif,Drip,4.72
+Barley,Surat,Red,426.6,23.1,61.7,84.0,81.5,97.8,5.96,Rabi,Canal,4.8
+Rice,Vadodara,Clay,846.9,30.0,87.9,125.2,37.4,101.2,5.83,Kharif,Drip,5.89
+Soybean,Vadodara,Sandy,1194.7,18.2,70.9,87.9,67.3,77.9,7.98,Kharif,Rainfed,1.57
+Barley,Ahmedabad,Alluvial,434.3,20.2,57.7,93.4,11.4,106.6,8.3,Rabi,Tube Well,5.03
+Soybean,Bhavnagar,Alluvial,1018.7,26.5,64.8,108.4,84.7,112.2,6.85,Kharif,Drip,4.94
+Barley,Vadodara,Clay,811.4,13.7,72.2,124.4,51.5,77.1,6.7,Rabi,Canal,4.54
+Cotton,Rajkot,Clay,1266.9,27.6,81.1,130.4,37.7,51.4,7.71,Kharif,Canal,4.03
+Rice,Surat,Red,997.2,24.5,80.0,70.3,83.2,53.1,7.24,Summer,Tube Well,5.26
+Cotton,Rajkot,Black,1380.5,23.2,94.9,80.3,57.6,22.0,7.75,Kharif,Rainfed,3.49
+Maize,Surat,Clay,840.0,29.7,70.6,55.3,67.1,70.4,7.1,Kharif,Sprinkler,5.99
+Maize,Bhavnagar,Sandy,568.0,28.5,59.5,127.7,52.1,99.1,8.44,Kharif,Sprinkler,4.85
+Wheat,Bhavnagar,Clay,653.4,15.6,46.9,80.7,57.6,50.6,7.21,Rabi,Drip,5.48
+Wheat,Surat,Red,869.4,14.0,54.2,58.9,17.0,81.5,7.71,Rabi,Rainfed,4.38
+Soybean,Surat,Clay,1024.7,23.9,81.2,118.1,37.3,42.2,6.64,Kharif,Tube Well,3.7
+Soybean,Vadodara,Black,1275.0,21.1,84.1,113.6,19.1,74.4,8.46,Kharif,Canal,2.93
+Rice,Ahmedabad,Red,1558.3,30.9,72.7,36.7,76.8,118.4,7.08,Kharif,Drip,5.32
+Maize,Amreli,Alluvial,1233.5,25.0,52.4,68.6,49.8,90.6,5.82,Rabi,Sprinkler,5.39
+Barley,Vadodara,Red,496.6,22.3,48.8,96.0,49.5,75.2,8.01,Rabi,Drip,5.13
+Barley,Ahmedabad,Sandy,451.4,13.3,67.0,28.2,77.0,60.9,8.25,Rabi,Tube Well,3.22
+Maize,Bhavnagar,Red,857.0,31.4,54.7,78.1,31.6,71.7,5.99,Rabi,Canal,5.84
+Maize,Vadodara,Red,1193.8,19.5,52.6,107.4,49.6,87.3,6.8,Rabi,Drip,4.81
+Maize,Surat,Alluvial,1125.2,21.8,70.7,63.3,17.3,111.3,5.91,Kharif,Rainfed,4.86
+Cotton,Amreli,Red,1862.7,32.1,84.1,137.7,82.3,82.9,7.58,Kharif,Sprinkler,3.12
+Rice,Vadodara,Alluvial,1623.6,36.0,81.7,76.8,35.0,27.7,7.69,Kharif,Canal,4.55
+Maize,Bhavnagar,Clay,1260.1,22.5,79.0,24.4,57.7,39.2,5.86,Rabi,Rainfed,4.32
+Wheat,Surat,Clay,536.9,22.1,42.3,57.8,53.2,98.0,6.46,Rabi,Tube Well,5.5
+Wheat,Junagadh,Alluvial,828.6,12.3,70.6,83.5,85.1,98.9,8.49,Rabi,Tube Well,4.52
+Cotton,Vadodara,Black,852.6,28.7,82.4,52.6,41.9,24.6,6.51,Kharif,Sprinkler,4.14
+Rice,Surat,Clay,1214.8,25.3,66.3,22.1,89.0,59.9,6.65,Summer,Canal,5.62
+Cotton,Junagadh,Red,1917.2,25.6,82.7,137.9,80.7,78.1,8.21,Kharif,Canal,2.84
+Soybean,Bhavnagar,Clay,961.4,21.2,56.2,46.5,24.9,96.9,6.55,Kharif,Tube Well,3.28
+Soybean,Amreli,Black,1335.0,31.9,56.1,67.5,70.7,88.1,5.96,Kharif,Drip,3.56
+Soybean,Bhavnagar,Black,1305.4,30.0,66.0,66.9,31.8,65.1,5.63,Kharif,Drip,3.8
+Wheat,Junagadh,Alluvial,531.0,25.0,65.7,53.8,30.2,15.5,7.59,Rabi,Drip,5.23
+Soybean,Junagadh,Clay,568.5,29.9,67.3,77.7,57.4,101.6,6.54,Kharif,Rainfed,4.09
+Wheat,Surat,Clay,753.7,19.3,70.4,49.4,22.6,31.8,6.5,Rabi,Sprinkler,5.29
+Cotton,Bhavnagar,Clay,2145.8,28.5,91.4,20.6,75.6,39.0,8.23,Kharif,Tube Well,1.62
+Wheat,Junagadh,Alluvial,629.1,12.1,50.0,94.0,88.5,81.3,6.28,Rabi,Sprinkler,5.08
+Maize,Amreli,Red,889.0,29.8,63.7,41.5,70.3,97.8,6.02,Rabi,Canal,6.24
+Cotton,Ahmedabad,Sandy,1032.9,32.8,86.3,76.8,14.6,22.8,8.06,Kharif,Tube Well,3.14
+Cotton,Vadodara,Sandy,831.0,26.5,79.7,112.4,64.7,61.8,6.32,Kharif,Sprinkler,3.35
+Soybean,Junagadh,Black,906.2,20.3,77.8,103.2,27.7,23.7,7.54,Kharif,Tube Well,3.22
+Rice,Amreli,Sandy,1823.8,34.7,90.7,135.7,70.8,61.4,6.44,Summer,Rainfed,3.94
+Wheat,Junagadh,Alluvial,460.2,24.2,65.0,87.5,47.7,72.0,5.98,Rabi,Sprinkler,5.38
+Wheat,Junagadh,Red,422.2,12.5,72.2,94.0,73.7,65.6,5.85,Rabi,Sprinkler,4.27
+Rice,Amreli,Sandy,1581.8,25.2,69.8,98.2,36.1,77.0,6.8,Summer,Rainfed,5.08
+Wheat,Amreli,Red,766.4,25.3,71.8,106.9,69.9,30.3,5.81,Rabi,Sprinkler,4.84
+Barley,Bhavnagar,Sandy,540.3,22.9,72.9,28.7,52.7,107.7,5.75,Rabi,Rainfed,3.68
+Wheat,Amreli,Alluvial,790.3,14.8,45.9,32.5,60.9,89.2,5.59,Rabi,Canal,5.22
+Barley,Rajkot,Black,864.4,25.3,61.9,114.0,59.0,65.9,7.48,Rabi,Canal,5.18
+Barley,Ahmedabad,Red,440.2,18.1,65.4,91.2,62.0,65.3,7.35,Rabi,Drip,5.26
+Maize,Bhavnagar,Sandy,1210.7,27.2,67.4,86.6,67.5,39.0,8.49,Kharif,Sprinkler,4.78
+Wheat,Surat,Red,389.7,12.4,49.0,75.5,79.5,91.4,7.73,Rabi,Sprinkler,4.42
+Cotton,Vadodara,Sandy,1319.5,35.8,66.2,124.0,56.3,61.1,7.68,Kharif,Rainfed,2.65
+Wheat,Junagadh,Alluvial,675.8,24.8,47.4,94.8,60.5,92.0,5.89,Rabi,Tube Well,5.37
+Cotton,Amreli,Alluvial,1322.0,29.2,77.4,28.3,45.0,25.2,6.72,Kharif,Rainfed,3.99
+Cotton,Ahmedabad,Black,1237.0,27.6,90.7,21.1,57.1,77.9,6.69,Kharif,Tube Well,4.33
+Maize,Ahmedabad,Red,903.9,27.4,55.1,73.9,57.0,114.6,6.26,Rabi,Canal,5.79
+Maize,Vadodara,Clay,1203.6,27.9,65.6,123.7,54.7,71.7,5.6,Rabi,Sprinkler,5.27
+Barley,Ahmedabad,Black,865.1,12.6,44.3,74.3,84.7,48.2,7.02,Rabi,Sprinkler,4.49
+Maize,Ahmedabad,Sandy,613.2,19.9,55.0,132.8,68.6,32.1,6.07,Rabi,Rainfed,4.58
+Soybean,Amreli,Clay,1095.5,31.7,63.1,22.1,29.5,102.2,8.09,Kharif,Canal,3.34
+Rice,Amreli,Sandy,1101.9,31.2,76.8,98.1,18.5,84.1,8.5,Kharif,Drip,5.0
+Barley,Bhavnagar,Black,573.8,24.2,67.4,88.0,69.1,107.2,6.71,Rabi,Drip,5.42
+Barley,Ahmedabad,Alluvial,788.8,18.1,68.6,34.4,53.6,15.6,6.47,Rabi,Sprinkler,4.67
+Cotton,Ahmedabad,Clay,1344.0,28.3,72.1,64.8,28.2,22.7,7.31,Kharif,Tube Well,4.0
+Barley,Rajkot,Red,824.8,19.3,56.8,23.1,37.3,54.9,6.7,Rabi,Sprinkler,4.84
+Soybean,Bhavnagar,Sandy,1047.1,28.7,78.5,106.2,86.4,16.9,6.09,Kharif,Rainfed,3.39
+Maize,Surat,Sandy,816.5,19.4,67.0,50.8,32.8,47.3,7.91,Kharif,Sprinkler,4.33
+Maize,Ahmedabad,Sandy,859.9,31.7,78.8,82.7,19.9,105.2,7.9,Rabi,Canal,5.18
+Rice,Ahmedabad,Clay,1394.3,23.2,89.5,64.8,52.1,26.8,5.51,Summer,Rainfed,4.6
+Barley,Amreli,Clay,475.4,15.0,61.4,69.3,77.2,109.5,6.56,Rabi,Rainfed,4.47
+Wheat,Surat,Sandy,719.3,23.3,66.8,38.0,43.9,31.1,6.21,Rabi,Rainfed,4.19
+Cotton,Ahmedabad,Black,934.0,22.3,84.3,92.9,53.7,39.4,6.67,Kharif,Sprinkler,3.67
+Wheat,Surat,Clay,572.4,18.0,65.1,103.1,89.3,28.5,5.81,Rabi,Canal,5.92
+Wheat,Amreli,Alluvial,393.7,13.2,71.3,43.0,35.9,38.8,6.56,Rabi,Sprinkler,4.74
+Wheat,Junagadh,Clay,478.5,19.6,70.8,98.1,52.6,49.1,6.5,Rabi,Rainfed,5.09
+Barley,Ahmedabad,Sandy,549.6,25.9,55.6,60.0,56.4,24.3,8.38,Rabi,Canal,3.84
+Wheat,Amreli,Black,541.2,21.3,67.8,131.3,28.8,56.9,5.96,Rabi,Rainfed,5.39
+Soybean,Junagadh,Sandy,1257.8,25.3,71.8,30.7,70.4,28.4,7.98,Kharif,Drip,3.13
+Barley,Junagadh,Black,537.9,17.3,52.1,48.7,50.8,101.7,6.34,Rabi,Canal,5.15
+Wheat,Junagadh,Alluvial,782.5,20.0,59.8,66.9,50.1,56.7,7.12,Rabi,Tube Well,5.93
+Wheat,Amreli,Red,800.3,16.5,40.8,38.5,27.9,115.5,7.22,Rabi,Rainfed,4.82
+Wheat,Rajkot,Alluvial,613.6,16.4,61.2,36.7,81.9,102.1,6.45,Rabi,Drip,5.53
+Soybean,Ahmedabad,Sandy,709.3,19.1,77.2,34.6,57.5,113.3,8.13,Kharif,Drip,2.72
+Soybean,Junagadh,Clay,1057.6,27.1,55.3,27.4,72.5,63.3,5.67,Kharif,Tube Well,3.68
+Rice,Junagadh,Red,1665.3,30.9,71.9,47.9,27.7,33.2,7.47,Kharif,Rainfed,4.49
+Barley,Bhavnagar,Alluvial,837.6,18.3,46.8,64.1,43.1,101.9,7.7,Rabi,Sprinkler,4.9
+Barley,Amreli,Clay,724.5,14.7,61.7,58.8,76.7,81.1,6.1,Rabi,Canal,4.14
+Soybean,Vadodara,Sandy,598.8,25.7,65.9,121.3,17.8,66.3,5.95,Kharif,Drip,4.29
+Maize,Rajkot,Clay,913.5,29.0,81.2,134.6,73.0,48.1,7.56,Rabi,Sprinkler,5.99
+Cotton,Vadodara,Black,2102.4,25.5,88.4,119.0,49.6,55.6,6.85,Kharif,Canal,2.78
+Soybean,Surat,Clay,961.0,27.5,51.5,30.2,67.3,22.6,5.71,Kharif,Rainfed,3.56
+Rice,Vadodara,Sandy,1446.7,35.9,94.1,133.1,72.7,52.3,6.74,Kharif,Canal,4.76
+Wheat,Amreli,Sandy,512.5,22.8,61.9,65.8,26.5,27.7,7.35,Rabi,Drip,4.93
+Barley,Rajkot,Black,641.7,12.6,73.9,115.8,33.4,117.9,7.31,Rabi,Drip,4.83
+Cotton,Ahmedabad,Red,1273.6,35.0,71.7,64.7,44.6,61.1,7.34,Kharif,Canal,3.35
+Barley,Junagadh,Sandy,721.8,18.9,40.4,139.1,63.7,48.3,8.14,Rabi,Sprinkler,4.47
+Soybean,Vadodara,Clay,548.5,22.5,76.4,52.3,53.2,91.4,5.82,Kharif,Rainfed,3.26
+Soybean,Bhavnagar,Sandy,1368.6,24.8,55.3,61.1,43.1,94.6,7.73,Kharif,Tube Well,2.51
+Soybean,Amreli,Sandy,1185.0,20.2,66.2,21.1,29.7,91.3,8.48,Kharif,Drip,2.1
+Maize,Ahmedabad,Alluvial,999.6,28.3,71.6,42.6,38.4,97.3,7.16,Kharif,Drip,6.0
+Maize,Bhavnagar,Red,831.5,24.3,75.3,126.3,57.4,56.1,6.74,Kharif,Canal,5.84
+Soybean,Ahmedabad,Sandy,1214.8,19.3,70.6,77.7,61.4,21.8,7.24,Kharif,Rainfed,2.27
+Barley,Ahmedabad,Alluvial,498.4,23.6,57.4,29.2,14.7,50.1,7.85,Rabi,Tube Well,4.8
+Barley,Vadodara,Sandy,592.1,14.1,51.5,72.1,17.1,38.2,7.29,Rabi,Tube Well,3.83
+Rice,Amreli,Sandy,1760.3,35.9,87.4,108.8,86.0,36.3,7.2,Summer,Tube Well,3.97
+Wheat,Ahmedabad,Red,735.1,20.2,60.5,103.7,84.4,97.2,5.67,Rabi,Sprinkler,5.32
+Soybean,Vadodara,Clay,1222.4,24.4,66.9,36.0,16.4,91.4,6.99,Kharif,Rainfed,3.19
+Rice,Rajkot,Sandy,1022.5,30.5,69.1,110.2,62.6,115.4,5.71,Summer,Drip,5.35
+Cotton,Bhavnagar,Red,1902.0,35.6,76.1,71.5,77.6,43.2,5.97,Kharif,Rainfed,1.77
+Cotton,Surat,Sandy,2069.0,23.9,81.0,69.3,37.8,109.5,5.57,Kharif,Canal,1.74
+Soybean,Ahmedabad,Alluvial,1208.9,26.7,67.3,137.5,21.6,91.1,6.07,Kharif,Rainfed,3.79
+Rice,Surat,Red,1651.9,26.9,68.4,38.1,28.0,41.4,8.05,Kharif,Sprinkler,4.98
+Soybean,Vadodara,Alluvial,1150.5,18.9,74.8,85.2,16.5,63.1,6.95,Kharif,Rainfed,3.13
+Soybean,Vadodara,Alluvial,1102.1,24.5,64.4,98.1,53.6,21.5,7.04,Kharif,Drip,4.34
+Maize,Bhavnagar,Black,648.2,22.6,76.5,82.3,26.4,107.2,8.14,Rabi,Sprinkler,5.87
+Cotton,Amreli,Red,1431.7,35.8,88.2,23.3,15.2,63.7,8.23,Kharif,Sprinkler,2.29
+Barley,Bhavnagar,Sandy,568.6,13.3,55.4,43.5,24.9,24.9,6.57,Rabi,Drip,4.36
+Rice,Junagadh,Clay,1354.4,34.8,81.0,39.0,65.7,98.3,6.45,Kharif,Drip,5.11
+Soybean,Junagadh,Red,896.3,26.6,52.9,125.9,74.3,68.0,8.4,Kharif,Sprinkler,4.01
+Soybean,Bhavnagar,Clay,1152.7,22.5,84.9,137.6,62.5,28.6,7.56,Kharif,Sprinkler,3.47
+Barley,Vadodara,Red,535.3,16.2,72.1,33.3,70.8,118.7,8.2,Rabi,Sprinkler,4.34
+Cotton,Junagadh,Black,1156.1,33.5,91.4,83.1,29.5,26.9,5.76,Kharif,Sprinkler,3.44
+Wheat,Rajkot,Red,761.9,21.1,61.7,62.3,77.3,64.5,8.44,Rabi,Canal,5.36
+Maize,Rajkot,Sandy,792.6,27.6,52.4,41.0,78.5,38.9,8.01,Kharif,Canal,5.61
+Cotton,Ahmedabad,Black,846.5,26.3,84.6,132.6,79.7,95.4,7.87,Kharif,Sprinkler,3.77
+Soybean,Bhavnagar,Alluvial,1316.5,27.4,69.6,33.3,45.8,63.3,8.09,Kharif,Tube Well,3.01
+Barley,Bhavnagar,Red,359.9,17.9,41.0,135.9,20.2,89.3,8.42,Rabi,Rainfed,4.17
+Maize,Ahmedabad,Red,516.2,31.5,75.4,56.6,76.4,44.6,8.12,Kharif,Rainfed,5.38
+Soybean,Junagadh,Black,511.2,24.6,60.5,91.8,33.8,46.5,7.73,Kharif,Drip,4.41
+Cotton,Surat,Sandy,1993.2,31.3,82.8,127.1,24.8,23.3,6.22,Kharif,Rainfed,1.85
+Soybean,Junagadh,Clay,939.5,28.3,68.4,23.9,79.5,21.8,8.37,Kharif,Tube Well,3.88
+Soybean,Bhavnagar,Sandy,918.0,19.9,61.9,39.8,23.6,114.6,6.84,Kharif,Rainfed,2.5
+Cotton,Junagadh,Sandy,1482.7,31.1,93.5,92.1,69.5,68.2,7.4,Kharif,Rainfed,3.36
+Barley,Amreli,Black,549.0,18.6,41.6,36.8,32.1,117.0,6.49,Rabi,Canal,4.67
+Maize,Vadodara,Sandy,964.9,18.1,50.3,46.3,12.9,26.3,6.52,Rabi,Drip,3.94
+Soybean,Vadodara,Black,764.1,31.0,63.9,30.5,59.4,27.0,6.54,Kharif,Canal,4.5
+Soybean,Surat,Red,618.3,21.8,63.8,70.6,42.9,110.3,7.64,Kharif,Tube Well,3.67
+Cotton,Vadodara,Black,1805.8,35.4,86.6,123.5,10.2,90.3,7.99,Kharif,Sprinkler,2.62
+Rice,Bhavnagar,Sandy,969.4,27.9,87.5,28.5,16.4,52.3,8.33,Summer,Sprinkler,4.35
+Soybean,Rajkot,Alluvial,1299.2,26.4,67.6,36.7,19.3,31.2,6.02,Kharif,Canal,3.75
+Soybean,Amreli,Red,510.5,23.9,60.3,78.3,56.2,19.6,5.87,Kharif,Canal,4.14
+Rice,Bhavnagar,Black,894.3,27.4,90.6,68.5,16.2,72.0,8.09,Kharif,Drip,5.36
+Maize,Surat,Sandy,887.9,22.5,70.4,64.5,58.1,89.1,7.57,Rabi,Drip,5.42
+Wheat,Junagadh,Clay,374.6,22.7,73.1,60.8,51.4,54.8,5.52,Rabi,Rainfed,4.91
+Maize,Rajkot,Black,978.0,29.8,70.3,87.2,18.4,32.6,8.42,Rabi,Sprinkler,5.5
+Barley,Surat,Red,424.7,13.4,47.3,131.1,43.1,56.5,6.44,Rabi,Tube Well,4.19
+Wheat,Vadodara,Alluvial,553.7,17.2,56.6,73.3,89.6,72.3,5.76,Rabi,Sprinkler,5.37
+Maize,Bhavnagar,Sandy,1373.7,28.8,84.3,77.3,52.6,32.7,6.24,Kharif,Sprinkler,4.57
+Wheat,Vadodara,Red,381.7,16.8,49.5,136.0,54.6,51.5,7.24,Rabi,Canal,5.46
+Soybean,Surat,Clay,940.0,23.6,84.8,125.6,59.9,74.8,7.36,Kharif,Canal,4.15
+Cotton,Vadodara,Black,1560.2,25.2,93.9,129.1,67.8,71.0,8.11,Kharif,Sprinkler,3.59
+Soybean,Amreli,Red,552.0,27.5,66.3,24.1,87.6,114.7,7.04,Kharif,Rainfed,3.96
+Barley,Bhavnagar,Alluvial,507.2,14.8,66.7,66.4,50.9,66.7,7.23,Rabi,Rainfed,4.44
+Maize,Vadodara,Red,1244.8,28.7,70.1,134.7,26.0,26.5,8.06,Rabi,Rainfed,5.04
+Maize,Bhavnagar,Red,959.4,26.8,82.4,22.3,48.1,87.2,7.67,Kharif,Sprinkler,5.53
+Barley,Ahmedabad,Alluvial,547.3,23.3,49.8,45.3,86.6,15.9,8.49,Rabi,Sprinkler,4.68
+Barley,Bhavnagar,Red,538.0,20.9,42.4,20.7,85.0,101.3,7.93,Rabi,Drip,4.81
+Rice,Junagadh,Red,1812.4,25.9,85.6,22.9,34.5,72.7,7.4,Summer,Drip,5.08
+Soybean,Vadodara,Red,1282.0,27.5,54.0,121.0,29.4,65.2,5.94,Kharif,Tube Well,3.64
+Wheat,Vadodara,Sandy,504.6,23.2,72.5,68.6,82.5,48.8,6.93,Rabi,Canal,5.09
+Soybean,Vadodara,Clay,822.0,27.1,54.3,126.6,50.2,62.2,7.26,Kharif,Tube Well,4.28
+Barley,Junagadh,Sandy,483.1,22.0,68.8,116.5,54.2,69.6,5.93,Rabi,Canal,4.4
+Barley,Ahmedabad,Alluvial,746.9,15.8,54.1,32.3,25.1,97.2,7.65,Rabi,Canal,4.83
+Barley,Amreli,Black,606.8,16.8,72.9,29.9,84.5,101.8,5.89,Rabi,Canal,5.01
+Cotton,Junagadh,Alluvial,1407.3,34.7,76.3,135.7,17.1,87.1,6.98,Kharif,Tube Well,3.6
+Rice,Junagadh,Red,994.8,25.6,91.3,41.9,32.3,28.6,7.53,Kharif,Canal,5.67
+Soybean,Ahmedabad,Black,948.7,23.4,80.3,77.1,18.9,81.6,7.81,Kharif,Sprinkler,3.88
+Rice,Junagadh,Black,1572.9,27.8,86.6,64.5,79.6,91.7,7.44,Kharif,Canal,5.86
+Soybean,Ahmedabad,Black,1164.7,22.4,72.6,67.4,67.1,35.9,8.17,Kharif,Rainfed,3.22
+Cotton,Surat,Red,881.3,23.6,80.5,52.1,76.8,16.5,6.64,Kharif,Sprinkler,3.36
+Rice,Surat,Black,813.9,28.5,93.9,82.3,64.2,47.7,7.82,Summer,Rainfed,5.1
+Rice,Junagadh,Alluvial,1605.5,23.1,76.5,64.1,24.5,60.7,6.5,Summer,Tube Well,5.43
+Cotton,Rajkot,Sandy,1728.2,29.7,91.4,101.1,53.8,102.1,7.32,Kharif,Tube Well,2.95
+Soybean,Amreli,Red,1309.5,27.9,82.8,92.4,47.9,21.3,7.51,Kharif,Rainfed,3.18
+Soybean,Junagadh,Alluvial,1366.5,19.1,62.8,47.0,25.7,29.8,7.37,Kharif,Tube Well,2.21
+Wheat,Surat,Clay,430.8,23.4,62.3,66.6,63.9,42.3,6.54,Rabi,Tube Well,5.15
+Cotton,Rajkot,Black,1766.1,35.0,79.9,47.6,13.6,58.6,6.41,Kharif,Canal,2.76
+Wheat,Bhavnagar,Clay,723.8,13.1,49.6,116.8,46.8,72.4,6.8,Rabi,Canal,4.71
+Maize,Junagadh,Black,1213.8,30.0,58.5,135.3,25.8,114.9,8.48,Kharif,Tube Well,5.18
+Maize,Ahmedabad,Black,913.1,30.9,56.2,45.7,11.0,16.5,7.99,Rabi,Tube Well,5.31
+Rice,Surat,Red,2153.9,27.5,90.6,112.8,34.8,39.4,6.87,Kharif,Canal,4.21
+Rice,Surat,Sandy,1880.3,29.0,65.4,21.1,38.6,112.3,6.19,Summer,Canal,3.9
+Cotton,Ahmedabad,Red,1144.1,27.6,91.8,20.1,82.1,31.1,8.47,Kharif,Sprinkler,3.45
+Wheat,Surat,Black,768.6,17.2,53.7,110.5,83.5,114.8,7.23,Rabi,Drip,6.08
+Cotton,Vadodara,Sandy,1302.0,31.2,72.2,43.0,83.5,25.7,7.02,Kharif,Sprinkler,3.25
+Maize,Rajkot,Black,1360.7,20.1,73.8,47.0,44.5,90.5,7.19,Kharif,Canal,4.03
+Maize,Surat,Clay,1303.3,23.9,77.3,77.2,49.8,36.5,7.27,Rabi,Canal,4.98
+Rice,Surat,Sandy,1310.1,26.1,91.4,75.2,17.6,101.8,5.64,Summer,Drip,5.36
+Wheat,Junagadh,Red,831.7,19.5,49.9,71.0,13.0,28.4,7.8,Rabi,Canal,5.17
+Rice,Vadodara,Black,1812.4,24.8,71.1,21.2,45.0,107.7,5.66,Summer,Sprinkler,4.5
+Maize,Bhavnagar,Sandy,1263.6,23.9,60.6,59.0,67.0,100.8,6.04,Kharif,Drip,4.72
+Barley,Surat,Sandy,648.4,14.1,53.3,69.7,70.3,17.2,6.31,Rabi,Sprinkler,3.64
+Wheat,Amreli,Black,680.9,16.2,65.0,111.1,18.2,69.0,7.03,Rabi,Drip,5.67
+Cotton,Rajkot,Black,1776.1,32.0,78.9,130.5,65.6,91.5,8.09,Kharif,Canal,3.5
+Soybean,Rajkot,Clay,1380.7,30.0,74.5,107.2,55.0,114.4,6.99,Kharif,Rainfed,3.09
+Maize,Ahmedabad,Sandy,845.9,18.4,79.4,21.4,66.3,116.9,6.81,Rabi,Rainfed,3.93
+Maize,Amreli,Black,986.7,24.0,60.8,77.9,19.5,116.0,7.64,Kharif,Drip,5.72
+Maize,Junagadh,Red,1227.9,27.5,71.9,58.0,75.3,67.7,5.71,Kharif,Canal,5.42
+Wheat,Bhavnagar,Red,356.7,21.4,41.8,85.9,33.0,47.2,6.56,Rabi,Tube Well,5.11
+Rice,Amreli,Black,2029.2,30.5,72.4,62.7,16.7,50.0,7.53,Kharif,Drip,4.48
+Cotton,Amreli,Red,941.9,25.9,73.3,71.8,88.4,22.1,7.06,Kharif,Sprinkler,3.79
+Rice,Ahmedabad,Alluvial,1365.0,32.3,86.1,70.7,37.7,56.7,6.29,Kharif,Rainfed,5.35
+Wheat,Junagadh,Alluvial,682.0,13.1,42.6,134.2,33.8,24.7,7.3,Rabi,Canal,4.79
+Cotton,Surat,Alluvial,821.2,35.5,72.5,101.1,66.5,79.1,6.44,Kharif,Sprinkler,3.49
+Soybean,Junagadh,Black,595.3,20.2,83.1,108.4,80.6,36.3,7.26,Kharif,Tube Well,3.52
+Wheat,Amreli,Black,574.5,12.2,60.4,50.4,46.0,115.5,6.7,Rabi,Sprinkler,4.57
+Barley,Amreli,Black,354.6,18.1,43.2,109.8,83.2,60.6,6.28,Rabi,Canal,5.21
+Soybean,Surat,Black,508.1,26.3,71.5,96.5,29.4,90.0,5.77,Kharif,Tube Well,4.46
+Cotton,Bhavnagar,Black,822.1,23.1,92.3,62.6,44.0,37.6,7.29,Kharif,Drip,3.66
+Wheat,Amreli,Alluvial,792.8,23.5,72.6,85.3,26.0,79.8,7.73,Rabi,Canal,5.48
+Maize,Amreli,Alluvial,685.6,29.2,61.7,123.8,83.2,105.3,5.61,Kharif,Drip,6.94
+Maize,Vadodara,Alluvial,723.5,27.9,65.0,73.1,61.9,113.3,5.69,Kharif,Canal,6.27
+Maize,Ahmedabad,Black,1031.2,23.7,66.4,23.4,26.8,44.5,7.64,Kharif,Rainfed,5.2
+Barley,Ahmedabad,Black,858.2,13.6,58.1,114.4,85.4,93.4,7.66,Rabi,Drip,4.72
+Cotton,Vadodara,Black,2094.4,28.2,81.6,50.6,69.4,23.0,8.12,Kharif,Rainfed,2.22
+Soybean,Bhavnagar,Clay,1069.0,23.2,59.5,47.8,35.5,109.9,5.73,Kharif,Rainfed,3.12
+Rice,Amreli,Clay,1282.7,28.5,77.4,21.6,33.7,63.2,6.73,Summer,Drip,5.89
+Barley,Junagadh,Clay,757.3,24.1,58.6,114.7,33.7,71.8,6.54,Rabi,Drip,5.29
+Maize,Amreli,Alluvial,1023.9,19.7,57.4,57.3,23.4,40.6,6.3,Rabi,Rainfed,4.53
+Barley,Bhavnagar,Sandy,656.3,17.8,55.0,84.9,65.7,88.7,6.02,Rabi,Tube Well,4.0
+Barley,Rajkot,Alluvial,642.9,13.6,61.2,34.1,37.0,30.0,7.58,Rabi,Sprinkler,4.29
+Soybean,Vadodara,Alluvial,1111.0,28.8,83.3,113.2,58.9,105.0,7.52,Kharif,Drip,4.77
+Maize,Ahmedabad,Sandy,1158.2,27.8,76.3,75.8,79.9,36.4,5.88,Rabi,Drip,5.33
+Barley,Rajkot,Clay,801.3,17.7,57.0,21.6,42.8,83.0,5.55,Rabi,Tube Well,4.2
+Barley,Amreli,Sandy,758.7,23.9,59.1,137.8,46.0,68.9,8.47,Rabi,Drip,4.11
+Cotton,Vadodara,Red,1249.6,25.1,75.5,64.7,15.5,53.8,6.89,Kharif,Canal,3.94
+Maize,Surat,Red,835.9,26.8,53.3,32.4,13.9,76.0,6.78,Rabi,Drip,6.15
+Wheat,Vadodara,Clay,767.2,12.2,47.3,105.6,40.9,84.6,6.54,Rabi,Canal,4.52
+Maize,Vadodara,Alluvial,1020.9,26.9,55.5,76.9,67.3,43.4,6.11,Rabi,Canal,6.14
+Maize,Rajkot,Clay,882.4,30.7,67.7,42.6,16.2,88.1,6.65,Kharif,Canal,5.9
+Rice,Amreli,Black,2114.7,30.9,74.7,52.3,25.3,87.9,6.16,Kharif,Tube Well,4.1
+Cotton,Bhavnagar,Alluvial,1940.9,32.9,87.8,42.5,17.1,88.4,6.61,Kharif,Sprinkler,2.59
+Barley,Amreli,Clay,838.7,23.5,62.1,123.0,72.7,60.0,6.1,Rabi,Sprinkler,4.86
+Soybean,Bhavnagar,Clay,1260.4,21.5,70.2,28.1,17.6,119.9,6.48,Kharif,Canal,2.96
+Wheat,Surat,Clay,482.8,12.6,54.4,35.6,11.8,52.8,7.85,Rabi,Tube Well,4.21
+Maize,Amreli,Sandy,708.8,18.2,76.8,94.8,71.0,19.1,8.01,Rabi,Sprinkler,4.32
+Soybean,Vadodara,Clay,851.5,19.0,72.3,108.0,64.1,29.5,7.24,Kharif,Canal,3.69
+Maize,Bhavnagar,Red,807.7,25.4,57.4,139.5,88.5,83.2,7.91,Rabi,Canal,6.18
+Maize,Surat,Clay,1109.8,23.2,83.0,40.1,50.0,87.5,7.59,Rabi,Tube Well,5.48
+Rice,Amreli,Alluvial,1846.9,33.3,77.4,44.5,13.4,75.9,6.86,Summer,Tube Well,4.49
+Barley,Junagadh,Red,618.7,17.6,45.4,88.7,32.2,111.7,7.25,Rabi,Rainfed,4.27
+Cotton,Surat,Sandy,1392.7,23.2,83.2,125.7,80.6,84.2,6.13,Kharif,Sprinkler,3.5
+Rice,Surat,Red,2056.3,30.7,94.2,75.8,77.8,21.6,6.51,Summer,Sprinkler,3.98
+Soybean,Bhavnagar,Sandy,1102.4,30.5,60.7,86.2,73.2,58.7,6.0,Kharif,Drip,3.66
+Wheat,Junagadh,Clay,885.2,22.6,73.9,72.8,32.3,98.8,6.48,Rabi,Rainfed,4.95
+Soybean,Amreli,Sandy,730.8,23.0,73.6,27.5,26.8,99.9,5.94,Kharif,Canal,3.5
+Barley,Ahmedabad,Red,689.5,14.2,56.7,113.7,34.3,47.7,5.51,Rabi,Rainfed,3.84
+Cotton,Amreli,Black,1443.4,26.3,89.7,26.8,43.5,63.1,7.68,Kharif,Drip,4.3
+Rice,Bhavnagar,Alluvial,2185.2,34.5,76.1,43.4,49.2,92.9,6.98,Kharif,Sprinkler,3.54
+Cotton,Amreli,Red,1306.0,34.0,77.2,59.4,46.3,95.1,5.88,Kharif,Rainfed,3.04
+Rice,Junagadh,Alluvial,2158.3,35.1,87.2,53.5,20.5,104.7,6.0,Summer,Rainfed,2.68
+Maize,Junagadh,Red,1312.9,26.5,70.2,87.1,39.7,97.5,6.26,Kharif,Canal,5.48
+Soybean,Bhavnagar,Clay,1105.5,21.1,57.6,124.9,30.0,42.6,5.5,Kharif,Rainfed,2.7
+Wheat,Ahmedabad,Black,557.1,15.2,49.3,86.5,26.0,45.9,6.21,Rabi,Rainfed,5.03
+Maize,Vadodara,Clay,1184.5,20.2,67.1,71.6,57.8,120.0,7.81,Kharif,Rainfed,4.33
+Soybean,Amreli,Alluvial,1107.0,28.7,51.6,97.6,28.1,85.4,6.9,Kharif,Sprinkler,4.29
+Cotton,Amreli,Black,1413.5,33.7,69.8,23.0,45.9,39.9,5.65,Kharif,Drip,3.46
+Rice,Vadodara,Black,1042.9,27.3,89.0,67.1,70.1,28.2,7.82,Kharif,Tube Well,5.82
+Soybean,Bhavnagar,Alluvial,1174.5,24.0,53.1,53.9,43.5,45.7,6.5,Kharif,Sprinkler,3.66
+Wheat,Bhavnagar,Red,678.5,21.1,46.7,55.5,59.6,78.0,7.02,Rabi,Rainfed,5.2
+Cotton,Ahmedabad,Clay,1749.4,29.6,75.4,72.3,73.6,44.2,5.93,Kharif,Rainfed,3.06
+Maize,Junagadh,Black,1392.5,25.6,84.5,132.7,46.2,35.8,5.99,Rabi,Canal,5.34
+Barley,Vadodara,Black,454.2,12.1,42.1,128.6,61.8,43.7,6.03,Rabi,Canal,4.07
+Soybean,Surat,Alluvial,550.0,18.1,57.4,99.6,42.9,57.3,8.15,Kharif,Tube Well,3.23
+Rice,Amreli,Black,1279.0,28.0,89.9,34.4,68.8,70.8,6.36,Summer,Tube Well,5.57
+Wheat,Ahmedabad,Sandy,440.4,13.6,59.1,128.3,37.5,92.0,7.48,Rabi,Drip,4.94
+Maize,Ahmedabad,Alluvial,509.7,29.6,78.0,32.5,56.1,63.7,5.86,Kharif,Rainfed,5.95
+Soybean,Amreli,Clay,560.5,26.3,75.9,23.9,62.7,70.9,5.81,Kharif,Sprinkler,4.18
+Soybean,Vadodara,Sandy,1214.2,18.4,77.4,48.8,21.5,27.1,5.58,Kharif,Canal,1.38
+Rice,Bhavnagar,Clay,1154.0,30.1,75.8,118.8,75.7,65.1,6.55,Kharif,Drip,6.34
+Rice,Amreli,Alluvial,1968.4,27.0,92.4,87.9,24.6,29.7,7.23,Kharif,Drip,4.86
+Soybean,Surat,Clay,748.2,20.9,50.6,101.5,16.1,59.2,7.31,Kharif,Drip,3.84
+Barley,Amreli,Red,884.1,19.9,65.0,28.2,43.4,27.2,7.34,Rabi,Canal,4.59
+Maize,Bhavnagar,Sandy,1083.4,21.2,73.8,132.8,13.7,48.6,6.81,Kharif,Drip,5.15
+Barley,Ahmedabad,Clay,656.0,12.4,71.8,38.8,27.6,69.4,7.63,Rabi,Rainfed,3.48
+Maize,Amreli,Red,781.7,29.7,51.8,75.8,40.4,48.2,6.36,Kharif,Drip,6.14
+Wheat,Vadodara,Clay,569.0,18.2,71.3,99.0,10.6,114.0,6.21,Rabi,Sprinkler,5.22
+Cotton,Junagadh,Clay,1981.9,28.8,80.4,57.0,55.8,49.1,5.62,Kharif,Canal,2.95
+Soybean,Amreli,Red,860.2,29.0,59.3,138.8,12.1,78.4,7.48,Kharif,Drip,4.31
+Rice,Ahmedabad,Black,1077.3,22.9,91.6,70.4,49.8,111.3,7.83,Kharif,Drip,5.63
+Rice,Ahmedabad,Alluvial,1276.8,33.3,66.6,39.2,36.8,23.1,6.2,Kharif,Canal,5.17
+Soybean,Vadodara,Clay,708.3,30.2,82.4,70.4,14.0,19.1,7.22,Kharif,Drip,4.31
+Wheat,Amreli,Black,522.5,15.5,64.4,63.7,55.3,15.7,5.69,Rabi,Rainfed,4.71
+Maize,Surat,Sandy,1249.1,29.3,57.9,47.1,75.4,112.7,5.79,Rabi,Sprinkler,4.47
+Cotton,Vadodara,Alluvial,2018.9,32.6,86.8,78.1,65.5,73.0,6.15,Kharif,Sprinkler,2.63
+Soybean,Vadodara,Red,992.7,28.3,62.1,68.9,20.0,33.0,7.98,Kharif,Rainfed,3.18
+Wheat,Vadodara,Red,539.6,16.7,50.9,34.7,18.9,83.1,8.13,Rabi,Sprinkler,4.87
+Rice,Junagadh,Black,947.8,22.6,84.7,84.2,16.6,18.7,8.47,Summer,Rainfed,4.49
+Cotton,Surat,Alluvial,1608.9,34.1,73.7,76.1,59.6,58.2,6.78,Kharif,Tube Well,3.4
+Cotton,Rajkot,Clay,1190.5,23.8,68.0,92.4,51.9,41.6,6.91,Kharif,Tube Well,3.6
+Cotton,Vadodara,Alluvial,1643.5,29.2,66.8,54.5,17.5,116.2,5.91,Kharif,Canal,3.68
+Maize,Ahmedabad,Red,1189.2,18.1,50.0,65.4,21.5,16.9,6.89,Kharif,Canal,3.85
+Rice,Amreli,Alluvial,1710.6,25.0,68.7,104.2,19.1,119.7,6.05,Kharif,Sprinkler,5.36
+Rice,Ahmedabad,Sandy,1451.5,22.2,67.4,51.0,12.2,81.3,6.78,Summer,Drip,4.5
+Maize,Ahmedabad,Black,545.4,30.5,70.2,87.7,50.0,22.3,5.77,Rabi,Canal,6.15
+Wheat,Amreli,Alluvial,573.6,14.0,65.0,55.2,52.0,88.3,8.2,Rabi,Canal,5.06
+Cotton,Junagadh,Alluvial,1155.1,32.6,67.5,130.9,36.1,28.4,6.83,Kharif,Tube Well,4.2
+Barley,Amreli,Sandy,715.8,19.8,52.0,36.1,17.6,102.3,8.26,Rabi,Drip,4.03
+Cotton,Bhavnagar,Red,800.0,32.0,75.7,50.5,11.0,71.7,8.05,Kharif,Tube Well,3.0
+Maize,Junagadh,Red,997.8,29.4,63.4,100.0,89.1,38.7,6.67,Kharif,Drip,5.97
+Maize,Bhavnagar,Red,559.2,30.5,66.2,58.4,48.1,48.4,6.97,Kharif,Canal,5.98
+Cotton,Amreli,Clay,1310.5,32.3,85.0,34.3,55.8,42.0,7.91,Kharif,Tube Well,3.42
+Soybean,Junagadh,Black,898.7,26.6,79.7,43.5,20.0,116.2,5.82,Kharif,Rainfed,3.8
+Wheat,Bhavnagar,Red,647.8,13.2,42.0,32.7,56.8,72.2,6.2,Rabi,Sprinkler,4.73
+Barley,Ahmedabad,Red,729.1,15.5,50.8,93.6,81.8,100.0,7.25,Rabi,Tube Well,4.76
+Barley,Bhavnagar,Red,898.1,21.8,67.0,60.5,85.3,70.6,7.7,Rabi,Sprinkler,4.59
+Cotton,Amreli,Sandy,2102.9,31.5,74.2,64.4,54.0,98.0,6.45,Kharif,Tube Well,1.95
+Maize,Bhavnagar,Black,555.8,22.8,67.7,39.4,62.6,119.8,6.86,Rabi,Drip,5.81
+Barley,Rajkot,Red,687.7,20.6,56.0,67.6,46.4,58.6,7.69,Rabi,Canal,4.53
+Rice,Ahmedabad,Black,1468.4,30.4,82.5,68.2,37.0,28.3,6.68,Kharif,Canal,5.76
+Maize,Amreli,Alluvial,537.8,23.1,53.5,34.0,30.3,46.0,7.09,Rabi,Drip,5.88
+Maize,Surat,Black,766.7,20.0,55.3,71.9,57.7,23.5,8.32,Rabi,Rainfed,4.77
+Cotton,Amreli,Red,1682.1,33.6,88.5,53.2,85.3,28.1,8.13,Kharif,Canal,3.07
+Wheat,Vadodara,Sandy,634.0,20.1,72.8,100.7,48.5,100.0,8.35,Rabi,Tube Well,4.64
+Wheat,Junagadh,Clay,380.0,20.4,71.6,66.0,27.3,61.5,5.65,Rabi,Rainfed,4.71
+Wheat,Surat,Sandy,673.4,16.9,68.0,86.6,76.1,81.3,7.85,Rabi,Tube Well,4.57
+Barley,Bhavnagar,Sandy,357.9,18.7,40.7,118.4,76.0,97.7,6.35,Rabi,Rainfed,4.55
+Maize,Ahmedabad,Red,572.1,24.2,55.7,42.1,26.2,55.6,5.65,Kharif,Canal,5.58
+Maize,Surat,Alluvial,506.6,18.4,69.4,82.5,89.6,36.2,6.27,Rabi,Rainfed,4.33
+Soybean,Rajkot,Alluvial,1312.5,25.3,65.8,59.6,57.1,62.7,6.85,Kharif,Drip,4.09
+Barley,Rajkot,Sandy,382.5,21.7,65.5,25.6,84.2,24.6,6.36,Rabi,Drip,4.45
+Maize,Junagadh,Black,798.0,28.7,64.5,98.4,56.4,17.3,8.47,Rabi,Tube Well,5.94
+Barley,Vadodara,Clay,403.3,14.5,67.9,101.3,53.8,64.9,8.27,Rabi,Sprinkler,4.25
+Soybean,Ahmedabad,Black,1259.4,22.5,74.1,135.4,68.4,66.4,7.39,Kharif,Tube Well,3.68
+Barley,Surat,Alluvial,752.0,17.9,60.2,119.9,74.3,106.0,5.68,Rabi,Rainfed,5.14
+Wheat,Surat,Alluvial,602.8,21.5,61.7,88.2,14.7,81.4,7.81,Rabi,Tube Well,5.56
+Wheat,Vadodara,Black,464.6,17.0,63.4,78.1,43.5,52.6,7.28,Rabi,Drip,5.93
+Rice,Vadodara,Black,1598.4,24.9,87.3,23.0,38.4,96.9,7.19,Kharif,Tube Well,5.33
+Soybean,Rajkot,Clay,961.9,19.8,65.4,58.1,83.0,21.4,7.58,Kharif,Canal,3.01
+Wheat,Rajkot,Alluvial,578.5,24.7,48.5,31.0,35.5,26.0,5.89,Rabi,Canal,4.92
+Maize,Ahmedabad,Black,612.8,21.6,72.5,53.1,49.6,27.8,7.26,Rabi,Sprinkler,5.6
+Wheat,Vadodara,Red,686.4,16.1,49.0,59.3,23.2,34.0,7.87,Rabi,Tube Well,4.57
+Soybean,Amreli,Clay,560.6,29.6,56.2,106.8,71.8,90.1,7.24,Kharif,Canal,4.3
+Cotton,Vadodara,Black,1709.1,31.4,89.0,131.9,11.6,31.1,8.16,Kharif,Rainfed,3.32
+Wheat,Bhavnagar,Alluvial,862.5,26.0,65.2,54.5,80.4,20.2,6.19,Rabi,Sprinkler,4.72
+Rice,Amreli,Clay,2064.5,22.3,71.3,70.0,38.5,110.7,5.62,Kharif,Tube Well,3.91
+Cotton,Bhavnagar,Clay,1224.7,32.9,88.0,103.0,87.3,56.3,5.89,Kharif,Sprinkler,3.83
+Wheat,Rajkot,Clay,666.3,14.9,57.7,57.5,44.2,82.7,7.74,Rabi,Canal,4.91
+Maize,Amreli,Black,791.4,28.7,55.0,98.9,61.3,17.7,7.86,Rabi,Drip,6.11
+Barley,Surat,Alluvial,680.0,18.8,59.1,131.1,79.7,97.4,6.32,Rabi,Rainfed,5.04
+Rice,Amreli,Red,1228.5,22.9,70.3,20.6,45.6,23.8,7.55,Summer,Tube Well,5.0
+Barley,Surat,Red,509.2,23.0,68.1,138.4,57.8,23.6,7.44,Rabi,Rainfed,4.71
+Soybean,Bhavnagar,Red,927.9,29.9,63.4,40.2,76.9,72.6,6.07,Kharif,Drip,4.51
+Cotton,Vadodara,Black,1646.0,28.5,89.9,119.5,66.8,26.1,8.02,Kharif,Tube Well,3.9
+Rice,Junagadh,Sandy,1370.9,34.4,66.4,135.4,64.3,81.3,6.31,Kharif,Canal,5.08
+Maize,Amreli,Clay,1198.0,23.5,54.9,21.3,53.5,117.5,6.61,Kharif,Canal,4.86
+Wheat,Ahmedabad,Clay,578.7,12.9,53.9,76.9,46.1,106.3,7.09,Rabi,Sprinkler,4.54
+Cotton,Vadodara,Clay,1944.7,34.5,90.6,100.8,21.0,44.1,5.64,Kharif,Sprinkler,2.17
+Barley,Amreli,Black,589.4,24.9,52.1,26.6,26.3,59.0,6.16,Rabi,Drip,4.74
+Rice,Surat,Sandy,1034.9,23.7,67.0,106.9,84.3,60.2,5.86,Summer,Canal,4.74
+Maize,Surat,Black,599.5,18.5,84.8,47.9,14.3,34.9,5.62,Rabi,Canal,4.6
+Soybean,Ahmedabad,Clay,899.8,27.5,67.8,123.4,79.3,16.0,7.83,Kharif,Drip,4.55
+Wheat,Ahmedabad,Alluvial,837.6,17.6,70.2,52.0,52.8,105.2,6.48,Rabi,Drip,5.74
+Wheat,Surat,Red,805.1,12.0,50.8,48.9,28.7,22.2,6.06,Rabi,Rainfed,3.45
+Maize,Amreli,Clay,1314.8,24.9,61.6,32.8,86.3,21.3,6.39,Rabi,Tube Well,5.0
+Rice,Amreli,Black,1688.9,23.7,67.1,129.1,25.2,101.2,7.13,Kharif,Tube Well,5.3
+Cotton,Surat,Clay,1516.5,32.8,93.0,129.1,75.6,108.3,6.1,Kharif,Canal,3.66
+Cotton,Bhavnagar,Alluvial,1350.6,29.6,69.8,102.9,23.4,47.6,7.01,Kharif,Sprinkler,4.38
+Cotton,Rajkot,Clay,922.4,27.3,77.4,24.8,31.9,115.3,8.36,Kharif,Canal,3.49
+Wheat,Rajkot,Sandy,819.1,13.6,64.7,80.4,76.3,68.4,7.36,Rabi,Sprinkler,4.05
+Maize,Bhavnagar,Red,631.4,31.1,82.1,126.5,60.0,99.9,5.71,Kharif,Sprinkler,5.53
+Rice,Vadodara,Sandy,1007.9,30.4,89.4,65.9,20.6,35.7,6.21,Summer,Canal,5.21
+Rice,Bhavnagar,Red,1070.4,28.6,79.2,65.4,51.4,58.4,6.1,Summer,Drip,5.55
+Cotton,Amreli,Alluvial,1995.1,32.2,75.8,30.4,26.2,72.3,6.12,Kharif,Drip,2.43
+Rice,Ahmedabad,Black,1280.0,23.6,82.1,89.8,67.2,40.2,6.83,Summer,Drip,5.99
+Soybean,Ahmedabad,Clay,675.9,20.3,82.1,59.3,39.8,94.8,6.52,Kharif,Drip,3.93
+Rice,Vadodara,Red,1117.8,32.4,92.6,70.9,37.4,116.0,6.83,Kharif,Rainfed,5.11
+Soybean,Surat,Alluvial,1318.6,26.0,76.7,117.4,37.3,60.5,8.05,Kharif,Drip,4.08
+Soybean,Amreli,Sandy,1170.3,24.2,50.7,27.5,41.0,76.3,6.89,Kharif,Sprinkler,2.99
+Barley,Junagadh,Black,412.1,20.4,57.0,23.2,40.4,26.1,7.09,Rabi,Tube Well,4.93
+Cotton,Amreli,Black,2146.9,29.5,83.5,101.7,63.3,68.7,6.79,Kharif,Rainfed,2.02
+Wheat,Ahmedabad,Black,714.8,23.7,59.3,38.4,68.2,78.0,7.69,Rabi,Sprinkler,4.92
+Soybean,Amreli,Clay,607.4,22.6,78.6,91.7,41.5,64.7,8.06,Kharif,Rainfed,3.75
+Barley,Junagadh,Red,398.5,22.9,69.7,41.8,44.4,32.4,7.62,Rabi,Sprinkler,4.76
+Soybean,Amreli,Black,537.3,22.5,69.6,123.0,63.4,60.7,8.36,Kharif,Canal,4.14
+Barley,Ahmedabad,Sandy,401.0,19.5,68.8,32.2,73.4,100.2,6.95,Rabi,Rainfed,4.21
+Rice,Junagadh,Alluvial,2091.6,32.7,82.8,43.0,63.3,80.5,7.31,Kharif,Tube Well,4.18
+Rice,Ahmedabad,Alluvial,1527.0,24.8,89.2,42.3,16.8,60.8,7.47,Kharif,Rainfed,4.78
+Soybean,Junagadh,Alluvial,1330.4,25.0,61.5,108.5,12.9,64.9,6.51,Kharif,Rainfed,3.28
+Barley,Ahmedabad,Black,757.4,18.8,43.0,136.7,51.4,79.5,6.21,Rabi,Tube Well,4.69
+Cotton,Rajkot,Sandy,1135.7,24.7,80.1,112.2,15.0,75.6,5.86,Kharif,Rainfed,2.94
+Wheat,Rajkot,Sandy,745.5,19.7,73.0,50.1,18.0,56.3,7.35,Rabi,Sprinkler,4.73
+Wheat,Amreli,Clay,477.2,17.7,74.8,124.2,55.2,69.2,6.35,Rabi,Rainfed,5.37
+Rice,Junagadh,Alluvial,1437.9,28.7,87.7,53.8,35.4,112.1,5.67,Kharif,Canal,5.85
+Soybean,Ahmedabad,Clay,808.9,29.9,69.6,81.8,18.0,16.7,8.39,Kharif,Tube Well,3.79
+Soybean,Vadodara,Sandy,509.5,23.5,79.8,61.5,12.8,93.3,7.91,Kharif,Canal,3.45
+Maize,Ahmedabad,Sandy,618.2,22.3,57.1,129.1,70.8,86.0,6.4,Kharif,Drip,5.43
+Cotton,Vadodara,Black,1116.1,30.6,66.2,59.1,47.5,30.5,8.45,Kharif,Rainfed,3.27
+Barley,Vadodara,Sandy,524.8,12.1,53.4,56.2,13.0,68.1,6.71,Rabi,Sprinkler,3.36
+Cotton,Amreli,Sandy,987.2,35.1,87.5,133.0,64.1,53.2,8.31,Kharif,Tube Well,2.42
+Rice,Vadodara,Red,1917.2,32.3,66.9,66.5,32.6,47.0,8.45,Summer,Tube Well,3.65
+Wheat,Junagadh,Black,481.5,20.8,62.4,122.1,69.3,72.0,7.46,Rabi,Rainfed,5.54
+Soybean,Rajkot,Clay,1168.1,21.2,52.0,56.0,47.9,32.6,6.56,Kharif,Canal,2.93
+Maize,Surat,Red,1106.6,18.2,61.9,115.5,16.2,44.6,7.26,Rabi,Canal,4.26
+Barley,Bhavnagar,Red,626.1,24.7,65.1,89.8,73.8,105.8,6.87,Rabi,Tube Well,4.65
+Barley,Junagadh,Sandy,733.4,13.2,70.2,77.7,15.5,72.7,6.75,Rabi,Tube Well,3.68
+Barley,Vadodara,Sandy,521.3,17.6,57.6,120.7,62.1,79.6,6.03,Rabi,Rainfed,4.29
+Cotton,Junagadh,Sandy,2162.6,24.8,65.3,29.0,40.1,101.2,5.52,Kharif,Rainfed,0.54
+Soybean,Ahmedabad,Alluvial,1138.7,31.8,51.8,31.6,67.6,44.6,6.05,Kharif,Canal,3.79
+Soybean,Rajkot,Black,1197.0,19.9,66.4,92.7,44.3,17.8,7.85,Kharif,Drip,3.04
+Rice,Junagadh,Alluvial,1513.5,34.7,88.6,78.5,85.6,21.0,8.29,Summer,Canal,5.09
+Cotton,Junagadh,Black,1167.8,28.6,74.7,134.3,75.9,89.4,7.26,Kharif,Rainfed,4.06
+Maize,Rajkot,Clay,732.9,22.4,53.0,56.4,87.3,114.2,6.5,Rabi,Sprinkler,5.95
+Soybean,Rajkot,Black,1062.7,31.1,73.8,88.4,58.8,113.9,7.86,Kharif,Drip,4.3
+Barley,Junagadh,Red,467.2,24.1,73.5,48.4,80.6,25.2,5.67,Rabi,Drip,4.42
+Rice,Vadodara,Sandy,1118.2,29.6,85.8,81.8,89.2,79.2,6.61,Summer,Sprinkler,5.34
+Rice,Rajkot,Sandy,1477.8,33.1,82.3,61.0,74.8,40.0,6.17,Kharif,Rainfed,4.55
+Rice,Ahmedabad,Red,1518.0,33.8,67.4,104.8,62.3,106.6,6.23,Kharif,Rainfed,4.94
+Wheat,Bhavnagar,Sandy,422.3,15.7,60.3,106.2,20.0,78.0,7.15,Rabi,Canal,4.71
+Barley,Junagadh,Sandy,527.6,24.4,45.6,40.8,31.3,27.6,6.19,Rabi,Rainfed,3.7
+Cotton,Ahmedabad,Clay,1069.2,26.3,94.2,69.3,45.6,75.5,8.45,Kharif,Rainfed,3.23
+Cotton,Bhavnagar,Black,1650.3,23.2,85.3,27.7,57.7,92.7,6.13,Kharif,Tube Well,3.21
+Maize,Surat,Alluvial,562.0,24.8,57.7,50.5,80.2,24.4,7.65,Kharif,Tube Well,6.26
+Cotton,Amreli,Red,1811.4,22.1,80.3,36.7,79.3,106.5,6.76,Kharif,Sprinkler,2.33
+Barley,Surat,Sandy,777.8,24.0,69.6,63.2,65.0,47.8,5.68,Rabi,Drip,4.22
+Rice,Ahmedabad,Black,1116.2,24.5,91.0,73.3,21.0,105.5,7.95,Kharif,Rainfed,5.21
+Soybean,Ahmedabad,Black,1176.6,26.0,59.6,76.9,36.7,75.8,8.17,Kharif,Drip,3.81
+Wheat,Ahmedabad,Sandy,594.5,12.4,55.7,55.6,84.4,28.1,7.46,Rabi,Canal,4.11
+Cotton,Bhavnagar,Black,2014.8,31.9,68.2,113.1,74.6,95.6,5.84,Kharif,Sprinkler,2.65
+Cotton,Rajkot,Clay,1870.7,25.7,89.2,50.2,75.9,24.0,8.1,Kharif,Sprinkler,2.44
+Wheat,Surat,Sandy,471.2,13.4,60.5,78.6,51.9,85.0,6.3,Rabi,Canal,4.43
+Soybean,Bhavnagar,Sandy,616.2,28.4,72.5,57.9,59.7,38.1,6.83,Kharif,Sprinkler,4.22
+Soybean,Bhavnagar,Alluvial,1162.3,21.9,72.4,60.9,89.8,42.7,6.34,Kharif,Tube Well,3.54
+Cotton,Surat,Black,904.9,25.1,77.2,61.7,11.7,24.6,7.54,Kharif,Canal,3.67
+Maize,Bhavnagar,Sandy,1320.6,24.1,51.4,63.5,76.1,88.7,6.88,Kharif,Drip,5.09
+Soybean,Rajkot,Alluvial,922.1,31.0,72.4,57.4,52.0,21.9,8.42,Kharif,Canal,3.95
+Barley,Ahmedabad,Clay,714.2,22.0,49.4,57.9,20.0,83.8,5.62,Rabi,Sprinkler,4.2
+Soybean,Surat,Sandy,904.1,24.4,52.7,100.5,75.7,40.7,6.76,Kharif,Sprinkler,3.92
+Barley,Vadodara,Red,768.0,12.7,69.5,72.6,37.4,72.4,5.77,Rabi,Sprinkler,3.64
+Wheat,Ahmedabad,Clay,453.5,14.6,42.0,90.5,77.2,16.8,5.65,Rabi,Rainfed,4.75
+Rice,Rajkot,Black,1183.9,22.4,87.1,95.1,56.5,92.9,7.53,Kharif,Tube Well,5.54
+Wheat,Junagadh,Black,731.6,16.3,66.6,94.4,16.2,68.8,6.53,Rabi,Tube Well,5.53
+Wheat,Amreli,Clay,388.9,21.2,68.3,100.7,49.8,114.8,6.4,Rabi,Canal,5.18
+Rice,Rajkot,Red,846.8,30.1,70.0,105.5,24.1,39.7,6.98,Kharif,Sprinkler,5.44
+Cotton,Junagadh,Red,1154.7,34.5,82.2,62.1,76.6,66.8,8.23,Kharif,Drip,3.22
+Soybean,Surat,Clay,502.1,31.8,81.7,26.7,76.6,63.1,6.28,Kharif,Canal,4.08
+Wheat,Rajkot,Sandy,599.1,25.2,63.7,56.2,25.1,46.9,5.78,Rabi,Rainfed,4.09
+Rice,Bhavnagar,Black,1518.6,23.5,77.7,74.3,68.7,103.2,7.13,Summer,Canal,5.55
+Wheat,Ahmedabad,Black,645.5,21.5,63.9,95.4,31.3,19.1,6.87,Rabi,Canal,5.56
+Cotton,Bhavnagar,Red,1394.7,26.8,70.5,20.8,47.4,87.0,6.18,Kharif,Drip,3.66
+Maize,Vadodara,Alluvial,1067.6,24.0,65.3,57.2,71.0,113.3,8.32,Rabi,Rainfed,5.1
+Rice,Vadodara,Clay,1673.8,28.6,91.3,52.6,10.3,32.1,6.55,Summer,Drip,5.45
+Soybean,Junagadh,Alluvial,631.5,29.5,58.2,98.3,42.4,77.6,5.82,Kharif,Canal,4.61
+Soybean,Ahmedabad,Alluvial,742.7,29.5,85.0,45.4,31.2,84.6,8.4,Kharif,Canal,4.23
+Cotton,Vadodara,Clay,2150.1,24.3,74.0,32.0,31.7,100.7,6.63,Kharif,Sprinkler,2.02
+Barley,Rajkot,Alluvial,889.8,20.8,54.6,40.0,88.9,101.2,6.34,Rabi,Canal,5.15
+Wheat,Ahmedabad,Clay,595.2,21.9,65.6,40.9,38.9,81.9,5.71,Rabi,Sprinkler,4.96
+Barley,Amreli,Red,368.9,20.9,70.1,61.4,41.2,108.6,7.94,Rabi,Sprinkler,4.32
+Wheat,Ahmedabad,Alluvial,694.7,12.4,62.5,53.3,46.0,51.3,6.02,Rabi,Sprinkler,4.87
+Barley,Ahmedabad,Black,455.8,22.0,63.3,61.2,11.5,87.4,8.34,Rabi,Drip,4.53
+Maize,Ahmedabad,Alluvial,1146.3,24.2,75.6,48.0,75.1,76.8,6.13,Kharif,Rainfed,5.73
+Soybean,Ahmedabad,Sandy,1246.9,23.8,59.0,124.0,63.5,62.0,6.96,Kharif,Sprinkler,3.35
+Soybean,Bhavnagar,Black,897.4,19.8,60.2,124.3,82.4,15.1,7.28,Kharif,Canal,3.41
+Rice,Junagadh,Alluvial,1150.5,33.6,78.9,78.4,84.8,81.9,8.2,Kharif,Sprinkler,5.21
+Rice,Vadodara,Clay,1889.2,25.1,69.9,68.8,84.1,89.6,6.76,Kharif,Canal,4.86
+Barley,Surat,Alluvial,716.5,16.0,60.5,33.1,87.3,33.4,7.44,Rabi,Tube Well,4.9
+Soybean,Rajkot,Red,1053.0,30.5,52.8,59.7,29.9,118.7,6.67,Kharif,Rainfed,3.4
+Cotton,Surat,Alluvial,1134.6,25.9,77.3,48.1,11.6,107.3,8.4,Kharif,Sprinkler,3.43
+Wheat,Amreli,Red,889.1,21.1,66.0,23.8,19.7,81.5,8.2,Rabi,Canal,4.49
+Barley,Bhavnagar,Clay,413.7,23.8,44.9,82.4,13.0,23.5,7.52,Rabi,Drip,4.43
+Maize,Junagadh,Sandy,760.2,31.3,51.7,38.0,53.0,75.5,7.44,Rabi,Sprinkler,5.63
+Soybean,Surat,Sandy,540.1,20.0,50.5,88.0,84.6,84.9,7.97,Kharif,Rainfed,2.74
+Soybean,Junagadh,Clay,1116.0,25.0,76.8,78.2,22.0,83.1,6.02,Kharif,Rainfed,3.45
+Soybean,Surat,Sandy,575.4,27.0,76.7,90.2,31.3,18.3,5.86,Kharif,Drip,4.12
+Soybean,Amreli,Black,1102.3,29.4,59.1,55.6,10.1,116.1,8.25,Kharif,Canal,3.76
+Barley,Bhavnagar,Sandy,406.0,12.2,61.6,135.3,82.2,88.2,5.79,Rabi,Drip,3.63
+Wheat,Ahmedabad,Black,826.6,20.3,44.4,71.3,22.9,88.5,7.78,Rabi,Canal,5.23
+Barley,Bhavnagar,Black,798.0,25.1,58.0,134.0,52.9,56.4,8.04,Rabi,Drip,4.25
+Barley,Amreli,Black,673.3,25.1,65.4,130.1,82.7,78.5,7.08,Rabi,Canal,4.88
+Rice,Junagadh,Alluvial,948.8,32.9,70.1,73.7,26.8,87.4,8.13,Summer,Sprinkler,5.19
+Maize,Rajkot,Clay,839.6,21.6,58.5,74.9,70.8,36.6,7.63,Rabi,Tube Well,5.37
+Soybean,Amreli,Red,1198.3,22.7,69.7,44.6,69.4,20.5,8.06,Kharif,Rainfed,2.75
+Barley,Bhavnagar,Alluvial,848.3,13.8,46.2,79.2,16.6,35.6,8.33,Rabi,Tube Well,4.03
+Barley,Surat,Black,857.8,19.6,49.4,104.3,62.7,118.9,6.3,Rabi,Tube Well,5.04
+Soybean,Junagadh,Red,1399.5,29.2,77.5,81.2,34.0,30.9,6.35,Kharif,Tube Well,3.15
+Soybean,Vadodara,Clay,675.5,22.4,71.7,96.6,66.0,26.8,8.05,Kharif,Canal,3.54
+Wheat,Surat,Clay,780.7,14.4,57.9,78.5,60.0,114.3,7.24,Rabi,Tube Well,5.41
+Cotton,Surat,Clay,1752.0,24.8,87.4,139.5,63.3,66.8,8.27,Kharif,Rainfed,2.65
+Maize,Vadodara,Clay,547.5,26.8,51.9,120.4,51.0,70.3,7.18,Rabi,Canal,6.3
+Cotton,Junagadh,Clay,1246.3,30.3,71.3,34.0,87.6,17.3,7.91,Kharif,Canal,3.57
+Barley,Surat,Alluvial,405.5,14.8,75.0,20.3,61.1,29.8,8.26,Rabi,Sprinkler,4.31
+Cotton,Rajkot,Red,1655.3,22.0,91.8,82.6,31.0,95.6,8.28,Kharif,Rainfed,2.08
+Cotton,Ahmedabad,Clay,1361.4,26.9,88.2,116.4,22.3,53.5,6.62,Kharif,Sprinkler,4.02
+Rice,Vadodara,Alluvial,1933.1,27.3,66.4,41.2,86.5,22.4,6.56,Kharif,Rainfed,3.86
+Soybean,Surat,Sandy,1374.9,20.2,62.4,70.3,41.3,84.9,6.15,Kharif,Canal,2.41
+Wheat,Ahmedabad,Red,625.2,17.8,45.9,42.5,10.8,24.6,7.17,Rabi,Canal,4.95
+Maize,Ahmedabad,Sandy,1057.6,27.3,79.3,45.9,19.6,104.4,5.97,Kharif,Tube Well,5.17
+Rice,Ahmedabad,Red,871.2,34.1,75.2,127.9,85.3,85.4,7.49,Summer,Canal,5.36
+Cotton,Bhavnagar,Clay,1649.5,33.9,81.2,116.5,50.7,21.6,6.65,Kharif,Rainfed,2.88
+Barley,Vadodara,Black,396.8,16.2,66.1,135.7,67.4,119.2,7.6,Rabi,Drip,5.26
+Barley,Ahmedabad,Red,697.2,14.3,59.8,80.5,11.1,53.1,7.3,Rabi,Tube Well,4.0
+Rice,Rajkot,Sandy,1188.5,35.1,86.7,89.3,61.8,18.1,7.35,Summer,Sprinkler,5.1
+Rice,Bhavnagar,Alluvial,1241.6,31.6,91.1,48.5,88.3,55.6,6.3,Kharif,Drip,6.13
+Soybean,Ahmedabad,Black,1310.3,27.3,53.7,100.6,60.8,99.6,7.98,Kharif,Rainfed,3.37
+Rice,Ahmedabad,Clay,1045.5,22.1,69.5,113.1,45.7,62.0,8.37,Summer,Tube Well,5.12
+Wheat,Vadodara,Clay,816.7,24.7,59.0,95.5,30.6,99.1,7.4,Rabi,Rainfed,4.68
+Wheat,Junagadh,Clay,456.0,20.5,63.7,83.1,67.4,76.1,8.34,Rabi,Drip,5.4
+Wheat,Surat,Clay,641.5,12.4,48.6,75.2,60.3,73.5,7.73,Rabi,Sprinkler,4.68
+Barley,Rajkot,Sandy,698.6,14.0,55.5,87.4,77.9,61.6,8.26,Rabi,Tube Well,3.48
+Soybean,Rajkot,Red,1024.8,31.4,73.1,82.7,11.9,58.4,6.4,Kharif,Sprinkler,3.69
+Cotton,Junagadh,Black,1235.4,34.4,88.2,108.2,73.8,43.3,8.16,Kharif,Drip,3.83
+Cotton,Surat,Alluvial,1019.7,35.3,88.0,52.2,57.3,90.8,8.32,Kharif,Drip,3.33
+Cotton,Amreli,Red,1573.8,23.6,68.8,83.5,31.5,17.2,7.67,Kharif,Rainfed,3.1
+Maize,Amreli,Clay,1371.9,24.8,52.2,86.2,77.3,119.7,6.79,Rabi,Canal,5.29
+Barley,Rajkot,Clay,476.7,21.6,74.4,102.9,80.7,114.6,6.96,Rabi,Tube Well,4.97
+Wheat,Vadodara,Sandy,388.8,25.1,66.8,99.0,75.9,83.0,8.41,Rabi,Tube Well,4.35
+Soybean,Rajkot,Sandy,1154.8,26.8,62.6,68.7,87.6,26.8,6.31,Kharif,Sprinkler,3.53
+Cotton,Surat,Black,1645.3,26.2,77.3,46.1,87.3,28.7,6.62,Kharif,Drip,3.8
+Rice,Bhavnagar,Alluvial,850.4,31.2,73.6,87.2,32.3,51.6,8.27,Summer,Tube Well,5.4
+Rice,Junagadh,Alluvial,1511.9,25.3,90.4,107.3,88.5,31.3,6.18,Kharif,Tube Well,5.89
+Soybean,Vadodara,Black,522.3,29.7,62.8,121.0,54.4,109.7,8.28,Kharif,Sprinkler,4.29
+Soybean,Ahmedabad,Black,1102.4,30.4,66.1,92.8,25.1,99.5,8.4,Kharif,Tube Well,3.73
+Rice,Rajkot,Black,1841.0,32.5,74.5,78.0,33.6,42.2,5.58,Kharif,Canal,4.3
+Maize,Rajkot,Clay,1293.3,26.3,71.3,68.4,64.1,34.9,7.96,Rabi,Sprinkler,5.19
+Rice,Ahmedabad,Sandy,1691.6,35.6,89.8,27.2,40.1,112.2,7.01,Kharif,Rainfed,3.32
+Maize,Rajkot,Alluvial,951.6,24.1,61.9,106.3,33.0,41.2,6.57,Kharif,Rainfed,5.86
+Maize,Bhavnagar,Black,745.1,19.6,58.8,130.5,56.5,71.0,7.29,Rabi,Tube Well,5.2
+Cotton,Surat,Black,1464.6,25.6,89.6,128.0,72.6,35.5,5.76,Kharif,Drip,4.1
+Rice,Amreli,Alluvial,1079.5,27.2,80.1,107.1,19.1,57.7,6.96,Summer,Drip,6.24
+Wheat,Rajkot,Sandy,507.2,13.0,52.1,109.2,45.0,100.9,7.15,Rabi,Rainfed,4.07
+Soybean,Rajkot,Alluvial,1109.9,21.2,71.1,103.7,17.2,67.2,6.29,Kharif,Rainfed,3.16
+Cotton,Ahmedabad,Black,1403.3,24.8,78.1,69.0,44.3,76.5,7.06,Kharif,Canal,4.15
+Rice,Surat,Alluvial,1914.4,26.3,67.2,131.9,41.6,98.2,6.34,Kharif,Rainfed,5.09
+Barley,Junagadh,Clay,384.8,13.8,70.1,96.1,30.3,73.3,7.08,Rabi,Tube Well,4.06
+Maize,Surat,Red,976.6,23.6,60.4,101.8,26.6,98.9,7.91,Kharif,Sprinkler,5.58
+Cotton,Bhavnagar,Alluvial,1837.2,31.3,75.7,117.1,33.6,75.0,7.74,Kharif,Canal,3.12
+Wheat,Amreli,Black,861.5,19.6,63.2,128.4,17.9,39.4,7.63,Rabi,Drip,5.47
+Cotton,Ahmedabad,Red,1015.5,31.9,72.3,76.2,57.3,108.1,8.17,Kharif,Drip,3.94
+Soybean,Vadodara,Black,1226.5,24.4,57.8,132.0,37.6,31.9,7.19,Kharif,Canal,3.93
+Rice,Vadodara,Alluvial,1418.7,24.0,87.9,114.8,61.1,104.6,7.71,Kharif,Tube Well,5.68
+Maize,Rajkot,Clay,1002.1,22.3,53.0,20.2,46.0,102.9,7.22,Kharif,Canal,5.43
+Rice,Junagadh,Clay,1023.6,24.3,73.6,115.1,82.5,117.4,6.2,Kharif,Drip,5.8
+Soybean,Junagadh,Sandy,886.8,22.0,75.8,74.4,89.1,20.7,6.57,Kharif,Rainfed,3.24
+Soybean,Rajkot,Sandy,1156.3,30.2,82.9,116.6,78.0,72.8,7.98,Kharif,Rainfed,3.02
+Rice,Vadodara,Black,937.3,29.4,66.7,33.3,27.6,63.8,6.8,Summer,Sprinkler,5.27
+Rice,Bhavnagar,Black,1590.8,24.5,68.0,26.5,63.3,99.8,7.03,Summer,Sprinkler,5.31
+Wheat,Rajkot,Red,795.2,23.2,72.6,112.4,69.8,39.6,5.68,Rabi,Drip,5.24
+Wheat,Junagadh,Black,509.5,23.9,53.6,58.8,84.8,53.1,6.67,Rabi,Sprinkler,5.48
+Maize,Junagadh,Sandy,650.3,19.7,53.0,129.1,25.5,58.7,6.85,Kharif,Canal,4.69
+Soybean,Amreli,Sandy,888.7,23.4,74.1,92.3,18.6,68.4,7.71,Kharif,Canal,3.3
+Rice,Surat,Alluvial,1080.9,32.0,74.4,56.8,22.2,42.7,6.78,Summer,Drip,5.71
+Soybean,Amreli,Alluvial,891.2,20.7,56.7,112.3,31.2,95.6,6.12,Kharif,Tube Well,3.73
+Wheat,Bhavnagar,Red,547.0,14.1,57.8,75.3,82.1,112.7,6.65,Rabi,Rainfed,4.3
+Wheat,Rajkot,Alluvial,790.8,19.4,56.9,101.7,78.7,81.0,7.79,Rabi,Canal,5.68
+Cotton,Rajkot,Red,1476.3,27.8,94.3,44.1,27.2,45.6,6.02,Kharif,Drip,3.98
+Cotton,Surat,Sandy,2012.4,24.4,90.5,125.3,54.0,83.9,6.65,Kharif,Rainfed,2.19
+Wheat,Amreli,Alluvial,631.4,14.2,41.9,73.5,13.9,74.8,6.65,Rabi,Sprinkler,4.98
+Barley,Amreli,Clay,676.1,19.5,40.2,28.7,33.2,107.6,5.94,Rabi,Canal,4.58
+Maize,Junagadh,Red,1298.8,27.0,64.5,55.1,40.0,68.4,6.46,Kharif,Rainfed,5.0
+Barley,Surat,Sandy,514.0,13.8,69.5,63.5,62.8,64.4,6.1,Rabi,Canal,3.84
+Rice,Amreli,Sandy,1848.1,33.6,88.1,24.7,25.5,71.3,8.3,Kharif,Sprinkler,3.44
+Barley,Rajkot,Alluvial,516.8,18.0,56.5,38.9,12.5,114.4,6.22,Rabi,Drip,4.98
+Barley,Junagadh,Alluvial,600.6,21.9,68.7,48.4,62.9,56.2,6.61,Rabi,Drip,5.32
+Maize,Rajkot,Clay,1252.3,19.4,73.7,49.8,11.2,32.5,7.32,Kharif,Tube Well,4.13
+Wheat,Bhavnagar,Red,735.3,17.6,42.7,107.9,59.4,15.3,5.53,Rabi,Drip,5.14
+Rice,Ahmedabad,Sandy,1435.9,34.1,92.5,139.6,22.3,105.6,6.3,Summer,Drip,4.92
+Rice,Amreli,Alluvial,1763.5,33.0,88.9,36.3,45.8,102.1,6.41,Summer,Drip,5.55
+Maize,Bhavnagar,Black,1299.1,24.4,69.5,68.5,46.8,16.6,6.35,Rabi,Canal,5.59
+Maize,Ahmedabad,Alluvial,664.6,23.1,65.1,94.8,16.0,67.9,6.05,Kharif,Canal,5.86
+Rice,Rajkot,Alluvial,1405.9,28.8,84.4,22.2,62.3,80.0,6.43,Kharif,Rainfed,5.5
+Rice,Bhavnagar,Sandy,1969.8,22.6,72.1,126.8,10.7,36.1,8.38,Summer,Sprinkler,3.38
+Wheat,Amreli,Sandy,715.3,19.4,73.9,106.9,27.0,26.0,7.57,Rabi,Canal,5.04
+Cotton,Junagadh,Black,1781.4,23.6,88.2,79.0,72.7,76.3,5.75,Kharif,Canal,3.2
+Rice,Amreli,Black,2123.2,26.0,78.8,100.6,23.0,66.1,7.72,Kharif,Canal,4.19
+Rice,Vadodara,Alluvial,985.6,32.8,72.9,132.0,67.6,94.2,6.16,Kharif,Tube Well,5.88
+Soybean,Vadodara,Black,1090.1,21.3,59.8,118.5,56.7,68.4,6.46,Kharif,Rainfed,3.28
+Cotton,Ahmedabad,Alluvial,1680.9,31.8,86.3,26.2,78.8,63.1,6.29,Kharif,Canal,3.73
+Soybean,Vadodara,Red,811.6,29.3,62.5,32.1,87.0,83.5,6.87,Kharif,Rainfed,3.66
+Cotton,Junagadh,Clay,1240.7,28.8,79.3,76.6,24.1,30.2,6.26,Kharif,Sprinkler,3.76
+Maize,Surat,Black,658.8,29.4,69.0,35.7,71.3,112.9,8.34,Rabi,Drip,5.9
+Wheat,Amreli,Black,511.3,18.9,55.4,111.2,43.6,114.1,8.21,Rabi,Drip,5.54
+Soybean,Amreli,Black,593.2,19.5,53.5,21.4,53.9,117.2,6.82,Kharif,Rainfed,3.12
+Cotton,Vadodara,Black,954.0,35.3,77.7,21.1,45.4,19.8,7.13,Kharif,Canal,3.02
+Cotton,Junagadh,Black,1774.2,24.3,87.6,136.2,72.4,17.4,7.3,Kharif,Tube Well,3.55
+Barley,Surat,Alluvial,796.8,23.9,72.0,51.8,82.3,48.7,7.16,Rabi,Drip,5.25
+Cotton,Bhavnagar,Alluvial,1422.3,25.6,70.7,100.4,10.0,99.6,5.74,Kharif,Sprinkler,3.87
+Barley,Bhavnagar,Alluvial,419.4,13.7,45.2,23.6,15.7,84.3,6.79,Rabi,Sprinkler,4.0
+Soybean,Rajkot,Black,1013.3,18.8,54.9,94.7,26.6,67.9,7.13,Kharif,Drip,3.35
+Rice,Junagadh,Clay,890.0,31.0,82.6,127.5,62.3,51.7,8.4,Summer,Drip,5.45
+Rice,Rajkot,Sandy,1323.0,31.4,67.2,50.8,67.1,65.4,6.71,Summer,Rainfed,4.81
+Rice,Surat,Sandy,2161.7,30.5,68.6,58.5,79.4,39.4,7.32,Summer,Sprinkler,3.16
+Cotton,Vadodara,Red,1840.0,31.3,72.1,31.7,56.1,73.1,6.07,Kharif,Tube Well,2.99
+Rice,Vadodara,Red,1436.9,28.6,86.2,132.9,36.3,19.4,6.99,Summer,Tube Well,5.53
+Soybean,Ahmedabad,Black,1110.9,20.5,75.1,104.7,28.7,43.3,7.46,Kharif,Rainfed,2.81
+Barley,Vadodara,Clay,668.5,14.6,71.5,100.9,60.7,25.4,7.31,Rabi,Drip,4.71
+Rice,Rajkot,Red,1151.4,31.6,85.5,80.2,72.2,103.3,7.24,Summer,Rainfed,5.03
+Barley,Surat,Black,450.7,20.3,59.6,108.7,75.0,28.5,5.56,Rabi,Sprinkler,5.1
+Maize,Rajkot,Black,1121.6,26.0,64.2,63.6,27.3,85.3,8.41,Rabi,Drip,5.66
+Wheat,Junagadh,Clay,633.9,16.3,64.1,123.7,33.9,35.3,5.85,Rabi,Rainfed,4.68
+Soybean,Junagadh,Alluvial,874.2,24.6,62.9,32.1,34.8,84.7,7.5,Kharif,Rainfed,3.85
+Soybean,Ahmedabad,Red,1258.7,25.3,80.1,20.7,12.8,110.7,7.83,Kharif,Rainfed,2.38
+Rice,Amreli,Alluvial,1275.5,31.9,81.7,50.7,62.1,27.2,7.11,Kharif,Drip,5.6
+Maize,Rajkot,Clay,1385.4,31.5,61.2,139.6,77.6,79.2,5.62,Kharif,Rainfed,4.57
+Cotton,Rajkot,Clay,1968.2,33.7,85.9,55.0,36.9,47.4,5.56,Kharif,Drip,2.61
+Cotton,Ahmedabad,Alluvial,2020.2,28.3,75.3,36.6,45.2,67.1,6.71,Kharif,Drip,3.19
+Rice,Ahmedabad,Black,2141.0,34.4,93.0,123.0,65.5,32.9,6.32,Summer,Sprinkler,3.74
+Rice,Vadodara,Black,1736.3,29.6,90.0,35.0,20.4,73.5,8.34,Summer,Sprinkler,4.5
+Cotton,Bhavnagar,Alluvial,2102.6,33.7,94.9,22.7,19.0,79.0,7.96,Kharif,Drip,1.73
+Wheat,Rajkot,Red,553.2,19.1,59.6,107.4,38.4,79.3,7.26,Rabi,Rainfed,5.0
+Rice,Vadodara,Alluvial,967.0,25.1,80.0,120.9,66.1,97.8,6.55,Kharif,Sprinkler,5.7
+Rice,Rajkot,Alluvial,2184.9,24.3,66.4,113.5,30.2,102.1,7.61,Kharif,Rainfed,3.31
+Maize,Ahmedabad,Alluvial,1270.0,25.4,58.9,101.1,53.4,39.5,7.22,Rabi,Rainfed,5.08
+Soybean,Junagadh,Red,1238.6,18.5,62.9,85.1,21.8,93.4,5.53,Kharif,Drip,2.52
+Barley,Junagadh,Red,742.9,24.8,64.7,100.6,41.5,15.1,5.86,Rabi,Rainfed,4.43
+Wheat,Vadodara,Red,390.8,14.7,69.4,107.0,81.6,27.3,8.47,Rabi,Drip,4.81
+Soybean,Surat,Alluvial,1161.4,22.3,56.2,114.4,35.0,111.0,8.02,Kharif,Drip,3.88
+Barley,Rajkot,Red,448.4,24.6,53.9,49.4,45.9,48.7,7.73,Rabi,Sprinkler,4.38
+Maize,Rajkot,Clay,583.0,28.2,62.2,101.7,39.8,30.3,6.72,Rabi,Sprinkler,6.24
+Soybean,Rajkot,Alluvial,1254.1,30.4,82.3,32.5,20.3,73.5,8.18,Kharif,Tube Well,3.17
+Soybean,Rajkot,Alluvial,648.2,27.6,68.0,44.0,35.6,77.1,5.72,Kharif,Sprinkler,4.56
+Rice,Junagadh,Sandy,1809.8,24.2,90.5,107.1,77.3,46.4,6.45,Kharif,Sprinkler,4.67
+Barley,Rajkot,Red,731.0,24.2,52.0,112.4,54.9,107.7,7.08,Rabi,Sprinkler,5.24
+Rice,Vadodara,Clay,874.8,35.1,80.9,93.8,48.6,24.8,7.8,Kharif,Drip,5.0
+Maize,Surat,Black,1012.6,28.3,55.0,125.9,56.6,28.3,6.89,Rabi,Drip,6.54
+Soybean,Vadodara,Red,1216.2,22.8,50.2,77.5,11.3,24.7,6.48,Kharif,Rainfed,2.67
+Cotton,Amreli,Alluvial,1002.4,31.7,69.3,96.8,14.4,57.8,6.03,Kharif,Sprinkler,3.97
+Wheat,Amreli,Red,863.5,19.6,58.5,36.9,10.1,100.1,5.76,Rabi,Drip,4.88
+Barley,Vadodara,Clay,464.8,21.3,42.8,92.5,23.1,92.3,6.4,Rabi,Canal,5.36
+Rice,Junagadh,Sandy,2090.0,23.8,78.4,117.8,81.1,69.5,7.2,Kharif,Canal,3.59
+Barley,Amreli,Black,681.5,19.8,40.5,29.7,56.2,113.3,8.1,Rabi,Sprinkler,4.73
+Barley,Bhavnagar,Red,706.4,16.7,56.4,123.0,33.9,112.0,6.19,Rabi,Drip,5.02
+Wheat,Surat,Clay,590.5,25.1,62.1,54.6,61.1,45.1,6.38,Rabi,Tube Well,5.19
+Soybean,Vadodara,Clay,852.8,21.7,83.4,92.4,84.7,36.4,5.94,Kharif,Drip,3.97
+Barley,Bhavnagar,Black,452.6,15.8,68.0,74.5,63.6,48.4,6.64,Rabi,Rainfed,4.78
+Wheat,Rajkot,Black,406.9,18.0,48.0,81.9,30.3,113.8,8.22,Rabi,Tube Well,5.11
+Maize,Bhavnagar,Alluvial,870.7,28.2,65.8,122.8,85.5,50.3,7.18,Kharif,Canal,6.34
+Barley,Vadodara,Black,683.1,21.7,53.4,124.3,55.5,61.1,5.7,Rabi,Tube Well,4.97
+Wheat,Bhavnagar,Clay,826.5,12.5,71.9,34.2,61.7,41.3,8.01,Rabi,Tube Well,3.97
+Wheat,Bhavnagar,Clay,835.0,17.7,50.1,21.7,56.0,57.2,6.62,Rabi,Drip,5.34
+Cotton,Ahmedabad,Alluvial,2178.2,26.2,83.0,113.2,69.9,49.5,7.33,Kharif,Canal,2.3
+Rice,Junagadh,Alluvial,1569.5,34.4,68.1,118.7,26.8,56.4,6.45,Kharif,Canal,5.19
+Barley,Rajkot,Black,790.9,18.2,57.2,121.9,66.5,66.5,6.27,Rabi,Tube Well,5.2
+Maize,Surat,Clay,540.2,22.3,60.2,117.3,17.0,99.6,7.51,Kharif,Rainfed,5.51
+Maize,Surat,Black,1048.1,28.8,65.6,76.7,61.5,26.3,6.81,Kharif,Drip,6.02
+Maize,Rajkot,Alluvial,1195.3,20.4,78.8,112.3,57.7,50.4,6.29,Kharif,Sprinkler,4.89
+Maize,Bhavnagar,Clay,823.4,24.7,62.7,96.9,82.1,32.2,6.64,Kharif,Sprinkler,6.15
+Barley,Ahmedabad,Red,540.2,14.4,42.8,103.2,72.8,101.8,8.24,Rabi,Sprinkler,4.1
+Cotton,Bhavnagar,Red,1868.6,30.2,72.8,137.8,81.8,28.5,5.58,Kharif,Canal,3.16
+Maize,Ahmedabad,Clay,733.3,18.3,51.3,129.8,38.2,58.1,5.56,Kharif,Tube Well,4.89
+Soybean,Bhavnagar,Clay,1178.4,24.3,60.8,77.9,35.8,103.1,6.39,Kharif,Sprinkler,3.57
+Barley,Amreli,Clay,684.7,19.8,73.6,95.3,30.8,45.7,7.62,Rabi,Rainfed,4.68
+Rice,Amreli,Alluvial,934.1,34.9,82.1,63.6,70.5,42.0,7.58,Summer,Tube Well,5.44
+Maize,Junagadh,Alluvial,1150.6,20.9,58.7,60.4,57.1,62.7,7.74,Rabi,Canal,4.98
+Wheat,Vadodara,Sandy,777.1,23.5,42.1,93.3,40.3,98.4,8.12,Rabi,Sprinkler,4.73
+Barley,Ahmedabad,Red,379.0,18.4,73.0,126.5,18.2,93.1,7.92,Rabi,Rainfed,4.36
+Maize,Rajkot,Sandy,601.5,27.9,81.9,98.3,71.9,52.6,6.05,Kharif,Drip,5.77
+Cotton,Junagadh,Sandy,2113.3,24.1,65.3,48.6,75.6,37.0,6.22,Kharif,Tube Well,1.8
+Maize,Ahmedabad,Black,1117.3,29.7,58.7,93.1,56.8,53.8,6.96,Rabi,Canal,5.88
+Rice,Ahmedabad,Sandy,1725.0,35.3,86.9,26.2,80.7,105.6,6.83,Kharif,Rainfed,3.49
+Barley,Vadodara,Alluvial,526.1,24.8,54.3,109.8,19.1,41.0,7.92,Rabi,Tube Well,4.5
+Maize,Junagadh,Sandy,678.7,24.9,76.0,112.4,50.0,47.0,8.42,Kharif,Canal,5.62
+Rice,Amreli,Sandy,1823.5,25.4,70.2,83.6,33.2,81.0,5.85,Kharif,Canal,4.19
+Barley,Vadodara,Red,811.4,12.5,58.2,88.1,54.9,64.9,7.87,Rabi,Canal,4.16
+Barley,Vadodara,Red,688.6,21.7,54.1,125.0,43.2,57.3,5.61,Rabi,Rainfed,4.79
+Barley,Bhavnagar,Red,526.5,15.5,58.7,118.9,18.3,114.0,7.89,Rabi,Tube Well,4.42
+Cotton,Surat,Alluvial,1338.9,27.6,88.5,135.5,20.1,59.2,6.94,Kharif,Canal,4.12
+Maize,Amreli,Red,1057.4,27.1,57.0,48.8,62.7,110.5,8.45,Kharif,Tube Well,5.02
+Rice,Surat,Red,2015.6,26.1,65.1,46.9,37.2,119.1,7.07,Kharif,Drip,4.26
+Cotton,Ahmedabad,Sandy,1773.3,23.7,71.9,62.1,70.6,76.2,7.57,Kharif,Drip,2.69
+Maize,Amreli,Red,1343.3,23.3,73.2,50.6,20.2,21.1,6.42,Kharif,Drip,4.66
+Soybean,Vadodara,Sandy,841.5,25.1,69.7,57.6,33.6,92.0,8.11,Kharif,Rainfed,3.17
+Barley,Ahmedabad,Clay,538.0,14.4,60.4,137.1,70.9,59.5,5.51,Rabi,Tube Well,4.45
+Soybean,Vadodara,Clay,1318.3,19.4,51.7,20.6,36.2,84.3,7.69,Kharif,Tube Well,1.71
+Barley,Amreli,Clay,468.9,20.3,72.0,115.7,83.7,117.7,5.53,Rabi,Tube Well,4.6
+Wheat,Rajkot,Black,397.1,14.6,66.5,22.6,75.4,16.5,7.47,Rabi,Sprinkler,5.06
+Cotton,Vadodara,Black,1279.5,23.5,67.1,90.7,51.7,92.9,7.03,Kharif,Rainfed,3.41
+Rice,Ahmedabad,Clay,835.2,32.1,89.3,115.6,20.2,109.8,7.52,Summer,Drip,5.17
+Cotton,Bhavnagar,Clay,1411.7,33.0,67.8,82.5,76.9,102.2,8.37,Kharif,Canal,3.28
+Soybean,Bhavnagar,Alluvial,962.3,21.4,54.4,90.3,71.1,119.3,7.77,Kharif,Drip,4.2
+Maize,Surat,Alluvial,1076.0,30.0,83.1,131.6,40.5,23.3,6.02,Kharif,Canal,5.92
+Rice,Amreli,Clay,1955.4,23.8,92.1,123.7,47.2,93.2,7.36,Summer,Sprinkler,4.31
+Barley,Vadodara,Clay,782.2,18.5,72.9,78.4,47.0,97.4,7.96,Rabi,Canal,4.61
+Wheat,Vadodara,Black,829.6,13.4,55.3,135.5,76.7,66.4,7.79,Rabi,Rainfed,4.74
+Barley,Surat,Red,642.0,12.7,45.5,117.5,20.6,39.5,6.86,Rabi,Drip,4.57
+Barley,Rajkot,Sandy,690.1,13.6,45.5,72.4,41.8,93.1,7.24,Rabi,Drip,4.15
+Barley,Ahmedabad,Alluvial,474.8,20.1,54.8,81.8,23.7,84.6,8.06,Rabi,Tube Well,4.88
+Cotton,Junagadh,Clay,1458.5,35.4,88.0,136.3,69.7,33.4,5.69,Kharif,Drip,2.99
+Cotton,Amreli,Red,2001.7,35.4,80.0,131.8,56.7,71.5,6.86,Kharif,Sprinkler,2.08
+Barley,Surat,Black,889.4,16.9,55.8,36.0,13.8,96.4,7.21,Rabi,Rainfed,4.0
+Rice,Surat,Clay,1119.3,22.2,68.9,57.1,19.4,118.5,6.43,Summer,Rainfed,4.75
+Maize,Vadodara,Black,722.1,24.3,50.8,96.9,43.1,43.4,6.12,Rabi,Rainfed,5.76
+Rice,Junagadh,Black,1622.8,25.7,94.5,57.2,29.4,44.2,8.19,Summer,Sprinkler,5.34
+Soybean,Rajkot,Black,843.8,31.4,61.5,135.5,82.1,43.4,7.91,Kharif,Canal,4.6
+Maize,Vadodara,Clay,1050.2,31.5,53.3,22.7,14.5,20.5,8.22,Kharif,Tube Well,5.05
+Barley,Rajkot,Alluvial,435.6,17.5,57.2,33.2,43.6,48.2,5.61,Rabi,Sprinkler,4.87
+Soybean,Bhavnagar,Clay,708.4,20.5,78.4,36.2,47.5,113.6,6.06,Kharif,Drip,3.39
+Rice,Surat,Sandy,1731.2,31.7,88.6,34.0,38.8,116.7,8.27,Kharif,Canal,4.14
+Maize,Ahmedabad,Red,543.6,20.1,64.5,78.0,31.1,52.4,5.99,Rabi,Canal,5.33
+Soybean,Amreli,Alluvial,520.3,24.2,77.3,101.6,60.8,110.5,5.55,Kharif,Canal,4.45
+Rice,Surat,Black,1013.0,24.5,73.6,134.7,68.7,84.5,7.95,Kharif,Drip,5.6
+Cotton,Bhavnagar,Sandy,934.0,34.8,67.7,97.8,43.1,57.6,7.54,Kharif,Sprinkler,3.0
+Wheat,Bhavnagar,Sandy,491.3,21.3,54.7,135.8,64.7,98.2,6.38,Rabi,Tube Well,5.09
+Soybean,Surat,Black,853.9,23.4,60.0,52.2,78.9,22.3,7.53,Kharif,Rainfed,3.64
+Wheat,Junagadh,Clay,383.8,15.8,66.9,126.2,27.7,63.7,6.91,Rabi,Drip,5.43
+Soybean,Bhavnagar,Red,630.5,28.3,71.0,98.7,10.7,112.4,5.7,Kharif,Tube Well,4.2
+Rice,Amreli,Black,1495.9,32.5,89.7,125.5,49.0,81.2,5.74,Kharif,Canal,5.3
+Rice,Bhavnagar,Clay,1600.3,34.6,76.8,137.7,70.7,68.7,7.43,Kharif,Drip,5.17
+Soybean,Rajkot,Sandy,1024.1,31.8,72.3,120.1,74.0,51.3,6.28,Kharif,Tube Well,3.44
+Wheat,Amreli,Clay,648.4,25.7,68.4,86.7,85.8,68.0,8.16,Rabi,Drip,4.65
+Wheat,Surat,Clay,650.6,19.7,57.4,56.7,84.2,76.8,6.72,Rabi,Sprinkler,5.77
+Wheat,Junagadh,Sandy,554.3,18.3,58.8,44.4,22.5,107.4,6.8,Rabi,Canal,4.97
+Barley,Surat,Red,623.9,19.8,59.6,104.8,24.2,41.5,7.93,Rabi,Sprinkler,4.43
+Wheat,Surat,Sandy,643.5,14.0,40.3,117.0,24.1,78.7,6.51,Rabi,Drip,4.76
+Cotton,Surat,Sandy,1648.7,29.3,65.7,114.9,11.0,45.8,5.52,Kharif,Sprinkler,2.82
+Cotton,Junagadh,Red,2099.1,33.6,74.7,48.5,31.0,68.0,7.73,Kharif,Drip,1.83
+Barley,Amreli,Red,793.3,16.1,63.2,71.2,81.1,103.7,7.08,Rabi,Sprinkler,4.85
+Rice,Junagadh,Black,1781.1,32.2,93.3,119.9,59.9,84.9,6.14,Summer,Sprinkler,5.2
+Wheat,Junagadh,Red,434.1,23.3,57.9,137.3,32.5,65.5,6.84,Rabi,Sprinkler,5.2
+Cotton,Surat,Alluvial,1523.2,29.1,69.5,32.5,19.9,25.6,7.33,Kharif,Sprinkler,3.55
+Soybean,Amreli,Black,1362.1,30.0,58.1,59.3,26.8,66.6,5.56,Kharif,Rainfed,3.0
+Rice,Junagadh,Alluvial,1908.7,23.8,77.0,40.4,30.4,42.6,7.17,Kharif,Sprinkler,4.92
+Cotton,Bhavnagar,Clay,955.5,25.9,88.1,62.1,75.0,48.5,5.99,Kharif,Canal,3.61
+Soybean,Ahmedabad,Red,602.2,22.8,83.8,81.1,60.2,52.4,6.47,Kharif,Sprinkler,3.67
+Wheat,Junagadh,Alluvial,436.8,22.7,57.2,60.7,21.8,73.0,7.76,Rabi,Drip,5.34
+Rice,Ahmedabad,Sandy,1647.5,23.2,66.1,94.4,33.5,24.1,7.78,Summer,Sprinkler,4.29
+Maize,Bhavnagar,Clay,875.0,23.4,68.7,121.0,56.7,21.5,7.47,Rabi,Canal,5.61
+Soybean,Vadodara,Clay,817.1,22.2,69.6,21.0,16.6,28.2,6.06,Kharif,Drip,3.82
+Wheat,Ahmedabad,Black,383.7,19.4,57.4,37.3,83.6,61.3,8.48,Rabi,Sprinkler,5.35
+Barley,Rajkot,Red,809.6,23.0,68.8,106.8,76.6,36.1,6.86,Rabi,Canal,4.66
+Soybean,Bhavnagar,Alluvial,1144.7,21.1,53.4,130.0,54.8,31.2,7.88,Kharif,Tube Well,3.05
+Barley,Amreli,Sandy,521.0,13.4,49.5,119.8,88.4,66.9,5.53,Rabi,Drip,4.17
+Rice,Bhavnagar,Black,905.1,35.2,76.0,129.5,72.4,94.3,7.32,Summer,Drip,5.64
+Cotton,Rajkot,Alluvial,1825.2,32.9,91.2,45.9,16.7,65.7,7.04,Kharif,Canal,3.29
+Cotton,Rajkot,Clay,954.7,34.1,90.2,98.4,50.2,90.8,5.52,Kharif,Tube Well,3.45
+Barley,Junagadh,Red,581.5,22.2,43.8,44.7,21.8,98.7,5.69,Rabi,Rainfed,4.2
+Rice,Ahmedabad,Sandy,1346.1,34.1,92.9,56.4,79.1,97.1,8.29,Kharif,Rainfed,4.24
+Barley,Vadodara,Alluvial,831.3,12.4,59.7,45.7,37.3,97.4,6.08,Rabi,Sprinkler,3.85
+Maize,Rajkot,Red,1001.1,27.3,70.7,108.4,55.7,22.0,5.85,Rabi,Sprinkler,5.48
+Barley,Vadodara,Sandy,654.9,16.6,65.2,97.3,36.6,94.3,7.45,Rabi,Drip,4.71
+Wheat,Surat,Sandy,736.1,23.7,64.1,81.5,46.7,82.4,7.54,Rabi,Rainfed,4.89
+Cotton,Vadodara,Clay,2168.8,23.5,93.0,129.6,52.0,91.1,6.81,Kharif,Sprinkler,2.26
+Wheat,Amreli,Black,571.3,14.3,44.1,111.3,84.2,63.1,7.48,Rabi,Drip,5.59
+Barley,Amreli,Red,499.9,24.2,57.0,56.7,51.4,55.1,7.19,Rabi,Canal,4.83
+Barley,Amreli,Clay,504.8,15.4,59.6,22.6,51.6,56.1,7.23,Rabi,Canal,4.61
+Rice,Amreli,Clay,1159.6,28.4,65.9,67.7,55.7,115.1,7.05,Summer,Canal,6.11
+Wheat,Bhavnagar,Red,811.9,26.0,50.2,62.9,85.3,89.7,6.39,Rabi,Canal,5.03
+Cotton,Bhavnagar,Alluvial,2102.5,27.1,90.7,51.9,51.2,26.2,7.48,Kharif,Sprinkler,2.53
+Wheat,Junagadh,Black,738.0,22.4,67.8,109.7,45.3,92.0,7.38,Rabi,Drip,5.89
+Maize,Vadodara,Sandy,939.1,27.8,68.0,124.7,33.1,24.1,8.31,Rabi,Sprinkler,5.31
+Cotton,Ahmedabad,Sandy,974.6,24.6,75.5,131.7,74.0,60.4,6.98,Kharif,Tube Well,3.69
+Cotton,Bhavnagar,Red,1673.4,29.9,77.1,97.3,54.0,41.3,6.69,Kharif,Drip,3.6
+Barley,Rajkot,Clay,841.2,22.1,60.5,102.7,85.1,41.2,7.11,Rabi,Drip,5.4
+Wheat,Amreli,Sandy,787.8,18.7,67.8,63.2,85.1,71.1,7.29,Rabi,Drip,5.44
+Wheat,Ahmedabad,Clay,580.9,19.1,42.2,120.1,72.8,34.5,7.4,Rabi,Tube Well,5.6
+Cotton,Surat,Clay,1094.6,26.5,72.2,86.8,18.7,113.0,6.5,Kharif,Canal,4.23
+Rice,Junagadh,Red,1995.5,24.4,73.1,54.3,31.7,104.8,5.6,Kharif,Canal,3.94
+Maize,Vadodara,Alluvial,1341.2,18.1,51.7,43.0,23.4,34.0,7.52,Kharif,Tube Well,3.58
+Rice,Amreli,Red,1235.2,35.8,90.0,76.4,54.4,103.5,6.94,Kharif,Sprinkler,4.95
+Barley,Junagadh,Red,577.3,24.3,44.4,125.0,51.0,57.5,5.99,Rabi,Drip,4.78
+Maize,Amreli,Red,717.4,25.8,77.9,20.5,60.5,77.6,6.45,Kharif,Rainfed,5.22
+Barley,Vadodara,Sandy,674.1,19.4,49.3,127.9,84.2,57.3,8.17,Rabi,Canal,4.47
+Cotton,Surat,Black,1466.3,23.7,92.8,74.5,68.8,53.6,5.56,Kharif,Drip,3.88
+Soybean,Junagadh,Alluvial,1256.9,25.2,54.9,48.4,45.8,34.8,6.31,Kharif,Sprinkler,3.56
+Barley,Rajkot,Red,698.4,15.5,50.6,112.5,36.2,40.4,6.01,Rabi,Rainfed,4.17
+Soybean,Bhavnagar,Red,797.7,20.5,76.8,114.4,55.3,115.5,6.45,Kharif,Tube Well,3.65
+Wheat,Ahmedabad,Clay,795.8,25.7,62.6,53.3,89.7,108.8,7.04,Rabi,Sprinkler,5.07
+Wheat,Rajkot,Sandy,686.0,23.5,54.1,46.6,51.0,72.6,7.11,Rabi,Sprinkler,4.87
+Soybean,Bhavnagar,Black,1288.1,29.2,83.0,31.8,31.2,67.0,8.04,Kharif,Sprinkler,3.67
+Wheat,Ahmedabad,Sandy,568.5,15.8,52.2,105.5,54.4,109.9,7.31,Rabi,Drip,5.07
+Maize,Bhavnagar,Black,820.3,21.5,71.6,79.9,89.1,63.5,5.72,Rabi,Tube Well,5.36
+Rice,Surat,Red,1316.7,32.1,70.2,90.8,65.6,51.1,7.58,Kharif,Drip,5.38
+Maize,Rajkot,Black,552.5,32.0,76.3,123.7,62.1,104.9,5.84,Rabi,Tube Well,6.24
+Rice,Ahmedabad,Sandy,1518.5,30.2,70.4,108.2,25.1,26.9,7.14,Kharif,Canal,5.0
+Soybean,Junagadh,Sandy,1222.4,29.3,58.6,93.8,45.5,81.4,8.09,Kharif,Tube Well,3.69
+Maize,Amreli,Red,768.2,18.2,60.5,89.4,40.1,71.2,8.13,Rabi,Sprinkler,4.38
+Maize,Vadodara,Alluvial,1354.2,32.0,58.2,107.2,40.2,15.9,5.53,Rabi,Sprinkler,4.79
+Maize,Ahmedabad,Red,1003.9,22.2,55.8,68.9,28.6,71.2,6.1,Kharif,Tube Well,4.64
+Barley,Junagadh,Black,379.0,12.8,50.7,127.6,61.3,95.9,5.92,Rabi,Drip,4.59
+Rice,Vadodara,Black,1199.6,33.8,78.0,119.4,75.8,34.8,7.6,Kharif,Rainfed,4.97
+Maize,Amreli,Black,1018.5,27.8,55.8,37.8,46.5,55.5,7.64,Rabi,Sprinkler,5.84
+Wheat,Ahmedabad,Clay,786.0,24.4,49.9,72.6,38.4,22.6,7.52,Rabi,Rainfed,4.67
+Soybean,Surat,Black,807.5,27.6,50.7,108.3,49.0,100.4,8.36,Kharif,Drip,4.16
+Barley,Vadodara,Black,855.0,23.4,74.3,125.6,32.4,26.1,5.84,Rabi,Rainfed,4.49
+Cotton,Ahmedabad,Black,1854.2,23.5,67.5,20.3,44.6,67.8,7.41,Kharif,Sprinkler,2.98
+Soybean,Amreli,Sandy,1014.7,26.2,57.3,28.9,47.2,79.6,5.79,Kharif,Tube Well,3.18
+Barley,Amreli,Sandy,557.9,18.5,43.1,93.1,33.1,31.8,7.13,Rabi,Drip,4.52
+Rice,Rajkot,Clay,1457.2,32.1,80.9,67.5,35.8,79.1,8.32,Kharif,Rainfed,4.77
+Maize,Amreli,Clay,918.1,31.7,56.0,62.9,68.4,116.2,5.97,Rabi,Rainfed,5.35
+Rice,Surat,Red,847.3,30.3,70.6,61.5,37.8,64.3,6.5,Kharif,Drip,5.39
+Soybean,Bhavnagar,Alluvial,1244.2,19.4,74.6,60.6,34.8,112.9,6.25,Kharif,Canal,2.63
+Wheat,Vadodara,Alluvial,834.9,23.7,60.4,49.9,62.9,89.5,5.53,Rabi,Sprinkler,5.38
+Wheat,Ahmedabad,Sandy,803.6,17.6,43.6,27.4,14.1,54.9,6.51,Rabi,Drip,4.94
+Wheat,Surat,Alluvial,573.0,16.7,40.5,38.4,43.7,22.2,7.03,Rabi,Sprinkler,5.49
+Cotton,Amreli,Clay,1424.3,25.1,86.8,104.9,22.3,111.0,5.69,Kharif,Canal,3.76
+Soybean,Amreli,Alluvial,822.5,29.6,50.8,49.3,22.2,105.2,6.9,Kharif,Sprinkler,4.64
+Soybean,Junagadh,Red,1384.4,30.0,74.1,132.6,67.8,35.0,6.83,Kharif,Tube Well,3.32
+Soybean,Vadodara,Red,1222.7,24.0,58.2,139.3,86.5,103.6,7.57,Kharif,Tube Well,3.47
+Wheat,Surat,Clay,459.4,25.1,40.6,72.5,11.7,65.8,7.0,Rabi,Canal,4.82
+Barley,Ahmedabad,Clay,641.9,20.3,47.0,54.5,23.0,41.2,6.17,Rabi,Tube Well,4.64
+Soybean,Ahmedabad,Alluvial,676.0,27.0,78.6,87.2,30.4,42.6,5.62,Kharif,Sprinkler,4.7
+Soybean,Junagadh,Red,1135.6,29.0,65.9,103.8,41.0,31.8,6.69,Kharif,Drip,3.99
+Wheat,Bhavnagar,Sandy,629.1,16.6,57.8,22.9,35.0,101.1,7.16,Rabi,Tube Well,4.23
+Barley,Bhavnagar,Red,809.6,25.5,55.4,67.2,77.7,59.8,7.16,Rabi,Drip,4.58
+Cotton,Junagadh,Red,1361.2,24.9,71.0,80.8,63.8,110.7,7.01,Kharif,Tube Well,3.84
+Barley,Ahmedabad,Black,491.8,15.2,56.8,79.9,27.2,43.5,6.01,Rabi,Drip,5.01
+Maize,Junagadh,Clay,1142.7,28.3,54.8,135.9,75.7,36.5,6.06,Kharif,Canal,5.8
+Barley,Vadodara,Red,749.6,19.1,61.8,67.4,71.5,59.6,6.87,Rabi,Canal,5.28
+Rice,Vadodara,Alluvial,2103.4,33.8,84.4,61.0,72.4,75.4,8.46,Summer,Sprinkler,3.52
+Rice,Rajkot,Black,802.7,32.2,84.7,107.9,38.4,101.2,5.63,Kharif,Drip,5.44
+Soybean,Junagadh,Red,1240.4,21.8,56.5,101.8,52.7,69.0,6.27,Kharif,Canal,3.26
+Cotton,Rajkot,Clay,857.8,28.0,66.6,31.5,62.7,82.9,5.6,Kharif,Rainfed,3.16
+Rice,Rajkot,Black,1524.4,22.2,72.9,81.7,55.9,112.2,7.44,Kharif,Rainfed,5.08
+Barley,Rajkot,Sandy,721.7,19.8,67.6,108.7,60.0,118.6,7.1,Rabi,Canal,4.69
+Cotton,Amreli,Alluvial,1210.8,34.3,87.9,22.7,50.1,43.8,7.45,Kharif,Tube Well,3.52
+Barley,Bhavnagar,Red,785.4,18.7,58.8,112.5,62.9,58.0,8.19,Rabi,Sprinkler,4.79
+Rice,Vadodara,Alluvial,870.0,24.2,88.7,63.0,19.5,119.6,7.86,Summer,Sprinkler,5.52
+Cotton,Junagadh,Black,1987.2,27.1,82.7,80.5,61.7,117.2,5.67,Kharif,Sprinkler,2.82
+Barley,Bhavnagar,Clay,658.3,16.6,45.4,121.9,51.7,113.0,7.92,Rabi,Canal,4.59
+Soybean,Vadodara,Red,684.7,28.0,70.3,40.6,30.9,67.1,6.76,Kharif,Rainfed,3.87
+Maize,Rajkot,Alluvial,1240.0,25.9,83.8,46.1,67.1,53.8,6.34,Rabi,Drip,5.85
+Soybean,Junagadh,Alluvial,1147.0,28.2,53.5,106.1,64.4,102.2,5.62,Kharif,Tube Well,3.93
+Cotton,Rajkot,Red,1581.7,34.8,76.7,121.4,10.0,32.7,5.59,Kharif,Rainfed,2.53
+Barley,Surat,Black,866.2,13.7,47.4,23.5,44.7,44.2,8.11,Rabi,Canal,3.95
+Rice,Vadodara,Black,928.6,28.2,95.0,120.2,81.5,101.4,5.81,Summer,Tube Well,5.7
+Barley,Rajkot,Clay,722.4,14.8,42.8,120.4,16.3,24.6,6.78,Rabi,Sprinkler,4.45
+Cotton,Amreli,Alluvial,1458.4,30.0,92.8,83.6,38.3,98.7,6.83,Kharif,Rainfed,4.11
+Soybean,Rajkot,Sandy,1029.3,26.0,66.9,86.0,49.3,74.4,7.65,Kharif,Tube Well,3.47
+Wheat,Vadodara,Clay,386.6,25.7,73.5,27.3,45.5,34.6,6.96,Rabi,Canal,4.41
+Cotton,Bhavnagar,Sandy,2018.6,29.8,74.7,55.2,12.7,100.7,6.85,Kharif,Drip,2.52
+Barley,Rajkot,Alluvial,848.4,23.7,45.2,105.0,44.8,41.3,7.56,Rabi,Sprinkler,4.82
+Barley,Surat,Red,826.1,12.4,62.5,111.6,70.8,108.0,7.69,Rabi,Tube Well,4.09
+Barley,Surat,Alluvial,693.5,17.8,59.6,71.5,87.3,78.4,7.75,Rabi,Tube Well,5.13
+Wheat,Surat,Black,841.0,21.2,63.5,20.6,88.8,107.2,8.19,Rabi,Sprinkler,5.22
+Rice,Ahmedabad,Sandy,1235.7,32.8,91.0,82.3,89.5,16.2,6.4,Kharif,Tube Well,4.85
+Barley,Vadodara,Red,703.5,24.5,71.0,103.9,47.3,68.8,5.91,Rabi,Rainfed,4.71
+Wheat,Vadodara,Alluvial,524.2,15.6,41.3,90.0,28.4,30.6,7.46,Rabi,Tube Well,5.46
+Wheat,Surat,Red,794.1,20.9,50.6,138.0,31.9,36.3,6.83,Rabi,Sprinkler,5.53
+Maize,Bhavnagar,Black,519.1,22.9,75.2,112.0,43.3,16.8,7.35,Rabi,Canal,5.69
+Cotton,Junagadh,Black,1959.1,27.4,82.7,106.5,29.3,32.7,8.42,Kharif,Tube Well,2.83
+Wheat,Vadodara,Black,472.4,15.7,57.9,58.4,23.4,42.6,5.61,Rabi,Rainfed,4.63
+Barley,Ahmedabad,Black,760.9,24.8,73.5,21.3,89.2,86.7,7.43,Rabi,Canal,4.97
+Maize,Bhavnagar,Clay,1262.1,26.4,73.9,139.2,28.6,80.5,6.88,Rabi,Canal,5.61
+Wheat,Vadodara,Clay,553.6,13.0,71.3,126.6,78.4,103.7,6.94,Rabi,Rainfed,4.51
+Soybean,Amreli,Sandy,875.3,21.2,58.1,128.2,76.7,73.1,7.35,Kharif,Rainfed,2.7
+Maize,Bhavnagar,Black,900.9,30.2,66.2,22.5,28.2,64.9,6.77,Rabi,Drip,5.96
+Maize,Vadodara,Alluvial,922.4,24.2,65.6,69.3,53.1,41.3,8.17,Kharif,Canal,5.69
+Cotton,Bhavnagar,Black,1062.7,22.3,80.6,101.6,16.9,63.4,7.73,Kharif,Drip,3.71
+Soybean,Vadodara,Red,720.4,28.0,70.9,45.4,78.1,59.9,8.39,Kharif,Tube Well,4.1
+Soybean,Vadodara,Sandy,798.1,19.7,70.0,128.8,72.7,80.4,6.45,Kharif,Drip,3.61
+Rice,Vadodara,Alluvial,1815.1,35.5,72.8,22.2,53.6,89.2,7.87,Kharif,Canal,4.02
+Cotton,Vadodara,Clay,1706.7,28.3,94.1,30.1,37.8,59.0,5.55,Kharif,Tube Well,2.95
+Cotton,Ahmedabad,Clay,1271.0,32.2,80.3,35.6,70.0,25.4,8.02,Kharif,Rainfed,3.09
+Soybean,Junagadh,Alluvial,1341.7,18.2,70.6,80.2,79.9,23.8,7.54,Kharif,Canal,2.45
+Rice,Vadodara,Black,858.8,28.6,76.9,57.2,46.1,55.3,6.8,Kharif,Rainfed,5.36
+Cotton,Rajkot,Alluvial,1304.6,28.0,77.3,65.0,84.0,102.0,5.83,Kharif,Sprinkler,4.42
+Rice,Vadodara,Sandy,1720.6,34.4,82.3,62.5,75.7,97.2,7.13,Summer,Tube Well,4.11
+Maize,Bhavnagar,Red,732.7,28.1,81.8,48.3,82.7,47.5,8.43,Rabi,Canal,5.6
+Rice,Rajkot,Clay,1345.1,35.2,77.8,86.6,16.4,98.0,6.77,Summer,Drip,5.03
+Rice,Amreli,Alluvial,1379.7,25.3,79.7,124.7,67.0,75.9,5.77,Summer,Canal,6.11
+Wheat,Surat,Sandy,487.5,17.8,52.3,123.1,20.1,74.4,5.93,Rabi,Drip,5.16
+Wheat,Amreli,Alluvial,642.2,14.8,50.0,111.8,47.6,48.3,7.37,Rabi,Canal,5.5
+Barley,Ahmedabad,Sandy,876.7,24.1,40.1,65.6,75.5,53.5,7.3,Rabi,Tube Well,3.87
+Rice,Amreli,Black,2196.5,28.9,70.4,81.6,75.1,96.6,7.87,Kharif,Rainfed,3.85
+Wheat,Amreli,Black,841.4,14.7,44.6,137.1,79.5,108.8,8.16,Rabi,Tube Well,5.41
+Cotton,Junagadh,Alluvial,1266.3,27.6,77.7,95.1,32.9,116.8,7.33,Kharif,Canal,4.48
+Maize,Surat,Black,637.8,21.8,70.7,93.2,22.3,98.3,7.86,Rabi,Tube Well,5.42
+Cotton,Junagadh,Clay,1335.9,24.2,84.3,84.4,32.0,65.4,7.74,Kharif,Canal,3.61
+Soybean,Rajkot,Clay,1172.1,29.9,63.2,55.6,81.2,119.9,7.51,Kharif,Rainfed,3.41
+Wheat,Surat,Sandy,731.6,22.6,69.9,136.7,31.3,90.2,6.68,Rabi,Sprinkler,5.3
+Barley,Rajkot,Black,680.1,16.0,70.8,59.3,33.2,43.3,5.93,Rabi,Canal,4.52
+Soybean,Vadodara,Clay,515.1,25.3,74.4,133.1,24.3,25.8,5.66,Kharif,Drip,4.38
+Barley,Ahmedabad,Black,464.6,18.5,71.9,59.2,49.9,115.6,7.7,Rabi,Tube Well,4.69
+Maize,Vadodara,Black,1252.3,29.4,68.7,36.9,12.0,98.7,7.3,Kharif,Canal,5.48
+Maize,Amreli,Red,975.8,26.3,60.4,24.2,13.0,17.8,7.72,Kharif,Canal,5.48
+Soybean,Rajkot,Clay,1000.5,22.6,65.5,97.6,49.5,80.1,7.13,Kharif,Drip,4.01
+Cotton,Vadodara,Alluvial,1547.9,31.5,91.2,71.9,43.0,95.2,7.25,Kharif,Rainfed,3.64
+Cotton,Vadodara,Black,926.4,29.9,79.4,32.5,59.0,92.5,7.8,Kharif,Drip,3.87
+Rice,Ahmedabad,Red,2011.6,26.2,69.8,72.2,42.2,75.5,7.25,Kharif,Sprinkler,4.34
+Maize,Amreli,Alluvial,1013.0,22.7,50.3,42.8,85.3,69.7,8.49,Kharif,Rainfed,5.32
+Cotton,Rajkot,Clay,1280.8,28.4,70.8,47.0,31.7,62.2,7.46,Kharif,Canal,3.85
+Rice,Junagadh,Black,1749.0,28.7,69.8,58.5,28.0,107.2,6.95,Summer,Drip,5.57
+Cotton,Surat,Clay,1695.5,28.9,65.5,60.2,24.7,86.4,5.67,Kharif,Tube Well,3.01
+Rice,Amreli,Black,1365.3,24.9,84.5,124.5,69.9,106.2,7.11,Kharif,Canal,6.04
+Maize,Surat,Black,850.6,25.2,82.5,124.9,20.8,33.1,6.57,Kharif,Sprinkler,6.27
+Cotton,Bhavnagar,Alluvial,1973.4,29.4,71.2,83.0,54.4,93.0,6.16,Kharif,Drip,3.09
+Soybean,Ahmedabad,Sandy,1124.3,31.0,75.1,111.8,23.4,59.1,6.96,Kharif,Rainfed,3.23
+Barley,Ahmedabad,Black,816.2,25.9,63.8,132.4,76.2,103.7,7.21,Rabi,Rainfed,4.16
+Soybean,Bhavnagar,Sandy,888.9,25.5,65.6,87.8,47.6,20.0,8.15,Kharif,Rainfed,3.63
+Rice,Bhavnagar,Alluvial,1378.9,28.5,72.7,107.3,15.9,38.4,7.75,Summer,Drip,5.76
+Cotton,Surat,Sandy,1063.5,26.0,79.3,134.5,29.8,91.8,6.82,Kharif,Rainfed,3.27
+Rice,Vadodara,Alluvial,1815.6,23.0,93.7,43.2,80.6,100.0,8.4,Summer,Rainfed,3.88
+Cotton,Bhavnagar,Sandy,986.2,22.3,66.5,51.6,15.2,53.7,8.0,Kharif,Drip,3.07
+Wheat,Bhavnagar,Red,867.1,22.7,74.0,24.5,32.8,35.5,5.53,Rabi,Drip,4.67
+Wheat,Amreli,Alluvial,402.2,26.0,49.4,122.2,23.2,91.8,7.07,Rabi,Drip,5.34
+Soybean,Ahmedabad,Sandy,1218.7,30.0,66.9,114.0,21.6,66.7,6.68,Kharif,Tube Well,3.39
+Maize,Junagadh,Black,1090.8,18.3,79.1,41.0,51.2,42.5,7.67,Rabi,Sprinkler,4.51
+Rice,Rajkot,Alluvial,1850.7,26.7,86.3,25.7,42.6,89.0,6.18,Kharif,Sprinkler,4.75
+Maize,Junagadh,Black,818.2,24.8,70.9,76.7,65.9,60.5,6.11,Kharif,Sprinkler,6.35
+Soybean,Junagadh,Alluvial,952.2,30.8,74.7,106.7,16.8,38.1,5.53,Kharif,Canal,4.06
+Soybean,Ahmedabad,Clay,805.0,29.5,54.6,40.8,37.3,57.9,6.55,Kharif,Drip,4.4
+Wheat,Vadodara,Red,677.4,21.2,42.2,39.9,34.1,71.6,7.83,Rabi,Canal,5.15
+Maize,Ahmedabad,Black,1249.9,27.9,70.2,126.8,66.0,36.2,6.79,Kharif,Tube Well,5.6
+Cotton,Junagadh,Alluvial,1776.4,29.1,65.8,131.0,78.1,70.0,6.19,Kharif,Drip,4.03
+Soybean,Bhavnagar,Red,729.9,25.1,83.8,89.0,81.2,83.3,6.93,Kharif,Sprinkler,4.41
+Wheat,Rajkot,Red,420.8,24.0,60.6,126.7,85.0,20.6,7.0,Rabi,Sprinkler,5.37
+Rice,Amreli,Clay,1192.8,29.8,86.3,36.1,75.1,78.6,8.35,Kharif,Sprinkler,5.19
+Rice,Ahmedabad,Sandy,1074.8,24.9,84.4,121.5,47.8,91.3,8.5,Kharif,Drip,5.04
+Cotton,Ahmedabad,Alluvial,1225.8,28.3,81.3,32.0,84.6,54.3,5.74,Kharif,Sprinkler,4.34
+Maize,Junagadh,Red,711.0,28.2,59.0,41.0,65.3,103.5,6.94,Kharif,Rainfed,5.43
+Cotton,Rajkot,Black,1492.5,23.8,93.7,116.0,63.4,71.5,7.88,Kharif,Drip,3.68
+Rice,Junagadh,Clay,1122.0,22.1,84.5,44.3,81.2,105.2,5.73,Kharif,Sprinkler,5.06
+Wheat,Ahmedabad,Sandy,703.7,18.5,74.0,101.4,10.8,65.5,6.74,Rabi,Canal,4.91
+Cotton,Vadodara,Sandy,1092.4,32.9,78.0,43.0,82.4,35.8,5.58,Kharif,Tube Well,3.04
+Soybean,Ahmedabad,Clay,779.9,22.5,61.9,101.6,14.7,112.6,6.17,Kharif,Drip,3.99
+Cotton,Rajkot,Red,2002.3,27.6,86.1,86.8,78.2,48.1,7.07,Kharif,Tube Well,2.9
+Cotton,Ahmedabad,Red,2078.0,23.3,86.7,36.9,41.2,58.2,5.98,Kharif,Canal,2.12
+Cotton,Amreli,Black,2030.2,27.0,74.0,45.7,13.0,19.5,8.11,Kharif,Sprinkler,2.07
+Soybean,Amreli,Clay,1053.2,29.9,66.8,124.4,38.8,112.3,7.6,Kharif,Tube Well,4.15
+Maize,Rajkot,Sandy,955.4,21.1,69.1,36.9,79.6,86.0,8.48,Kharif,Canal,4.14
+Maize,Junagadh,Alluvial,855.7,24.5,80.1,82.6,25.5,108.7,5.59,Kharif,Canal,5.89
+Maize,Vadodara,Clay,634.4,24.6,79.1,21.9,31.8,15.3,6.75,Rabi,Rainfed,5.35
+Cotton,Junagadh,Clay,1174.3,30.8,80.9,28.3,87.5,108.2,6.28,Kharif,Rainfed,3.18
+Soybean,Rajkot,Black,1174.5,25.6,80.3,35.9,57.6,62.2,6.77,Kharif,Canal,3.88
+Soybean,Ahmedabad,Black,744.8,28.1,51.7,98.1,27.7,23.6,6.4,Kharif,Drip,4.8
+Soybean,Junagadh,Sandy,1367.2,24.2,77.8,21.6,53.8,93.0,6.15,Kharif,Tube Well,2.22
+Cotton,Surat,Clay,1333.2,28.2,79.1,112.3,18.4,95.7,7.57,Kharif,Drip,4.36
+Barley,Amreli,Red,876.9,20.2,40.4,27.2,89.4,22.6,5.64,Rabi,Tube Well,4.5
+Rice,Bhavnagar,Red,1905.1,29.5,73.8,98.7,61.3,37.0,5.59,Kharif,Sprinkler,4.88
+Soybean,Junagadh,Black,895.4,28.4,57.2,64.5,60.7,16.9,7.67,Kharif,Sprinkler,4.02
+Barley,Rajkot,Black,596.4,23.9,67.1,54.6,35.9,86.3,7.19,Rabi,Rainfed,4.44
+Wheat,Ahmedabad,Alluvial,468.9,22.8,40.7,100.5,47.5,51.4,8.09,Rabi,Rainfed,4.95
+Rice,Vadodara,Sandy,1407.0,25.4,83.6,41.4,70.6,20.0,8.38,Kharif,Rainfed,4.35
+Barley,Junagadh,Red,531.0,19.5,42.2,45.0,48.9,24.0,8.03,Rabi,Canal,4.38
+Cotton,Ahmedabad,Alluvial,1576.3,30.4,94.3,97.1,12.5,91.0,8.22,Kharif,Canal,3.77
+Maize,Bhavnagar,Alluvial,1170.0,29.7,62.3,27.5,59.8,34.8,7.21,Rabi,Drip,6.07
+Soybean,Surat,Clay,771.7,25.2,71.7,118.3,70.9,118.7,5.52,Kharif,Canal,4.04
+Soybean,Bhavnagar,Sandy,662.5,18.5,59.6,120.2,33.5,21.0,5.66,Kharif,Sprinkler,2.41
+Wheat,Amreli,Red,584.9,13.4,57.3,103.6,31.7,46.2,8.03,Rabi,Drip,4.46
+Rice,Bhavnagar,Clay,1061.4,29.1,80.9,125.1,47.0,44.3,6.19,Kharif,Sprinkler,5.65
+Soybean,Rajkot,Sandy,1101.5,21.2,61.1,135.5,37.8,51.4,7.29,Kharif,Tube Well,2.99
+Rice,Surat,Black,847.7,33.5,81.4,60.6,30.1,77.3,6.12,Summer,Sprinkler,5.28
+Soybean,Amreli,Clay,581.0,25.9,54.0,36.7,34.0,44.6,7.31,Kharif,Sprinkler,4.27
+Barley,Ahmedabad,Red,840.9,20.9,47.8,26.4,59.2,20.0,7.34,Rabi,Rainfed,4.32
+Maize,Amreli,Clay,998.4,28.2,51.5,21.3,46.6,28.8,7.49,Kharif,Canal,5.57
+Cotton,Ahmedabad,Alluvial,832.3,22.7,93.6,37.1,66.7,22.1,5.82,Kharif,Tube Well,3.03
+Soybean,Ahmedabad,Red,1201.6,26.4,65.9,62.7,85.8,78.3,7.24,Kharif,Drip,3.98
+Maize,Surat,Black,735.7,27.6,82.3,60.8,50.2,63.6,5.97,Rabi,Tube Well,6.24
+Wheat,Bhavnagar,Red,854.3,23.9,57.9,106.3,74.1,66.8,5.85,Rabi,Tube Well,5.31
+Soybean,Amreli,Clay,666.7,31.5,64.1,98.4,11.5,28.4,7.85,Kharif,Drip,4.19
+Barley,Ahmedabad,Alluvial,359.6,14.7,66.3,132.5,17.0,73.6,6.26,Rabi,Canal,4.63
+Barley,Ahmedabad,Alluvial,588.2,24.8,55.8,109.3,47.4,38.9,6.1,Rabi,Sprinkler,4.82
+Wheat,Surat,Black,682.8,21.6,49.9,77.8,13.6,100.8,8.47,Rabi,Canal,5.13
+Cotton,Ahmedabad,Clay,1423.2,30.9,68.8,108.0,31.5,62.1,8.15,Kharif,Sprinkler,3.66
+Wheat,Rajkot,Red,816.2,20.8,57.1,126.8,77.6,46.2,7.87,Rabi,Rainfed,4.94
+Maize,Bhavnagar,Black,1182.1,25.4,74.6,51.2,85.4,70.7,7.99,Kharif,Tube Well,5.49
+Rice,Vadodara,Sandy,1317.9,28.3,74.9,117.0,20.4,116.1,7.4,Kharif,Rainfed,4.95
+Cotton,Amreli,Clay,964.0,26.2,93.8,96.0,54.3,89.1,6.75,Kharif,Tube Well,4.2
+Maize,Bhavnagar,Clay,740.6,21.9,68.3,71.7,61.8,53.3,6.19,Rabi,Sprinkler,6.08
+Rice,Junagadh,Sandy,1349.4,25.9,92.9,102.0,31.0,82.7,8.05,Summer,Drip,5.05
+Maize,Ahmedabad,Sandy,1398.7,24.1,74.6,41.9,58.8,91.2,6.44,Kharif,Rainfed,4.09
+Cotton,Bhavnagar,Clay,1559.1,34.4,85.3,50.0,55.9,114.0,7.67,Kharif,Tube Well,3.22
+Soybean,Bhavnagar,Black,1219.0,19.9,62.2,135.8,49.2,26.7,6.88,Kharif,Canal,3.16
+Barley,Amreli,Alluvial,618.6,19.0,61.7,20.4,84.5,53.0,6.69,Rabi,Drip,4.89
+Barley,Junagadh,Red,790.0,25.1,54.1,105.0,50.6,99.4,7.64,Rabi,Rainfed,3.94
+Maize,Bhavnagar,Black,585.7,19.7,77.4,62.0,27.9,52.0,7.44,Kharif,Rainfed,4.64
+Cotton,Bhavnagar,Alluvial,970.1,33.3,79.4,74.1,43.9,68.5,8.34,Kharif,Drip,3.81
+Rice,Vadodara,Sandy,1590.7,34.1,89.6,34.7,77.9,58.5,6.26,Summer,Drip,4.57
+Wheat,Bhavnagar,Sandy,494.9,12.1,57.3,32.0,70.4,44.0,6.83,Rabi,Tube Well,3.83
+Maize,Amreli,Red,1353.1,26.0,60.7,79.5,50.1,17.4,6.57,Rabi,Drip,5.11
+Soybean,Surat,Alluvial,801.6,30.1,68.4,83.4,86.9,48.7,6.94,Kharif,Rainfed,4.57
+Maize,Ahmedabad,Alluvial,846.5,29.7,83.2,116.7,40.2,97.8,6.55,Kharif,Sprinkler,6.57
+Barley,Bhavnagar,Red,811.1,24.0,69.1,115.9,39.0,37.8,8.29,Rabi,Sprinkler,4.18
+Rice,Bhavnagar,Black,961.8,23.0,87.8,78.3,37.4,58.9,8.29,Summer,Canal,4.9
+Wheat,Bhavnagar,Red,362.4,24.0,64.3,112.2,76.9,27.9,7.97,Rabi,Drip,5.29
+Barley,Ahmedabad,Alluvial,723.1,16.0,48.8,65.8,50.1,114.9,7.79,Rabi,Rainfed,4.55
+Soybean,Ahmedabad,Clay,1398.9,23.2,60.5,123.0,89.9,81.1,7.89,Kharif,Drip,3.18
+Maize,Junagadh,Sandy,569.3,18.4,80.9,109.8,89.4,56.7,6.75,Kharif,Tube Well,4.72
+Barley,Bhavnagar,Red,668.3,17.1,42.8,126.4,25.9,93.6,6.35,Rabi,Drip,4.98
+Cotton,Rajkot,Black,1827.6,24.4,73.6,123.8,80.8,19.7,6.0,Kharif,Rainfed,3.0
+Maize,Junagadh,Red,618.7,24.9,53.7,61.5,21.9,81.8,8.35,Kharif,Sprinkler,5.69
+Rice,Junagadh,Alluvial,1088.6,27.6,67.3,103.4,30.2,47.7,5.86,Summer,Tube Well,5.92
+Soybean,Junagadh,Red,1014.9,26.0,64.4,43.1,69.6,28.3,5.81,Kharif,Rainfed,3.34
+Soybean,Vadodara,Clay,904.4,27.9,71.8,97.3,67.1,45.7,6.47,Kharif,Canal,4.65
+Maize,Rajkot,Black,1395.0,18.5,55.7,127.1,14.8,108.1,7.65,Rabi,Tube Well,3.72
+Soybean,Rajkot,Black,957.1,29.3,79.4,129.2,50.7,87.9,5.84,Kharif,Drip,4.57
+Soybean,Surat,Red,1070.6,21.6,51.8,21.2,11.8,15.9,5.83,Kharif,Drip,2.85
+Wheat,Amreli,Clay,650.1,24.0,63.7,55.5,54.9,90.1,7.68,Rabi,Rainfed,4.71
+Rice,Vadodara,Sandy,1610.5,28.0,84.2,118.2,10.5,119.2,6.05,Kharif,Rainfed,4.78
+Maize,Ahmedabad,Alluvial,855.6,20.5,62.7,64.8,89.5,119.5,5.84,Rabi,Sprinkler,5.43
+Maize,Surat,Clay,1132.1,31.5,60.5,110.8,44.7,73.6,7.95,Rabi,Rainfed,5.07
+Cotton,Junagadh,Clay,1719.4,28.1,88.7,118.1,33.2,50.7,8.31,Kharif,Rainfed,2.78
+Barley,Bhavnagar,Alluvial,604.0,26.0,69.4,108.8,79.7,81.6,8.03,Rabi,Canal,4.66
+Wheat,Rajkot,Black,846.7,23.4,51.0,136.8,33.0,108.4,8.14,Rabi,Tube Well,5.12
+Wheat,Junagadh,Alluvial,574.0,19.9,67.8,52.8,60.1,101.9,7.62,Rabi,Sprinkler,6.09
+Maize,Junagadh,Clay,1066.7,31.8,63.9,59.8,60.0,101.7,8.31,Rabi,Sprinkler,5.2
+Rice,Rajkot,Black,967.7,31.8,65.2,76.6,19.5,104.2,8.38,Summer,Drip,5.38
+Wheat,Ahmedabad,Red,542.5,18.2,42.3,115.5,29.3,63.4,6.94,Rabi,Sprinkler,5.5
+Maize,Junagadh,Alluvial,1377.4,27.5,64.6,104.2,70.5,96.9,6.93,Kharif,Tube Well,5.48
+Cotton,Vadodara,Clay,1084.4,34.9,92.4,138.7,79.9,119.8,6.23,Kharif,Tube Well,3.44
+Wheat,Amreli,Clay,404.1,25.7,50.4,124.5,10.3,17.2,6.9,Rabi,Sprinkler,4.9
+Rice,Bhavnagar,Clay,1059.8,33.1,77.5,31.2,48.7,24.5,5.89,Summer,Tube Well,4.75
+Rice,Vadodara,Clay,1318.1,24.4,68.0,59.3,20.9,31.4,7.55,Summer,Rainfed,5.04
+Barley,Vadodara,Alluvial,737.7,17.0,41.6,38.9,21.0,76.9,8.19,Rabi,Rainfed,4.34
+Soybean,Junagadh,Sandy,899.4,21.4,73.8,124.8,39.8,103.4,6.79,Kharif,Drip,3.52
+Cotton,Vadodara,Clay,1729.0,24.1,68.1,88.7,42.1,60.1,8.4,Kharif,Drip,3.18
+Maize,Vadodara,Black,1352.1,19.4,55.4,135.2,13.0,117.7,5.51,Kharif,Rainfed,3.62
+Barley,Amreli,Black,709.9,13.1,48.5,112.8,52.3,112.4,6.79,Rabi,Rainfed,4.4
+Wheat,Junagadh,Clay,413.4,25.0,68.7,47.0,79.9,42.7,6.12,Rabi,Tube Well,4.92
+Wheat,Amreli,Alluvial,885.8,18.2,42.1,109.9,55.2,62.0,6.43,Rabi,Sprinkler,5.68
+Rice,Amreli,Black,2027.6,29.6,72.1,122.1,54.6,36.7,7.37,Summer,Sprinkler,4.78
+Maize,Amreli,Red,856.4,31.8,78.3,39.2,32.2,49.6,7.45,Rabi,Tube Well,5.41
+Wheat,Junagadh,Black,572.4,15.2,40.6,89.0,27.0,36.9,5.88,Rabi,Tube Well,4.9
+Barley,Bhavnagar,Black,387.5,17.9,48.6,77.2,83.6,91.0,7.49,Rabi,Canal,5.36
+Rice,Vadodara,Alluvial,872.4,25.0,67.2,54.7,60.2,74.4,7.34,Kharif,Drip,5.55
+Barley,Surat,Clay,817.0,20.6,46.5,41.3,79.8,93.0,7.48,Rabi,Canal,4.96
+Soybean,Ahmedabad,Sandy,1381.5,29.2,60.6,121.7,70.7,46.2,6.78,Kharif,Canal,3.17
+Cotton,Bhavnagar,Black,907.3,28.6,89.1,114.7,70.8,51.6,6.86,Kharif,Canal,4.3
+Barley,Rajkot,Red,857.7,15.8,74.6,100.4,47.1,79.4,6.32,Rabi,Canal,4.59
+Maize,Amreli,Red,1047.2,19.4,79.8,92.2,86.9,85.4,6.03,Kharif,Rainfed,4.41
+Rice,Surat,Clay,2140.5,32.9,87.1,102.8,43.9,111.9,5.72,Kharif,Canal,3.53
+Cotton,Bhavnagar,Alluvial,1973.9,30.2,77.1,133.6,29.7,99.3,7.34,Kharif,Canal,3.28
+Barley,Vadodara,Sandy,502.2,13.5,42.6,61.7,59.2,102.9,6.05,Rabi,Drip,3.67
+Rice,Bhavnagar,Sandy,1645.4,28.1,89.7,130.9,61.1,101.2,5.68,Kharif,Tube Well,4.66
+Soybean,Bhavnagar,Black,730.9,18.7,83.8,122.2,83.1,104.0,6.94,Kharif,Canal,3.37
+Soybean,Junagadh,Clay,511.3,30.6,70.3,62.2,28.6,79.8,7.03,Kharif,Drip,4.49
+Maize,Surat,Red,942.5,19.8,50.2,101.3,54.0,49.8,6.01,Rabi,Drip,4.97
+Maize,Rajkot,Sandy,1265.2,23.0,58.0,41.1,35.8,22.1,5.6,Kharif,Drip,4.34
+Cotton,Amreli,Clay,1867.2,22.5,93.1,31.4,63.9,29.0,8.14,Kharif,Drip,2.34
+Rice,Surat,Black,1097.7,27.2,65.2,103.2,35.8,75.0,8.37,Kharif,Drip,5.84
+Cotton,Rajkot,Sandy,1375.5,32.7,68.0,113.2,39.7,19.1,6.59,Kharif,Drip,3.28
+Barley,Ahmedabad,Alluvial,861.5,21.9,51.5,66.9,69.3,78.2,7.51,Rabi,Drip,5.36
+Maize,Ahmedabad,Red,876.1,22.1,76.8,111.7,33.4,23.5,5.53,Rabi,Rainfed,4.58
+Soybean,Ahmedabad,Alluvial,1383.7,27.8,67.4,71.7,86.3,36.6,6.44,Kharif,Tube Well,3.39
+Barley,Bhavnagar,Red,500.7,19.1,73.6,40.7,67.6,79.5,7.54,Rabi,Rainfed,4.17
+Soybean,Bhavnagar,Clay,859.5,24.4,81.7,127.3,87.3,107.9,5.52,Kharif,Tube Well,3.95
+Cotton,Amreli,Red,1716.5,22.7,68.1,35.4,17.3,33.7,7.57,Kharif,Canal,2.62
+Wheat,Bhavnagar,Red,712.9,16.5,51.9,99.4,47.4,100.3,5.97,Rabi,Sprinkler,5.43
+Cotton,Vadodara,Black,1071.7,31.2,90.6,50.3,36.2,71.4,6.13,Kharif,Rainfed,3.71
+Rice,Ahmedabad,Red,1686.3,22.7,83.3,38.3,76.4,52.3,6.34,Kharif,Rainfed,4.52
+Maize,Vadodara,Clay,833.0,22.0,81.9,110.1,15.1,90.0,7.08,Kharif,Tube Well,5.49
+Wheat,Rajkot,Sandy,600.9,14.9,66.4,74.2,86.7,42.4,7.55,Rabi,Canal,4.82
+Maize,Rajkot,Black,615.5,23.3,70.5,108.5,10.3,42.4,7.11,Rabi,Rainfed,6.03
+Maize,Ahmedabad,Alluvial,668.2,26.1,74.0,34.4,19.8,74.4,6.31,Rabi,Rainfed,5.91
+Barley,Bhavnagar,Sandy,448.2,12.0,69.9,105.8,65.2,72.4,7.6,Rabi,Canal,3.68
+Maize,Amreli,Black,1000.8,25.2,80.1,98.2,25.1,21.6,6.77,Rabi,Sprinkler,6.0
+Rice,Bhavnagar,Sandy,1264.4,24.5,72.3,119.9,59.2,110.9,6.2,Summer,Rainfed,4.99
+Wheat,Junagadh,Alluvial,779.9,12.2,68.6,56.1,22.0,38.8,6.91,Rabi,Rainfed,4.32
+Wheat,Amreli,Red,444.7,22.7,74.7,113.3,33.7,40.7,6.15,Rabi,Sprinkler,5.21
+Cotton,Bhavnagar,Black,1082.7,34.0,85.3,85.5,42.1,60.2,5.67,Kharif,Tube Well,3.3
+Wheat,Bhavnagar,Alluvial,385.6,22.3,47.4,67.2,15.1,38.8,7.88,Rabi,Canal,5.14
+Wheat,Ahmedabad,Sandy,514.5,20.8,68.7,81.4,67.4,47.7,6.42,Rabi,Canal,5.23
+Soybean,Bhavnagar,Alluvial,1360.9,20.8,80.2,58.6,89.2,31.6,7.05,Kharif,Tube Well,2.84
+Soybean,Ahmedabad,Clay,1301.5,22.8,66.3,127.5,31.8,111.1,7.99,Kharif,Rainfed,3.06
+Barley,Vadodara,Black,875.1,16.7,59.8,68.4,41.7,35.3,7.11,Rabi,Rainfed,4.57
+Barley,Amreli,Sandy,405.5,20.5,63.8,97.2,78.9,66.1,5.9,Rabi,Canal,4.67
+Maize,Bhavnagar,Clay,977.9,27.6,72.3,125.8,56.9,96.8,6.25,Rabi,Canal,6.28
+Cotton,Amreli,Sandy,1199.2,34.6,68.9,99.1,53.8,66.9,6.43,Kharif,Canal,3.21
+Soybean,Rajkot,Red,588.8,26.0,53.4,39.2,16.8,55.0,8.03,Kharif,Sprinkler,4.11
+Maize,Vadodara,Red,1074.8,23.4,64.9,29.0,12.5,88.0,6.82,Kharif,Tube Well,5.24
+Cotton,Rajkot,Red,1459.1,27.4,89.6,74.1,58.3,109.0,8.1,Kharif,Tube Well,3.56
+Barley,Amreli,Black,850.1,21.1,42.9,36.2,22.5,81.2,7.71,Rabi,Rainfed,4.5
+Wheat,Rajkot,Sandy,580.8,13.4,41.4,77.5,57.9,23.3,6.36,Rabi,Tube Well,4.41
+Cotton,Junagadh,Red,1030.8,24.4,90.3,54.1,67.2,74.6,8.43,Kharif,Rainfed,2.73
+Cotton,Vadodara,Black,1375.5,24.3,71.1,103.2,83.4,56.4,6.04,Kharif,Sprinkler,4.01
+Wheat,Surat,Sandy,858.3,19.1,48.7,68.2,67.5,107.0,6.81,Rabi,Tube Well,4.65
+Maize,Vadodara,Sandy,1276.1,20.2,66.9,46.2,58.2,73.7,6.64,Rabi,Sprinkler,4.08
+Maize,Amreli,Clay,700.5,19.8,65.4,126.5,30.2,54.2,8.04,Kharif,Canal,5.23
+Maize,Amreli,Red,1144.8,21.2,84.6,87.2,65.7,27.4,6.25,Rabi,Rainfed,4.56
+Cotton,Surat,Red,952.2,32.5,66.4,44.2,73.4,93.0,6.93,Kharif,Drip,3.57
+Maize,Surat,Sandy,893.0,19.3,82.1,113.4,14.5,70.1,5.75,Rabi,Canal,4.45
+Soybean,Junagadh,Sandy,1128.4,31.0,78.4,119.4,55.6,47.1,6.15,Kharif,Drip,3.93
+Maize,Bhavnagar,Alluvial,1337.8,26.0,75.7,134.1,16.7,15.6,5.59,Kharif,Tube Well,5.34
+Rice,Rajkot,Alluvial,1320.7,22.4,69.1,40.8,14.4,83.9,8.01,Summer,Rainfed,4.86
+Cotton,Amreli,Alluvial,1098.7,26.6,69.5,94.5,43.6,79.4,7.79,Kharif,Sprinkler,4.64
+Rice,Bhavnagar,Black,1952.2,30.2,83.4,118.5,37.4,35.3,6.1,Kharif,Canal,4.91
+Wheat,Vadodara,Clay,416.4,20.8,40.0,22.2,41.2,87.6,7.59,Rabi,Canal,5.43
+Wheat,Amreli,Clay,439.4,20.4,57.2,43.3,70.0,43.9,6.65,Rabi,Drip,5.41
+Cotton,Surat,Alluvial,1403.0,28.6,87.3,111.8,22.7,77.2,8.19,Kharif,Drip,4.21
+Soybean,Vadodara,Alluvial,549.9,18.0,53.5,115.1,86.9,59.8,7.04,Kharif,Rainfed,2.95
+Barley,Bhavnagar,Black,820.0,26.0,51.1,37.9,73.5,78.0,5.8,Rabi,Rainfed,3.84
+Cotton,Surat,Sandy,1763.4,35.4,78.8,82.8,29.2,108.6,8.41,Kharif,Tube Well,2.09
+Maize,Rajkot,Clay,930.6,25.5,67.2,116.3,63.6,28.3,6.54,Kharif,Sprinkler,6.18
+Maize,Amreli,Red,800.8,31.4,68.2,68.1,51.7,96.8,6.52,Kharif,Canal,5.62
+Maize,Vadodara,Red,1141.4,30.3,63.0,29.0,86.7,60.7,7.37,Kharif,Tube Well,5.43
+Wheat,Junagadh,Alluvial,787.1,25.5,42.5,52.2,16.4,93.9,5.92,Rabi,Drip,5.53
+Rice,Surat,Black,1034.3,35.7,76.3,32.8,49.5,106.8,8.16,Summer,Canal,4.89
+Rice,Ahmedabad,Sandy,1209.4,27.6,87.9,49.3,77.1,54.5,7.1,Kharif,Rainfed,5.36
+Barley,Bhavnagar,Clay,467.4,18.0,72.9,71.4,38.7,61.3,7.06,Rabi,Sprinkler,5.08
+Rice,Amreli,Sandy,1721.1,32.0,81.7,26.8,23.6,45.0,6.35,Summer,Tube Well,4.26
+Cotton,Rajkot,Black,1171.5,26.3,80.8,45.9,80.8,24.0,6.83,Kharif,Rainfed,3.86
+Cotton,Rajkot,Red,967.9,32.2,82.1,84.0,46.2,117.5,5.65,Kharif,Canal,3.72
+Soybean,Ahmedabad,Sandy,713.4,24.0,75.6,94.9,29.0,67.8,8.28,Kharif,Canal,3.46
+Soybean,Amreli,Black,531.6,20.4,75.5,42.0,50.9,24.8,8.26,Kharif,Sprinkler,3.43
+Rice,Bhavnagar,Sandy,965.4,26.3,88.4,85.2,76.6,26.7,8.26,Summer,Drip,5.62
+Wheat,Surat,Sandy,552.8,12.1,64.1,137.7,87.3,31.9,6.04,Rabi,Rainfed,3.75
+Soybean,Surat,Sandy,532.5,22.5,76.7,135.2,32.1,40.9,7.19,Kharif,Sprinkler,3.7
+Barley,Junagadh,Alluvial,351.9,12.6,47.0,42.3,30.4,47.0,6.58,Rabi,Tube Well,4.14
+Barley,Bhavnagar,Black,373.3,21.4,58.8,73.3,60.8,101.9,6.78,Rabi,Drip,5.32
+Soybean,Junagadh,Black,1004.5,31.7,68.1,131.3,42.6,119.9,7.24,Kharif,Drip,4.49
+Wheat,Surat,Sandy,501.0,12.5,68.7,53.1,73.7,45.3,6.08,Rabi,Rainfed,3.76
+Wheat,Bhavnagar,Red,628.7,15.8,58.5,125.9,85.6,25.6,6.32,Rabi,Rainfed,4.97
+Wheat,Ahmedabad,Alluvial,811.7,25.2,49.6,40.4,48.7,88.7,6.18,Rabi,Tube Well,4.86
+Barley,Junagadh,Clay,408.5,24.7,74.9,39.7,14.4,49.6,6.88,Rabi,Tube Well,4.15
+Cotton,Ahmedabad,Alluvial,1081.2,32.8,86.4,96.2,41.0,110.4,8.41,Kharif,Rainfed,3.27
+Soybean,Ahmedabad,Red,1023.6,25.3,61.6,85.1,86.7,36.6,7.46,Kharif,Drip,4.14
+Wheat,Surat,Alluvial,625.9,17.1,46.0,124.0,41.5,112.1,8.04,Rabi,Drip,5.91
+Wheat,Ahmedabad,Clay,897.3,25.1,40.1,126.3,15.3,115.1,6.35,Rabi,Drip,4.81
+Barley,Surat,Sandy,869.4,20.6,65.1,111.4,31.0,19.7,5.51,Rabi,Canal,3.99
+Wheat,Surat,Alluvial,703.5,21.8,50.5,111.0,26.4,72.1,7.91,Rabi,Rainfed,5.14
+Wheat,Ahmedabad,Alluvial,673.6,19.9,63.1,120.0,68.1,98.0,6.37,Rabi,Rainfed,5.9
+Soybean,Vadodara,Sandy,600.4,20.6,67.6,121.9,28.9,113.2,8.36,Kharif,Drip,2.87
+Barley,Surat,Red,551.0,17.6,68.8,29.7,35.3,116.5,5.96,Rabi,Drip,4.51
+Soybean,Rajkot,Sandy,950.8,21.2,69.0,46.4,62.0,110.0,5.76,Kharif,Drip,3.4
+Maize,Rajkot,Black,570.8,24.8,57.3,43.9,85.3,95.0,7.59,Kharif,Rainfed,5.7
+Wheat,Ahmedabad,Black,563.5,15.9,60.0,50.1,34.9,104.3,7.31,Rabi,Rainfed,4.88
+Wheat,Ahmedabad,Black,721.4,25.1,48.3,103.2,88.0,116.0,6.2,Rabi,Tube Well,5.51
+Maize,Bhavnagar,Clay,745.4,25.1,61.0,138.9,44.5,106.3,8.19,Rabi,Drip,6.27
+Cotton,Bhavnagar,Alluvial,848.2,27.8,70.8,42.1,33.0,41.1,7.55,Kharif,Rainfed,3.55
+Barley,Amreli,Sandy,529.8,14.4,61.0,105.5,35.4,71.6,7.57,Rabi,Canal,3.86
+Soybean,Amreli,Clay,817.6,23.3,65.7,114.8,74.2,90.6,5.57,Kharif,Tube Well,4.33
+Wheat,Ahmedabad,Red,652.1,12.0,51.3,46.4,87.7,91.4,6.55,Rabi,Tube Well,4.46
+Soybean,Ahmedabad,Black,692.1,25.5,79.2,93.9,60.7,71.8,8.28,Kharif,Drip,4.57
+Soybean,Junagadh,Clay,1072.7,25.0,53.6,43.7,48.4,108.2,7.2,Kharif,Sprinkler,4.02
+Rice,Ahmedabad,Black,2098.8,26.9,74.9,88.6,29.6,83.4,8.0,Kharif,Drip,4.68
+Maize,Ahmedabad,Black,1304.2,31.1,77.3,130.5,34.5,41.0,6.65,Kharif,Sprinkler,5.33
+Rice,Rajkot,Sandy,1577.0,26.1,70.9,63.7,63.4,61.9,8.3,Summer,Tube Well,4.74
+Soybean,Bhavnagar,Alluvial,767.6,21.6,63.4,62.7,39.8,48.4,7.36,Kharif,Tube Well,3.81
+Soybean,Amreli,Alluvial,1029.6,25.5,77.5,86.7,78.6,39.4,7.92,Kharif,Sprinkler,4.37
+Maize,Vadodara,Black,644.6,28.3,65.1,73.5,34.7,78.8,6.06,Rabi,Canal,6.24
+Maize,Vadodara,Alluvial,1344.2,28.1,69.3,112.4,39.7,91.7,6.73,Rabi,Drip,5.94
+Cotton,Bhavnagar,Black,1591.7,31.7,88.0,127.5,38.4,114.9,7.41,Kharif,Canal,3.56
+Cotton,Vadodara,Black,1087.8,23.0,86.8,81.3,66.2,65.1,6.44,Kharif,Drip,4.33
+Maize,Junagadh,Red,1217.2,22.9,77.1,51.5,36.3,26.3,8.31,Kharif,Canal,4.43
+Soybean,Vadodara,Clay,849.2,24.9,60.3,112.3,41.5,91.6,6.12,Kharif,Drip,4.65
+Wheat,Amreli,Alluvial,453.6,23.0,60.9,127.2,23.8,59.2,8.0,Rabi,Canal,5.66
+Maize,Junagadh,Black,524.7,18.9,75.7,58.6,37.8,36.9,6.84,Rabi,Tube Well,4.9
+Barley,Surat,Clay,563.8,17.4,57.6,42.8,80.1,75.1,6.08,Rabi,Rainfed,4.44
+Barley,Bhavnagar,Red,825.8,20.1,43.9,45.8,32.4,40.3,6.99,Rabi,Canal,4.69
+Wheat,Bhavnagar,Black,829.4,12.5,54.2,114.2,75.2,112.4,7.61,Rabi,Sprinkler,4.95
+Rice,Surat,Sandy,1576.0,31.3,92.9,102.5,35.6,35.9,8.06,Summer,Canal,4.66
+Barley,Rajkot,Red,866.0,25.5,74.1,24.7,85.7,119.7,8.33,Rabi,Canal,3.82
+Soybean,Rajkot,Sandy,1248.0,21.9,69.2,30.0,83.2,57.4,6.68,Kharif,Tube Well,2.55
+Soybean,Rajkot,Alluvial,1220.0,29.7,60.6,76.3,79.9,20.5,8.17,Kharif,Tube Well,3.4
+Barley,Ahmedabad,Red,670.4,19.7,70.1,32.2,37.8,71.5,7.93,Rabi,Rainfed,4.33
+Soybean,Junagadh,Clay,581.8,25.2,52.2,62.8,58.1,73.4,6.71,Kharif,Tube Well,4.25
+Rice,Ahmedabad,Sandy,1354.3,32.1,83.4,54.3,62.3,83.8,7.28,Summer,Tube Well,5.28
+Soybean,Bhavnagar,Alluvial,1190.0,22.1,50.7,133.3,23.6,16.0,6.21,Kharif,Rainfed,3.0
+Cotton,Surat,Sandy,1439.7,27.8,81.7,49.2,14.2,113.6,6.06,Kharif,Drip,3.41
+Rice,Surat,Black,1329.4,31.6,71.9,70.8,54.6,108.3,6.48,Kharif,Sprinkler,5.5
+Soybean,Junagadh,Sandy,1172.0,19.5,64.9,22.1,12.7,65.7,6.39,Kharif,Sprinkler,2.09
+Barley,Ahmedabad,Sandy,416.2,14.0,63.1,99.4,77.8,93.9,6.85,Rabi,Drip,4.49
+Wheat,Vadodara,Clay,632.0,18.7,62.6,86.9,61.5,79.3,7.66,Rabi,Tube Well,5.5
+Barley,Junagadh,Clay,506.3,20.3,59.1,86.8,67.9,55.1,6.46,Rabi,Canal,5.51
+Maize,Bhavnagar,Black,514.0,20.9,68.1,84.6,30.4,22.6,7.73,Rabi,Sprinkler,5.43
+Wheat,Ahmedabad,Sandy,380.8,24.4,56.9,103.7,14.2,71.1,6.4,Rabi,Sprinkler,4.81
+Wheat,Bhavnagar,Alluvial,606.7,18.8,70.2,73.8,39.1,119.4,7.21,Rabi,Sprinkler,5.59
+Barley,Rajkot,Clay,421.0,25.2,64.9,109.0,50.0,64.8,5.83,Rabi,Sprinkler,3.88
+Barley,Rajkot,Red,521.1,16.4,48.0,58.0,27.1,110.1,8.2,Rabi,Rainfed,3.92
+Cotton,Junagadh,Clay,1930.7,24.6,71.4,60.8,35.5,115.4,7.87,Kharif,Sprinkler,2.8
+Barley,Ahmedabad,Clay,424.5,17.8,45.2,98.8,72.8,72.7,7.54,Rabi,Rainfed,4.66
+Barley,Junagadh,Sandy,751.5,15.0,42.8,53.2,29.9,39.6,6.08,Rabi,Sprinkler,4.02
+Wheat,Amreli,Sandy,402.7,18.9,68.7,112.9,85.0,29.9,6.63,Rabi,Drip,5.37
+Barley,Vadodara,Sandy,662.5,23.4,66.9,116.4,80.3,113.5,6.72,Rabi,Sprinkler,4.49
+Cotton,Surat,Black,2096.6,25.0,72.7,55.6,71.5,59.9,7.96,Kharif,Canal,2.15
+Cotton,Junagadh,Alluvial,1632.8,33.9,65.3,24.4,57.7,55.8,8.17,Kharif,Canal,3.12
+Soybean,Vadodara,Red,745.7,30.7,66.3,70.9,78.0,47.8,7.95,Kharif,Canal,4.17
+Wheat,Bhavnagar,Sandy,701.2,25.2,47.4,27.1,53.0,30.0,6.06,Rabi,Drip,4.48
+Cotton,Bhavnagar,Sandy,1523.7,29.8,85.2,71.8,19.2,25.8,7.76,Kharif,Drip,3.24
+Soybean,Ahmedabad,Clay,631.7,20.0,70.4,138.2,17.7,45.0,8.11,Kharif,Tube Well,3.21
+Rice,Surat,Alluvial,1371.6,26.3,73.9,56.7,80.8,91.0,7.51,Summer,Rainfed,5.51
+Cotton,Surat,Clay,1700.5,34.4,77.1,28.0,51.3,51.3,7.52,Kharif,Sprinkler,2.86
+Barley,Surat,Sandy,606.4,21.2,43.6,50.4,83.5,85.3,5.54,Rabi,Tube Well,4.38
+Wheat,Vadodara,Black,748.3,24.5,66.6,25.8,39.7,43.7,6.66,Rabi,Tube Well,4.83
+Rice,Junagadh,Clay,1666.0,33.7,80.5,65.2,83.7,18.8,8.07,Kharif,Canal,4.76
+Barley,Vadodara,Sandy,610.4,22.5,68.2,108.4,84.0,61.9,6.02,Rabi,Drip,4.69
+Maize,Ahmedabad,Black,1063.5,23.8,83.8,108.2,14.9,93.2,5.57,Kharif,Canal,5.36
+Wheat,Amreli,Black,450.9,21.5,66.7,71.5,78.9,30.8,6.34,Rabi,Canal,5.69
+Maize,Rajkot,Clay,1168.6,18.3,83.6,61.3,25.2,104.3,7.61,Rabi,Sprinkler,3.99
+Barley,Rajkot,Red,534.5,17.1,57.7,63.3,72.7,117.3,7.25,Rabi,Sprinkler,4.79
+Rice,Ahmedabad,Sandy,1759.8,31.6,65.8,127.9,37.0,93.1,7.78,Kharif,Tube Well,4.25
+Rice,Vadodara,Red,1355.5,23.5,90.1,86.0,65.3,86.7,8.02,Summer,Canal,5.61
+Barley,Rajkot,Clay,392.6,20.3,46.6,63.3,79.0,59.6,8.25,Rabi,Sprinkler,4.16
+Cotton,Amreli,Alluvial,1176.6,30.4,71.1,28.9,11.7,114.9,7.67,Kharif,Tube Well,3.74
+Cotton,Surat,Alluvial,2104.3,32.3,85.8,60.4,18.3,75.2,7.23,Kharif,Sprinkler,2.28
+Wheat,Amreli,Clay,542.9,15.0,60.5,61.8,62.6,16.6,5.69,Rabi,Sprinkler,4.94
+Rice,Ahmedabad,Red,908.5,24.7,74.6,70.3,57.5,105.7,5.98,Kharif,Drip,5.51
+Wheat,Vadodara,Alluvial,808.3,23.2,43.5,132.1,18.8,81.6,7.52,Rabi,Drip,5.66
+Rice,Vadodara,Clay,1079.4,22.3,81.9,75.8,62.5,30.4,8.02,Kharif,Drip,5.63
+Soybean,Surat,Alluvial,792.1,29.2,57.4,85.5,24.4,51.5,8.29,Kharif,Tube Well,3.92
+Wheat,Rajkot,Sandy,526.1,17.4,62.1,73.0,60.3,30.4,8.41,Rabi,Rainfed,4.07
+Barley,Vadodara,Clay,410.1,14.5,41.4,117.1,54.1,48.3,5.88,Rabi,Rainfed,4.29
+Barley,Surat,Red,736.1,25.6,55.2,68.7,39.6,101.8,5.97,Rabi,Rainfed,4.24
+Soybean,Ahmedabad,Red,1235.3,19.5,79.0,92.3,25.0,71.9,6.35,Kharif,Canal,2.51
+Maize,Vadodara,Alluvial,1387.4,18.4,73.2,64.5,61.7,52.4,7.52,Kharif,Tube Well,4.04
+Rice,Bhavnagar,Clay,1858.4,29.3,73.6,49.8,70.7,27.4,6.61,Kharif,Rainfed,4.71
+Barley,Amreli,Sandy,542.2,21.9,58.8,76.3,50.9,81.8,7.48,Rabi,Tube Well,4.29
+Rice,Bhavnagar,Red,1373.3,24.4,87.7,119.9,80.4,78.7,8.08,Kharif,Tube Well,5.3
+Maize,Rajkot,Sandy,1141.3,19.0,67.4,76.7,34.9,106.4,6.01,Rabi,Sprinkler,4.18
+Cotton,Bhavnagar,Red,2105.2,34.3,74.6,90.4,16.2,42.1,5.78,Kharif,Drip,1.62
+Maize,Amreli,Black,1005.7,24.1,66.1,136.3,33.7,80.9,6.76,Rabi,Canal,6.02
+Maize,Amreli,Red,1080.4,26.6,58.2,85.1,27.8,30.4,7.22,Kharif,Tube Well,5.43
+Barley,Bhavnagar,Alluvial,491.1,15.7,54.1,104.2,13.1,115.5,5.64,Rabi,Rainfed,4.18
+Maize,Surat,Sandy,939.7,27.8,84.5,73.0,51.5,69.8,7.12,Kharif,Tube Well,5.59
+Maize,Ahmedabad,Alluvial,1134.3,22.5,70.1,91.3,35.2,51.7,7.79,Kharif,Drip,5.41
+Maize,Amreli,Clay,1299.6,29.9,65.2,111.0,17.8,19.2,7.76,Kharif,Rainfed,4.81
+Wheat,Rajkot,Sandy,839.8,18.0,58.7,134.6,34.0,45.3,7.9,Rabi,Canal,5.0
+Rice,Bhavnagar,Red,1806.3,25.2,70.0,120.2,38.7,62.8,5.58,Summer,Rainfed,4.34
+Cotton,Amreli,Clay,1949.8,31.8,85.8,80.7,53.1,93.0,6.24,Kharif,Sprinkler,3.09
+Maize,Amreli,Black,720.7,28.8,50.4,46.1,15.2,96.9,7.77,Kharif,Drip,6.27
+Wheat,Rajkot,Clay,625.7,21.9,45.4,98.0,16.7,34.0,6.93,Rabi,Tube Well,5.15
+Barley,Ahmedabad,Black,800.4,19.9,58.4,106.9,11.6,87.5,8.3,Rabi,Rainfed,4.53
+Cotton,Ahmedabad,Alluvial,1007.7,22.3,83.9,89.9,89.0,108.1,6.73,Kharif,Sprinkler,3.69
+Wheat,Surat,Alluvial,757.3,18.2,71.1,117.1,72.8,63.1,5.61,Rabi,Sprinkler,5.5
+Wheat,Bhavnagar,Sandy,869.8,25.8,41.6,38.0,43.9,34.6,6.59,Rabi,Tube Well,4.17
+Barley,Surat,Red,492.7,20.1,55.5,22.6,13.2,101.8,7.32,Rabi,Drip,4.45
+Cotton,Ahmedabad,Black,2185.0,32.8,93.9,113.6,80.0,89.2,7.78,Kharif,Tube Well,2.13
+Soybean,Ahmedabad,Red,909.1,24.9,56.5,99.3,54.1,36.7,6.52,Kharif,Tube Well,4.15
+Rice,Bhavnagar,Red,1203.1,32.3,88.3,117.1,55.7,16.1,7.79,Kharif,Drip,5.55
+Cotton,Vadodara,Sandy,1401.7,22.9,88.7,83.5,12.3,19.3,7.34,Kharif,Drip,3.16
+Cotton,Amreli,Sandy,1654.7,25.1,83.4,95.4,68.7,80.2,8.41,Kharif,Drip,3.45
+Barley,Ahmedabad,Clay,354.9,16.8,56.9,42.1,49.4,50.5,6.87,Rabi,Sprinkler,4.63
+Maize,Amreli,Black,1147.6,24.2,72.9,60.8,35.8,59.6,5.94,Rabi,Tube Well,5.34
+Soybean,Surat,Alluvial,1360.8,30.4,55.9,76.8,87.7,54.1,6.61,Kharif,Tube Well,3.9
+Wheat,Vadodara,Black,757.2,22.8,73.9,112.8,29.5,19.2,8.46,Rabi,Rainfed,4.52
+Soybean,Surat,Black,1394.0,19.2,80.2,66.9,51.9,111.1,8.42,Kharif,Tube Well,1.76
+Cotton,Vadodara,Black,1331.4,22.7,85.2,138.4,82.9,90.3,5.82,Kharif,Canal,3.81
+Cotton,Amreli,Alluvial,1663.4,26.5,85.3,133.7,61.1,93.9,7.75,Kharif,Tube Well,3.79
+Wheat,Vadodara,Black,505.1,21.7,71.7,135.1,12.1,119.0,6.47,Rabi,Tube Well,5.41
+Barley,Ahmedabad,Sandy,822.4,15.1,45.4,129.2,85.1,16.3,7.68,Rabi,Canal,4.23
+Cotton,Surat,Sandy,1494.4,26.9,77.0,63.3,76.1,62.5,7.07,Kharif,Drip,3.99
+Soybean,Rajkot,Alluvial,715.5,30.1,61.4,59.5,57.9,34.3,6.35,Kharif,Drip,4.79
+Barley,Ahmedabad,Red,723.8,22.6,46.1,87.8,83.0,116.7,7.47,Rabi,Sprinkler,4.87
+Cotton,Amreli,Black,1988.1,32.6,83.0,61.7,25.0,51.5,7.54,Kharif,Sprinkler,2.55
+Rice,Rajkot,Black,2037.3,31.8,75.2,72.0,21.5,32.7,5.99,Summer,Rainfed,3.76
+Barley,Amreli,Red,894.7,24.3,41.6,70.8,78.7,29.1,8.04,Rabi,Canal,4.3
+Maize,Vadodara,Alluvial,1109.3,27.2,57.5,34.0,43.2,34.6,5.81,Kharif,Rainfed,5.49
+Rice,Bhavnagar,Black,1977.8,31.5,85.9,84.3,80.8,41.5,6.64,Kharif,Canal,4.63
+Barley,Vadodara,Clay,540.5,17.2,71.1,75.7,51.3,49.9,6.33,Rabi,Tube Well,4.67
+Barley,Junagadh,Clay,681.4,14.6,49.6,69.1,65.9,82.1,7.1,Rabi,Sprinkler,4.69
+Wheat,Bhavnagar,Alluvial,689.8,23.0,51.7,125.7,59.2,101.3,7.14,Rabi,Tube Well,5.77
+Barley,Bhavnagar,Sandy,809.9,21.5,64.0,46.1,88.7,103.4,7.87,Rabi,Sprinkler,4.02
+Cotton,Junagadh,Clay,1553.9,24.0,81.6,97.8,41.2,67.3,8.13,Kharif,Canal,3.52
+Wheat,Ahmedabad,Clay,655.2,22.9,44.1,68.5,13.4,86.7,6.42,Rabi,Canal,5.25
+Wheat,Amreli,Red,721.6,23.0,73.5,38.9,41.4,103.6,7.92,Rabi,Rainfed,4.37
+Cotton,Bhavnagar,Alluvial,1602.0,30.2,76.1,62.3,63.5,55.8,6.27,Kharif,Canal,4.13
+Maize,Ahmedabad,Sandy,547.3,25.7,60.8,84.0,20.7,112.9,8.18,Kharif,Tube Well,5.17
+Soybean,Ahmedabad,Alluvial,1324.0,29.9,70.3,82.4,84.5,112.9,8.41,Kharif,Drip,3.53
+Soybean,Vadodara,Black,635.9,22.4,78.0,82.8,25.1,25.8,6.79,Kharif,Canal,4.35
+Wheat,Ahmedabad,Sandy,820.4,24.9,71.6,134.2,77.4,77.3,6.73,Rabi,Rainfed,4.32
+Rice,Junagadh,Red,1880.6,29.2,83.3,106.8,12.0,74.9,8.15,Kharif,Rainfed,4.16
+Soybean,Surat,Red,997.0,28.0,67.0,46.9,53.0,114.1,6.73,Kharif,Sprinkler,4.04
+Cotton,Amreli,Black,1171.2,22.2,79.4,123.1,81.7,115.4,8.14,Kharif,Drip,3.61
+Rice,Junagadh,Clay,922.3,35.0,78.7,63.6,60.4,85.8,6.13,Summer,Drip,5.47
+Cotton,Vadodara,Red,1061.4,27.7,86.9,135.9,74.7,113.7,5.92,Kharif,Drip,4.26
+Wheat,Bhavnagar,Clay,538.7,21.5,43.4,35.3,14.9,119.6,6.66,Rabi,Sprinkler,5.0
+Cotton,Junagadh,Alluvial,1106.7,29.0,89.7,118.0,73.5,101.5,6.13,Kharif,Tube Well,4.0
+Barley,Rajkot,Clay,598.6,19.3,68.4,71.3,66.1,60.6,6.75,Rabi,Drip,4.78
+Wheat,Surat,Red,536.2,15.1,52.6,47.6,56.4,98.8,7.86,Rabi,Canal,4.55
+Maize,Rajkot,Red,819.5,30.5,67.6,97.5,26.8,58.8,8.09,Rabi,Canal,6.05
+Rice,Surat,Clay,1766.3,32.2,66.3,101.1,43.2,28.0,6.76,Summer,Sprinkler,4.85
+Rice,Junagadh,Red,1079.1,33.5,77.4,21.7,68.6,77.6,6.53,Kharif,Drip,5.01
+Soybean,Junagadh,Sandy,1347.3,24.9,53.0,124.2,32.3,36.4,6.34,Kharif,Drip,3.0
+Cotton,Rajkot,Red,1552.3,24.2,65.2,70.8,21.0,31.9,5.73,Kharif,Rainfed,2.94
+Maize,Bhavnagar,Alluvial,955.9,18.5,52.4,50.9,53.5,92.7,7.32,Rabi,Drip,4.87
+Soybean,Rajkot,Sandy,958.2,27.4,70.6,89.2,15.3,41.2,7.22,Kharif,Sprinkler,3.7
+Soybean,Amreli,Alluvial,889.4,19.8,67.6,87.4,37.0,22.5,8.33,Kharif,Rainfed,3.03
+Maize,Junagadh,Sandy,1362.7,28.1,80.9,130.3,50.9,81.1,6.76,Kharif,Drip,5.19
+Cotton,Junagadh,Black,1897.5,26.7,82.7,105.9,81.1,102.8,7.32,Kharif,Rainfed,3.12
+Maize,Junagadh,Black,951.9,30.1,73.5,121.1,30.0,108.3,7.77,Kharif,Sprinkler,5.59
+Barley,Ahmedabad,Sandy,700.9,23.9,52.6,37.5,36.6,62.8,7.1,Rabi,Canal,4.72
+Cotton,Rajkot,Red,2044.1,29.8,82.5,77.4,53.9,35.8,7.14,Kharif,Sprinkler,2.65
+Soybean,Surat,Red,546.1,27.6,58.8,80.0,69.7,74.1,5.75,Kharif,Canal,4.29
+Maize,Surat,Red,1362.1,28.8,71.1,138.9,31.2,21.5,5.6,Rabi,Drip,4.93
+Maize,Rajkot,Red,1119.6,21.8,79.1,30.0,71.9,25.5,8.14,Kharif,Drip,5.0
+Wheat,Surat,Clay,573.3,21.5,65.5,102.0,82.3,39.3,5.76,Rabi,Drip,5.4
+Rice,Rajkot,Red,1223.5,31.7,65.3,42.6,65.1,21.9,6.91,Kharif,Canal,5.6
+Barley,Bhavnagar,Sandy,646.8,12.7,66.0,40.7,12.5,62.4,8.1,Rabi,Tube Well,3.32
+Wheat,Rajkot,Alluvial,410.5,17.1,60.3,43.2,74.2,94.1,7.59,Rabi,Drip,5.18
+Cotton,Junagadh,Clay,839.2,35.0,80.7,25.2,37.4,23.1,6.68,Kharif,Rainfed,2.43
+Rice,Amreli,Sandy,1096.1,29.8,68.8,73.7,55.6,78.6,6.6,Summer,Rainfed,5.09
+Soybean,Vadodara,Red,1003.2,27.4,50.9,75.9,14.6,34.6,7.18,Kharif,Rainfed,3.57
+Soybean,Ahmedabad,Red,562.9,23.9,70.4,37.6,71.2,93.1,8.21,Kharif,Sprinkler,3.87
+Wheat,Ahmedabad,Clay,678.3,20.0,41.2,81.6,58.8,35.1,6.32,Rabi,Drip,5.88
+Wheat,Ahmedabad,Red,538.3,15.7,74.5,129.3,12.3,95.9,5.83,Rabi,Drip,5.3
+Wheat,Vadodara,Sandy,857.4,13.1,64.1,47.2,12.8,21.3,6.62,Rabi,Drip,4.02
+Soybean,Amreli,Black,1358.9,21.0,67.6,101.7,29.8,78.0,6.27,Kharif,Canal,2.86
+Barley,Vadodara,Alluvial,514.2,14.2,41.7,43.5,56.6,97.5,6.01,Rabi,Sprinkler,4.21
+Cotton,Junagadh,Alluvial,1257.5,26.1,80.7,29.5,19.4,33.5,7.82,Kharif,Canal,3.78
+Wheat,Bhavnagar,Clay,467.8,19.7,74.3,28.8,32.7,40.5,6.25,Rabi,Canal,5.16
+Rice,Surat,Clay,823.9,27.7,71.8,38.9,59.2,119.5,6.03,Summer,Rainfed,4.83
+Maize,Junagadh,Red,754.8,29.3,57.3,55.1,25.4,42.7,8.0,Kharif,Sprinkler,5.7
+Cotton,Amreli,Black,2142.9,22.1,66.4,37.7,37.9,102.1,8.18,Kharif,Drip,1.79
+Soybean,Junagadh,Red,1378.9,31.5,84.3,115.2,89.1,108.7,6.75,Kharif,Rainfed,2.85
+Barley,Surat,Black,794.4,15.7,68.0,52.6,12.7,69.3,6.09,Rabi,Sprinkler,4.69
+Wheat,Ahmedabad,Red,864.7,19.9,44.5,79.9,62.3,103.0,8.31,Rabi,Tube Well,5.25
+Rice,Junagadh,Black,1127.4,23.1,65.0,93.0,39.0,94.0,6.63,Summer,Tube Well,5.14
+Cotton,Bhavnagar,Black,1213.2,30.6,76.3,67.3,53.2,24.2,7.72,Kharif,Canal,3.94
+Soybean,Amreli,Black,809.9,27.1,63.7,127.3,77.7,40.4,7.58,Kharif,Drip,5.05
+Cotton,Rajkot,Black,2027.4,24.2,81.4,61.8,44.7,50.2,6.51,Kharif,Drip,2.73
+Rice,Surat,Red,1204.6,32.3,65.9,65.7,42.6,65.9,7.51,Summer,Drip,5.32
+Maize,Ahmedabad,Black,1079.9,20.4,84.2,78.6,14.6,113.4,7.26,Rabi,Rainfed,4.59
+Rice,Amreli,Alluvial,846.4,25.8,79.1,29.2,66.5,56.3,6.32,Summer,Drip,5.69
+Wheat,Surat,Red,597.9,13.1,63.4,36.5,63.7,117.8,7.1,Rabi,Canal,4.81
+Cotton,Bhavnagar,Alluvial,1246.7,34.4,66.5,36.4,16.6,103.5,5.53,Kharif,Drip,3.4
+Barley,Surat,Black,610.5,23.1,49.8,120.5,61.5,56.7,6.77,Rabi,Sprinkler,5.37
+Wheat,Surat,Sandy,731.3,21.9,72.3,105.6,56.8,109.8,7.99,Rabi,Rainfed,4.87
+Rice,Vadodara,Clay,1574.2,26.0,72.0,67.9,72.8,66.2,6.15,Summer,Canal,5.28
+Maize,Rajkot,Alluvial,1087.5,21.3,65.3,122.6,24.2,70.9,6.57,Kharif,Canal,5.43
+Maize,Surat,Sandy,617.3,22.9,77.7,95.2,45.6,24.6,7.36,Rabi,Drip,5.52
+Maize,Junagadh,Sandy,1278.0,22.0,71.5,137.5,57.6,91.1,6.84,Rabi,Rainfed,4.32
+Cotton,Vadodara,Black,1454.9,26.4,78.1,63.1,55.3,40.0,8.47,Kharif,Canal,3.47
+Barley,Rajkot,Alluvial,454.3,15.2,72.2,104.3,71.5,54.6,8.23,Rabi,Drip,5.01
+Wheat,Bhavnagar,Alluvial,757.4,23.7,41.9,113.1,59.1,22.3,7.03,Rabi,Drip,5.92
+Wheat,Surat,Sandy,563.1,21.4,57.1,30.7,41.0,24.9,6.07,Rabi,Rainfed,4.43
+Maize,Surat,Black,821.9,28.5,71.7,75.2,25.5,46.9,7.36,Kharif,Drip,6.01
+Soybean,Bhavnagar,Black,565.8,26.3,81.0,63.8,61.8,39.3,7.18,Kharif,Drip,4.84
+Rice,Bhavnagar,Black,848.6,31.7,80.8,54.6,75.2,45.5,8.47,Kharif,Drip,5.33
+Rice,Junagadh,Red,2066.0,33.1,71.9,67.1,31.5,118.4,8.06,Kharif,Canal,3.3
+Barley,Junagadh,Clay,578.7,16.2,41.7,109.3,69.7,85.4,7.43,Rabi,Canal,4.92
+Wheat,Ahmedabad,Clay,406.1,12.9,52.2,116.6,83.5,109.2,8.26,Rabi,Drip,4.72
+Barley,Ahmedabad,Clay,497.0,15.3,58.0,58.6,22.3,62.6,8.12,Rabi,Drip,4.6
+Soybean,Surat,Red,650.3,26.1,66.2,99.2,73.6,93.9,8.33,Kharif,Sprinkler,3.94
+Rice,Vadodara,Sandy,1438.1,23.1,65.4,93.1,15.2,54.9,5.51,Kharif,Sprinkler,4.5
+Rice,Ahmedabad,Red,981.3,33.8,87.4,44.2,37.3,116.5,7.28,Summer,Tube Well,4.75
+Wheat,Bhavnagar,Clay,612.3,25.8,65.1,98.9,55.6,119.7,8.44,Rabi,Drip,5.04
+Cotton,Surat,Red,1447.0,28.0,80.9,52.8,84.1,66.5,8.03,Kharif,Sprinkler,4.01
+Wheat,Vadodara,Red,624.1,17.1,70.9,33.5,49.0,35.4,8.08,Rabi,Rainfed,4.49
+Cotton,Junagadh,Sandy,1968.2,32.5,78.8,71.5,81.8,45.3,6.25,Kharif,Tube Well,2.06
+Cotton,Rajkot,Red,1131.9,32.8,72.2,107.5,30.2,56.5,8.45,Kharif,Drip,3.58
+Soybean,Rajkot,Clay,598.7,24.9,63.3,103.4,75.4,72.1,5.6,Kharif,Drip,4.43
+Maize,Junagadh,Red,974.3,23.2,84.6,56.3,32.2,105.8,5.51,Kharif,Drip,5.43
+Maize,Surat,Red,1337.0,19.7,58.1,128.4,24.2,86.6,7.09,Rabi,Sprinkler,4.14
+Maize,Ahmedabad,Red,951.1,27.8,52.5,132.6,46.7,113.5,5.82,Rabi,Drip,6.02
+Barley,Surat,Red,652.3,13.1,73.0,31.9,78.4,15.0,8.15,Rabi,Tube Well,3.88
+Wheat,Amreli,Red,834.4,19.5,70.0,52.5,70.4,75.3,5.65,Rabi,Drip,5.21
+Cotton,Ahmedabad,Alluvial,1302.8,27.4,79.2,92.0,55.7,19.1,7.75,Kharif,Canal,4.22
+Barley,Ahmedabad,Sandy,430.4,23.7,54.9,46.6,16.9,58.8,7.35,Rabi,Sprinkler,4.07
+Maize,Surat,Black,1098.5,21.7,54.1,21.9,18.6,45.7,7.16,Kharif,Rainfed,4.74
+Barley,Vadodara,Clay,395.9,22.8,41.7,106.1,82.9,51.4,5.81,Rabi,Rainfed,4.28
+Cotton,Bhavnagar,Clay,957.8,30.8,87.0,67.2,67.7,49.1,7.87,Kharif,Canal,3.57
+Wheat,Bhavnagar,Black,864.3,21.7,47.7,93.8,79.6,88.1,6.23,Rabi,Rainfed,5.2
+Cotton,Vadodara,Black,1949.2,24.5,86.0,23.3,65.7,115.8,6.02,Kharif,Canal,2.85
+Soybean,Ahmedabad,Clay,1309.4,28.2,74.9,65.8,82.9,44.1,6.12,Kharif,Rainfed,3.0
+Rice,Ahmedabad,Sandy,1939.3,33.4,82.6,111.3,24.6,32.8,8.09,Summer,Sprinkler,3.25
+Soybean,Surat,Red,945.9,31.2,81.2,89.2,84.7,48.9,6.6,Kharif,Drip,4.4
+Rice,Surat,Red,1882.9,24.1,78.3,41.2,63.0,31.6,8.21,Summer,Tube Well,3.92
+Soybean,Rajkot,Clay,793.8,31.1,63.7,72.7,73.8,24.8,6.05,Kharif,Rainfed,3.76
+Cotton,Junagadh,Alluvial,2024.2,26.8,74.8,24.2,62.1,71.2,6.88,Kharif,Sprinkler,2.45
+Maize,Junagadh,Clay,944.2,23.8,54.7,39.6,37.4,74.0,7.28,Rabi,Drip,5.79
+Soybean,Vadodara,Clay,857.9,27.5,81.2,24.9,15.7,49.1,6.2,Kharif,Sprinkler,3.84
+Wheat,Vadodara,Clay,694.2,15.5,48.5,134.8,46.9,18.1,6.52,Rabi,Drip,5.28
+Barley,Junagadh,Red,594.4,13.5,61.7,94.4,13.0,45.5,6.74,Rabi,Sprinkler,3.86
+Soybean,Rajkot,Alluvial,796.4,23.2,51.4,59.2,81.1,17.7,6.72,Kharif,Tube Well,4.33
+Rice,Ahmedabad,Black,1592.4,31.9,87.3,102.6,37.0,26.7,6.35,Kharif,Rainfed,5.01
+Barley,Amreli,Sandy,774.6,25.3,44.1,60.2,35.6,30.9,7.93,Rabi,Sprinkler,3.72
+Barley,Ahmedabad,Sandy,889.2,24.9,65.1,71.1,25.2,38.3,6.83,Rabi,Canal,3.88
+Wheat,Surat,Red,671.3,17.4,41.2,68.3,83.6,45.8,6.47,Rabi,Canal,5.55
+Barley,Amreli,Black,828.6,24.5,62.5,83.1,36.5,117.9,6.46,Rabi,Drip,5.01
+Maize,Rajkot,Clay,1344.0,18.1,70.0,106.1,69.6,110.0,5.51,Rabi,Rainfed,3.69
+Cotton,Bhavnagar,Alluvial,2164.3,25.1,79.2,27.3,51.8,54.9,5.63,Kharif,Sprinkler,1.78
+Soybean,Amreli,Black,1388.6,29.1,84.8,136.2,49.2,88.1,5.83,Kharif,Drip,3.47
+Barley,Rajkot,Red,712.8,21.1,45.7,50.7,29.8,115.8,5.7,Rabi,Canal,4.79
+Rice,Ahmedabad,Sandy,1618.3,27.5,68.3,127.5,12.8,105.6,6.58,Kharif,Canal,5.0
+Maize,Surat,Red,1155.9,31.9,77.9,61.0,82.0,20.4,7.68,Kharif,Rainfed,4.82
+Wheat,Ahmedabad,Alluvial,379.4,21.6,42.6,44.4,17.4,21.6,6.3,Rabi,Canal,5.47
+Maize,Junagadh,Alluvial,1293.9,22.9,69.3,97.1,43.2,109.9,6.59,Rabi,Canal,5.22
+Wheat,Vadodara,Clay,870.4,15.9,60.8,102.8,41.4,107.4,8.44,Rabi,Canal,4.81
+Soybean,Surat,Red,975.1,26.3,69.9,34.0,55.6,32.7,7.49,Kharif,Rainfed,3.79
+Wheat,Surat,Red,568.9,15.2,51.8,139.8,76.0,107.8,8.31,Rabi,Tube Well,4.81
+Soybean,Rajkot,Black,1229.1,18.2,81.7,47.2,66.5,73.1,7.11,Kharif,Rainfed,2.04
+Wheat,Bhavnagar,Red,849.2,12.8,47.2,77.2,44.5,82.3,8.33,Rabi,Drip,4.57
+Barley,Surat,Clay,455.8,24.5,73.8,77.4,18.3,97.5,7.59,Rabi,Canal,4.67
+Rice,Ahmedabad,Red,2097.5,31.9,69.6,67.2,14.5,60.4,7.83,Summer,Canal,3.57
+Rice,Amreli,Sandy,1343.5,27.9,90.0,77.1,89.0,61.2,7.45,Summer,Rainfed,5.1
+Rice,Amreli,Alluvial,1614.6,31.9,90.8,138.4,30.0,34.0,6.89,Kharif,Drip,5.62
+Wheat,Junagadh,Sandy,727.3,15.8,44.3,65.9,76.7,51.5,5.6,Rabi,Drip,4.94
+Rice,Vadodara,Black,1684.4,32.7,88.4,112.4,28.1,117.4,8.49,Summer,Tube Well,4.76
+Wheat,Vadodara,Alluvial,477.0,17.6,60.8,85.4,29.6,108.6,5.83,Rabi,Tube Well,5.44
+Cotton,Amreli,Black,2004.0,27.0,74.7,82.0,13.7,114.3,5.93,Kharif,Sprinkler,2.65
+Maize,Ahmedabad,Sandy,1210.3,31.5,71.3,60.1,76.1,45.6,5.99,Kharif,Canal,5.08
+Cotton,Vadodara,Red,2000.1,22.8,84.9,114.2,88.6,54.3,6.01,Kharif,Canal,2.72
+Maize,Vadodara,Clay,804.9,23.8,53.4,48.3,14.1,119.6,7.71,Kharif,Canal,5.49
+Cotton,Bhavnagar,Black,1895.1,35.4,82.4,101.8,37.0,55.1,7.7,Kharif,Canal,2.77
+Rice,Surat,Clay,915.8,29.3,91.5,86.2,59.3,110.3,7.65,Kharif,Canal,5.79
+Soybean,Amreli,Black,1060.3,18.5,50.6,58.4,25.7,100.4,8.03,Kharif,Canal,2.98
+Soybean,Rajkot,Sandy,728.3,27.3,73.6,57.6,66.1,55.7,5.5,Kharif,Canal,3.77
+Wheat,Vadodara,Black,815.3,16.4,57.7,98.0,35.8,19.3,6.99,Rabi,Rainfed,5.01
+Maize,Junagadh,Sandy,672.8,22.0,84.4,64.8,72.7,61.9,8.09,Rabi,Drip,5.31
+Cotton,Junagadh,Clay,1641.6,26.2,91.7,111.8,39.6,32.5,5.53,Kharif,Drip,3.34
+Cotton,Bhavnagar,Alluvial,1452.6,32.5,70.3,21.6,43.4,84.9,7.02,Kharif,Drip,3.85
+Barley,Junagadh,Sandy,670.9,16.9,69.5,63.3,30.8,105.0,6.62,Rabi,Canal,4.56
+Barley,Surat,Alluvial,710.0,15.6,55.1,26.8,57.0,94.4,6.74,Rabi,Sprinkler,4.65
+Barley,Bhavnagar,Black,614.9,19.4,73.2,28.8,58.0,70.3,7.05,Rabi,Tube Well,4.91
+Wheat,Junagadh,Alluvial,372.4,21.4,52.1,22.1,30.1,47.5,7.35,Rabi,Rainfed,4.85
+Barley,Junagadh,Clay,575.8,17.4,64.5,21.2,37.0,46.8,8.1,Rabi,Rainfed,3.82
+Maize,Vadodara,Alluvial,1310.2,22.5,72.8,105.0,72.3,74.2,6.71,Rabi,Drip,5.53
+Rice,Bhavnagar,Black,1800.6,29.3,85.5,52.3,57.9,61.6,7.29,Kharif,Rainfed,4.92
+Rice,Vadodara,Alluvial,1163.9,26.2,84.8,103.5,66.3,86.7,6.68,Kharif,Sprinkler,5.91
+Wheat,Ahmedabad,Black,401.3,25.1,68.9,122.9,82.5,57.9,8.04,Rabi,Sprinkler,5.0
+Wheat,Bhavnagar,Sandy,391.1,25.8,63.6,110.4,29.7,85.8,5.63,Rabi,Sprinkler,4.22
+Barley,Junagadh,Red,669.7,19.3,68.6,109.9,42.0,23.7,7.81,Rabi,Sprinkler,4.82
+Barley,Ahmedabad,Red,813.8,20.1,71.2,78.2,84.1,52.2,7.67,Rabi,Rainfed,4.8
+Barley,Junagadh,Red,466.8,13.0,61.6,134.2,34.9,76.0,8.36,Rabi,Rainfed,3.42
+Cotton,Surat,Clay,1050.5,28.9,76.0,76.5,74.1,63.4,5.69,Kharif,Drip,4.19
+Maize,Ahmedabad,Black,604.8,30.3,65.4,95.0,49.2,106.6,7.14,Rabi,Canal,6.56
+Barley,Amreli,Black,417.5,12.5,51.2,52.9,42.6,116.0,7.07,Rabi,Canal,4.28
+Maize,Ahmedabad,Sandy,784.7,20.3,64.3,99.4,60.7,55.2,7.34,Kharif,Drip,5.13
+Cotton,Amreli,Clay,1862.0,29.6,84.5,82.0,89.3,20.7,6.97,Kharif,Canal,3.08
+Soybean,Bhavnagar,Clay,567.2,23.6,50.1,81.3,25.5,106.2,5.81,Kharif,Tube Well,3.91
+Wheat,Surat,Black,638.2,20.5,74.9,55.9,36.0,34.2,8.19,Rabi,Canal,5.19
+Wheat,Surat,Clay,440.7,19.3,49.4,119.5,10.5,38.4,7.32,Rabi,Drip,5.55
+Wheat,Surat,Sandy,499.0,12.6,52.8,65.6,74.4,83.6,6.81,Rabi,Tube Well,4.14
+Maize,Vadodara,Red,761.9,18.8,51.6,44.6,28.6,58.6,6.14,Kharif,Drip,4.8
+Rice,Rajkot,Clay,1459.7,34.4,79.0,69.7,56.2,42.0,6.56,Summer,Tube Well,5.07
+Wheat,Surat,Sandy,669.6,23.4,54.8,128.4,48.7,75.3,6.98,Rabi,Drip,4.98
+Rice,Amreli,Sandy,1430.3,25.2,75.8,22.6,86.3,58.7,7.87,Summer,Tube Well,4.81
+Barley,Bhavnagar,Red,846.8,14.3,56.7,94.4,57.7,105.4,6.15,Rabi,Drip,4.54
+Soybean,Vadodara,Black,518.7,23.5,82.9,124.6,50.9,74.3,5.52,Kharif,Sprinkler,4.12
+Wheat,Surat,Red,695.2,24.6,65.1,61.8,57.0,47.6,8.5,Rabi,Canal,4.77
+Cotton,Surat,Alluvial,1853.7,24.4,89.9,86.2,88.8,90.5,5.75,Kharif,Canal,3.43
+Maize,Junagadh,Red,1145.8,22.4,77.4,41.0,72.6,84.7,7.55,Kharif,Drip,4.78
+Wheat,Bhavnagar,Black,818.4,12.8,45.2,89.2,69.2,23.0,8.26,Rabi,Sprinkler,4.56
+Barley,Vadodara,Red,706.8,16.5,72.4,74.6,31.3,57.9,7.58,Rabi,Rainfed,4.36
+Maize,Amreli,Sandy,1186.3,28.3,78.5,23.9,13.8,97.9,7.1,Rabi,Canal,4.75
+Soybean,Vadodara,Red,1325.3,25.0,69.1,120.0,53.0,69.3,8.22,Kharif,Drip,3.43
+Maize,Junagadh,Black,1258.2,19.6,77.8,42.0,74.6,79.3,6.08,Kharif,Canal,4.85
+Soybean,Ahmedabad,Clay,955.3,18.9,82.3,41.3,52.3,99.4,6.15,Kharif,Tube Well,2.82
+Cotton,Vadodara,Alluvial,1863.6,29.9,90.7,127.3,61.9,91.2,7.15,Kharif,Canal,3.92
+Wheat,Junagadh,Sandy,563.6,18.1,42.6,79.8,49.5,76.8,6.59,Rabi,Drip,5.03
+Rice,Amreli,Red,1519.8,31.6,67.3,73.9,17.6,77.9,6.34,Kharif,Rainfed,4.83
+Wheat,Rajkot,Alluvial,735.0,23.6,67.7,125.9,87.4,61.1,8.35,Rabi,Drip,5.56
+Maize,Ahmedabad,Red,1248.7,28.6,68.1,97.7,42.5,70.7,7.02,Rabi,Sprinkler,5.34
+Soybean,Junagadh,Sandy,959.9,19.1,70.6,23.8,18.5,72.7,7.27,Kharif,Canal,2.66
+Cotton,Amreli,Red,1099.7,30.3,67.8,44.3,34.8,92.8,5.57,Kharif,Rainfed,3.12
+Soybean,Amreli,Black,1307.4,18.2,74.5,134.6,66.5,119.4,7.56,Kharif,Drip,2.59
+Rice,Rajkot,Red,941.9,27.4,91.4,137.7,41.4,108.1,7.03,Kharif,Canal,5.59
+Cotton,Bhavnagar,Red,1529.4,30.7,67.7,71.9,28.2,41.7,7.01,Kharif,Canal,3.66
+Maize,Junagadh,Clay,985.5,24.0,84.0,87.2,30.3,39.2,7.33,Kharif,Drip,5.82
+Barley,Rajkot,Sandy,714.0,13.0,52.7,132.2,79.0,45.0,5.97,Rabi,Rainfed,3.59
+Soybean,Ahmedabad,Alluvial,736.8,24.6,80.7,29.6,75.7,75.0,5.6,Kharif,Drip,4.33
+Barley,Ahmedabad,Clay,802.4,21.3,45.7,108.1,68.2,59.6,8.27,Rabi,Tube Well,4.73
