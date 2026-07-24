@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriVision AI | Precision Crop Recommendation System</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Chart.js for Radar & Bar charts -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <!-- Background Glow Effect -->
+    <div class="bg-ambient glow-1"></div>
+    <div class="bg-ambient glow-2"></div>
+
+    <!-- Navigation Bar -->
+    <header class="navbar">
+        <div class="brand">
+            <div class="brand-icon"><i class="fa-solid fa-leaf"></i></div>
+            <div class="brand-text">
+                <span class="title">AgriVision AI</span>
+                <span class="subtitle">Soil-to-Crop Intelligence Engine</span>
+            </div>
+        </div>
+        <div class="nav-badges">
+            <span class="status-badge" id="api-status-badge"><i class="fa-solid fa-circle-dot"></i> Model Active</span>
+            <span class="accuracy-badge"><i class="fa-solid fa-bullseye"></i> 99.5% Accuracy</span>
+        </div>
+    </header>
+
+    <!-- Main Workspace Grid -->
+    <main class="dashboard-grid">
+
+        <!-- Left Column: Input Form & Soil Presets -->
+        <section class="panel input-panel">
+            <div class="panel-header">
+                <h2><i class="fa-solid fa-flask-vial"></i> Soil & Climate Analysis</h2>
+                <p>Adjust soil nutrients and weather metrics or pick a quick preset scenario.</p>
+            </div>
+
+            <!-- Quick Presets -->
+            <div class="preset-section">
+                <span class="preset-label"><i class="fa-solid fa-wand-magic-sparkles"></i> Quick Presets:</span>
+                <div class="preset-pills">
+                    <button class="preset-btn" onclick="applyPreset('rice')">Rice / Wetland</button>
+                    <button class="preset-btn" onclick="applyPreset('cotton')">Cotton Soil</button>
+                    <button class="preset-btn" onclick="applyPreset('grapes')">Potassium-Rich (Grapes)</button>
+                    <button class="preset-btn" onclick="applyPreset('arid')">Arid / Sandy</button>
+                </div>
+            </div>
+
+            <form id="prediction-form" class="param-form">
+                
+                <!-- Nutrients Group (N, P, K) -->
+                <div class="group-title"><i class="fa-solid fa-seedling"></i> Soil Macro-Nutrients</div>
+                <div class="slider-grid">
+                    
+                    <!-- Nitrogen (N) -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-N"><span class="elem-badge n-badge">N</span> Nitrogen</label>
+                            <span class="value-display" id="val-N">90 <small>kg/ha</small></span>
+                        </div>
+                        <input type="range" id="input-N" min="0" max="140" value="90" step="1" oninput="syncVal('N', this.value)">
+                        <div class="range-labels"><span>0</span><span>70</span><span>140</span></div>
+                    </div>
+
+                    <!-- Phosphorus (P) -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-P"><span class="elem-badge p-badge">P</span> Phosphorus</label>
+                            <span class="value-display" id="val-P">42 <small>kg/ha</small></span>
+                        </div>
+                        <input type="range" id="input-P" min="5" max="145" value="42" step="1" oninput="syncVal('P', this.value)">
+                        <div class="range-labels"><span>5</span><span>75</span><span>145</span></div>
+                    </div>
+
+                    <!-- Potassium (K) -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-K"><span class="elem-badge k-badge">K</span> Potassium</label>
+                            <span class="value-display" id="val-K">43 <small>kg/ha</small></span>
+                        </div>
+                        <input type="range" id="input-K" min="5" max="205" value="43" step="1" oninput="syncVal('K', this.value)">
+                        <div class="range-labels"><span>5</span><span>100</span><span>205</span></div>
+                    </div>
+
+                    <!-- Soil pH -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-ph"><span class="elem-badge ph-badge">pH</span> Soil pH</label>
+                            <span class="value-display" id="val-ph">6.5</span>
+                        </div>
+                        <input type="range" id="input-ph" min="3.5" max="10.0" value="6.5" step="0.1" oninput="syncVal('ph', this.value)">
+                        <div class="range-labels"><span>Acidic (3.5)</span><span>Neutral</span><span>Alkaline (10)</span></div>
+                    </div>
+                </div>
+
+                <!-- Climate Group (Temp, Humidity, Rain) -->
+                <div class="group-title"><i class="fa-solid fa-cloud-sun-rain"></i> Environmental Conditions</div>
+                <div class="slider-grid">
+
+                    <!-- Temperature -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-temperature"><i class="fa-solid fa-temperature-half icon-temp"></i> Temperature</label>
+                            <span class="value-display" id="val-temperature">23.5 <small>°C</small></span>
+                        </div>
+                        <input type="range" id="input-temperature" min="8" max="45" value="23.5" step="0.5" oninput="syncVal('temperature', this.value)">
+                        <div class="range-labels"><span>8°C</span><span>26°C</span><span>45°C</span></div>
+                    </div>
+
+                    <!-- Humidity -->
+                    <div class="input-card">
+                        <div class="card-top">
+                            <label for="input-humidity"><i class="fa-solid fa-droplet icon-hum"></i> Humidity</label>
+                            <span class="value-display" id="val-humidity">82 <small>%</small></span>
+                        </div>
+                        <input type="range" id="input-humidity" min="10" max="100" value="82" step="1" oninput="syncVal('humidity', this.value)">
+                        <div class="range-labels"><span>10%</span><span>55%</span><span>100%</span></div>
+                    </div>
+
+                    <!-- Rainfall -->
+                    <div class="input-card full-width">
+                        <div class="card-top">
+                            <label for="input-rainfall"><i class="fa-solid fa-cloud-showers-heavy icon-rain"></i> Annual Rainfall</label>
+                            <span class="value-display" id="val-rainfall">202 <small>mm</small></span>
+                        </div>
+                        <input type="range" id="input-rainfall" min="20" max="300" value="202" step="1" oninput="syncVal('rainfall', this.value)">
+                        <div class="range-labels"><span>Arid (20mm)</span><span>Moderate</span><span>Heavy (300mm)</span></div>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn" id="analyze-btn">
+                    <span><i class="fa-solid fa-microchip"></i> Run Precision Recommendation</span>
+                </button>
+            </form>
+        </section>
+
+        <!-- Right Column: Model Output & Visualization -->
+        <section class="panel result-panel">
+
+            <!-- Primary Crop Recommendation Hero Card -->
+            <div class="hero-card" id="hero-recommendation">
+                <div class="hero-header">
+                    <span class="hero-tag"><i class="fa-solid fa-award"></i> Optimal Recommended Crop</span>
+                    <span class="confidence-badge" id="hero-confidence">--% Match</span>
+                </div>
+                
+                <div class="hero-body">
+                    <div class="crop-avatar" id="hero-icon"><i class="fa-solid fa-wheat-awn"></i></div>
+                    <div class="crop-info">
+                        <h1 class="crop-title" id="hero-crop-name">Analyzing Soil...</h1>
+                        <div class="crop-meta">
+                            <span class="meta-item"><i class="fa-solid fa-layer-group"></i> <span id="hero-category">--</span></span>
+                            <span class="meta-item"><i class="fa-solid fa-calendar-days"></i> <span id="hero-season">--</span></span>
+                        </div>
+                        <p class="crop-desc" id="hero-description">Click Run Recommendation to evaluate your soil parameters against trained Random Forest models.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Soil Radar Chart & Alternative Matches Split -->
+            <div class="viz-grid">
+                
+                <!-- Chart Box -->
+                <div class="card-box chart-box">
+                    <h3><i class="fa-solid fa-chart-radar"></i> Soil Profile vs Crop Optimum</h3>
+                    <div class="chart-wrapper">
+                        <canvas id="soilRadarChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Alternatives Box -->
+                <div class="card-box alt-box">
+                    <h3><i class="fa-solid fa-list-check"></i> Alternative Crop Matches</h3>
+                    <div class="alt-list" id="alt-list-container">
+                        <div class="alt-placeholder">Run analysis to view runner-up candidates.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Optimal Parameters Spec Grid -->
+            <div class="card-box spec-box">
+                <h3><i class="fa-solid fa-sliders"></i> Soil Match Index vs Target Requirements</h3>
+                <div class="spec-grid" id="spec-grid-container">
+                    <div class="spec-tile"><span>Nitrogen</span><strong id="spec-N">-- / 80</strong></div>
+                    <div class="spec-tile"><span>Phosphorus</span><strong id="spec-P">-- / 48</strong></div>
+                    <div class="spec-tile"><span>Potassium</span><strong id="spec-K">-- / 40</strong></div>
+                    <div class="spec-tile"><span>pH Level</span><strong id="spec-ph">-- / 6.5</strong></div>
+                    <div class="spec-tile"><span>Temp</span><strong id="spec-temp">-- / 23°C</strong></div>
+                    <div class="spec-tile"><span>Rainfall</span><strong id="spec-rain">-- / 240mm</strong></div>
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>AgriVision AI Engine &bull; Built with Machine Learning & FastAPI &bull; Crop Recommendation System</p>
+    </footer>
+
+    <!-- Script -->
+    <script src="/static/script.js"></script>
+</body>
+</html>
